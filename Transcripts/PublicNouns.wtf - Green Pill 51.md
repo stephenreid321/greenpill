@@ -1,0 +1,1124 @@
+---
+youtube_id: g3ocz7CpPys
+tags: transcript
+---
+
+foreign
+[music]
+ation how you doing on the pod today we
+have public nouns so that's a nouns fork
+that is a new experimental way to fund
+[[public good|public goods]] in the ethereum ecosystem
+basically it's a nouns derivative and if
+you don't know what that means then
+you'll learn it in the episode basically
+one public noun which is basically an
+avatar being auctioned off every 12
+hours forever right now they're raising
+40th every 12 hours which is quite
+impressive i've been involved in a lot
+of [[public good|public goods]] funding conversations
+they don't usually get off with this
+much of a bang and on the pod we have
+vengeist skye and niche from the now
+public nouns project to talk about
+public nouns so nouns has proven to be a
+strong mechanism for continuous funding
+along a simple and effective governance
+framework and this is a collaboration of
+people from the projects like metacartel
+panvolo radical optimism clr fund get
+coin and moloch that are focused on an
+experimental way of funding [[public good|public goods]]
+using noun style auctions so on this
+episode we talk about the nouns
+ecosystem we talk about public nouns and
+its relation to the nouns ecosystem how
+it derives value from all the different
+nouns forks that are out there that are
+also building tools for nouns dowels we
+talk about the future of [[public good|public goods]]
+funding which is quite an interesting
+discussion something that i'm interested
+in is how do we build scalable recurring
+legitimate funding that is deeply weld
+for [[public good|public goods]] so kind of a fun
+conversation because this is the tip of
+the sphere on [[public good|public goods]] funding it's
+not going out hat in hand raising money
+for [[public good|public goods]] it's actually
+auctioning off these psps in order to
+support [[public good|public goods]] so public nouns.wtf
+is the website and vengist skye and
+niche are the people who are on the pod
+today to talk about it so without
+further ado i give you public nouns.wtf
+coin shift is a leading treasury
+management an infrastructure platform
+for dows and crypto businesses that need
+to manage their treasury operations
+every crypto org needs to manage this
+treasury and coinshift offers a simple
+flexible and efficient multi-chain
+treasury management platform built on
+top of the highly secure gnosis safe
+with coin shift your organization can go
+from primitive single chain treasury
+management to expressive flexible and
+multi-chain treasury features such as
+global user management global contacts
+proposal management and many other
+features that can be shared across an
+entire organization allowing users to
+save time and reduce operational burdens
+and gas costs coinshift even has data
+tools like account reporting across the
+seven chains on which it operates used
+by industry powerhouses such as uniswap
+grants balancer consensus and massari
+coin shift is speeding up their
+coordination and efficiency of the
+organizations that use it you have to
+keep up with the frontier and coin shift
+makes that easy so sign up at
+coinshift.xyz slash bankless the world
+has woken up to refi and cello is here
+for it cello is the layer one for the
+[[regenerative finance]] movement it's fast
+planet positive and built for the real
+world celo has committed to producing a
+sustainable future from day one and has
+built its technology around one of the
+lowest carbon in impacts consensus
+mechanisms and is the world's first
+carbon negative evm compatible layer 1
+blockchain cello is a movement to create
+the conditions of prosperity for
+everyone whether it's tokenizing carbon
+credits with toucan providing capital to
+underserved communities with unicorn or
+building for millions of users around
+the globe cello was created to transform
+crypto enthusiasts into a movement of
+change makers follow along on twitter at
+celloorg to learn more about how cello
+is accelerating refi for a positive
+lasting impact on people communities and
+the planet and if you're a builder
+interested in refi be sure to join the
+build with cello hackathon live now with
+a prize pool of over a hundred thousand
+dollars what's up y'all
+okay yeah
+what's up
+gm all right so uh this is a this is the
+crew that that was involved in public
+nouns so wtf is public nouns
+yeah what the is public nouns i
+mean i feel like just like historically
+is probably how it emerged probably
+makes the most sense at least to me but
+uh but i mean the tldr you know it is a
+announce extension uh just like a fork
+of nouns uh that you know aims to bend
+the incentive uh away from just that
+pure meme of nouns to uh supporting
+[[public good|public goods]] basically
+but yeah yeah it started i'd say it
+started with a group of people
+um these people are mostly in the public
+goods related space and and uh nearby
+spaces and we actually were quite
+interested in nouns in general and maybe
+even acquiring a noun and we started on
+that on that journey and it very quickly
+uh turned into getting more people from
+the [[public good]] space involved in the
+project and originally we were going to
+like buy a noun in order to ask for
+funding to create public nouns and then
+we're like that doesn't really make
+sense like we don't need that funding we
+don't need to buy a noun to start public
+nouns so we just went on the path of uh
+yes just starting public nouns and and
+defining it and over of course a few
+months at dao palace and on and discord
+and telegrams we brought more people
+from different projects in the public
+good space and related into the group
+and then we kind of organized the the
+initial co-organizers who helped launch
+it
+um which is like seven organizations but
+with a plan to bring more and more
+organizations uh in over time through
+like curation and as the as the as the
+public nouns dow grows to yeah to add to
+that is just um it's just another
+mechanism by which we can fund public
+goods which is why uh it's like the
+first nft project that i've been that i
+got excited about
+um in a while
+um so that's why i you know decided to
+jump in
+yeah
+and this you uh you're one of the early
+hodlers of of public nouns is that right
+uh yeah i think i i got the first
+the first one with the panvala stamp
+head
+so that was exciting
+got it and what excited you about public
+nouns as opposed to the litany of other
+nft projects out there yeah i mean like
+um a final nfts in general as like
+cultural artifacts
+um for us to propagate memes and brands
+um so as we saw with the like the 10k
+pfp boom like it's been a visceral way
+for us to form a sense of like identity
+and belonging as as part of a collective
+um but
+uh yeah like what we've seen with those
+like other sort of 10k pfp ones was that
+it kind of reflects this thing in crypto
+where like an opportunity to join
+um to join exist in like a really narrow
+uh time window where you just happen to
+be a part of the ethereum crowd sale you
+just happen to be a part of you know the
+year and telegram group where the drop
+happened or like the crypto punks meant
+um so i think like the noun-ish sort of
+distribution model was um an interesting
+way to like perpetually fund a treasury
+um and so like this infinite aspect if
+it was interesting to me and then also
+of course like this orientation towards
+um [[public good|public goods]]
+um was a way to kind of like what what
+drove me to um actually jump in as
+opposed to like observing it from the
+sidelines
+yeah that is like why we got i think or
+at least a lot of us got uh excited
+about nouns in the first place really is
+like the governance elements of it which
+is you know which is the
+self-perpetuating uh treasury that has
+built-in governance in it basically like
+when you participate in it uh amine
+called it he was like what is this like
+molecued out with nfts and i was like
+yeah basically uh where you you know you
+put in ethan you get immediate power in
+a dow you know so like in the nouns case
+that's obviously been wildly prolific
+um and here it was just kind of like
+turning that into experiment of like
+well can we just add this incentive of
+like we're gonna do this now like nisha
+is like with this like you know ongoing
+uh auction so it's like this nice
+cadence of of community growth but like
+there's actually a purpose to this
+community which is like to support
+[[public good|public goods]] uh however we can you know
+not just with funding but
+um you know i like to think that we've
+already contributed to [[public good|public goods]] even
+before the first auction was settled you
+know like uh this course has already
+been raised in places where you know
+maybe [[public good|public goods]] work being talked
+about but they weren't being talked
+about to the degree that they are now
+already which is really interesting uh
+and like various things like that so
+um yeah it's really cool though the
+governance element in funneling into the
+uh the purpose of supporting public
+goods once you get there is like super
+cool
+and one way to think about it is there
+are a lot of people in the space like
+and he's just mentioned but kevin maybe
+yourself
+people like vitalik there's a there's a
+whole bunch of people out there in our
+space that obviously like [[public good|public goods]]
+and they see nfts out there but
+like my personal opinion would be like i
+don't think
+um metallic would ever buy a noun like i
+i don't mind i don't think he minds that
+they exist but like he doesn't buy a
+board ape he doesn't buy a noun but if
+you think about what public nouns is i
+think it's yeah it's an nft related
+project with a tie to [[public good|public goods]] which
+is also if you buy this thing it is you
+know can be used as almost a badge of
+support for something that you want to
+show public support for
+and so it's almost like that badge but
+it can be used as your profile as well
+and like it's almost built for someone
+like vitalik um you know you could see
+vitalik buying an optimism uh possum
+public now which would be super cool
+um and so the other cool thing is you
+have these communities which are already
+built and then you have
+um different public noun heads from each
+of those communities and and that has an
+automatic attraction by the people from
+those communities who already love
+[[public good|public goods]] and now they have a reason
+to buy an awesome nft that is like gets
+them governance in this cool experiment
+and they get to show their support by
+showing their their public now
+yeah there's like the three layers of
+engagement is cool it's like you could
+totally just get a public noun and and
+you sent east to a dao that you know
+their purpose is to fund [[public good|public goods]]
+that's cool and you have this pfp that's
+great
+um the next step if you don't want to
+participate in governance yourself you
+can delegate that power to literally
+anyone else in the world who you think
+would contribute to that conversation uh
+in governance uh or if you you know are
+someone who actually like wants to get
+in contribute as well then there you go
+you have that path as well so yeah
+there's like so many different ways that
+just by participating and battling in
+the auctions uh you can uh you're
+supporting [[public good|public goods]] even the bidding
+is just supporting [[public good|public goods]] so yeah
+so uh looking at public nouns.wtf it
+which is the site where you can see the
+public nouns uh looks like there's a
+bidding experience and then there's a
+new noun every 12 hours forever that is
+generated and it seems like the on-chain
+artwork is based off of the [[public good|public goods]]
+dows that this dial supports so
+metacartel pinball or radical optimism
+clr fund get coin and moloch so uh it
+looks like there's there's there's uh
+metacartel chili peppers there's molec
+devil head nouns there's bitcoin robots
+there's clr fun orbs there's radical
+plants and i think it's neat that every
+noun is kind of like a subtweet of the
+various dowels that are [[public good|public goods]]
+dolls that you all support
+yeah the other well the other so just to
+clarify that like sentence those
+organizations are not necessarily the um
+organizations that will be supported
+with the with like the treasury that
+goes into public now
+initial organizations who helped are a
+part of launching this this project but
+actually like this money that's in the
+treasury we don't actually see it like
+going specifically well it could it's up
+to the the public nouns dow but it's not
+like this is going to be donated
+specifically to certain [[public good|public goods]] out
+there what we think is more interesting
+is if this money is used to fund people
+and projects and crazy ideas that are
+that are new and that are people
+experimenting with in and around the
+[[public good]] space so like the meta
+example is public nounsdao would love to
+fund projects like public nounsdao right
+so like is public nouns now a public
+good i don't know not really like maybe
+but actually we want to experiment we
+want to actually fund more stuff more
+ like [[public good|public goods]] uh public nouns
+now yeah
+so is this the future of [[public good|public goods]]
+funding uh nft launches
+i mean we need all the different sources
+of funding possible right to public
+goods like that's the problem with
+public kids it's like the sourcing of
+funding and how funding can like alter
+its motives and purpose and value uh
+creation so i mean we need as many
+things as possible this is definitely a
+pretty radical example of it uh super
+fun so far and like the yeah the
+governance elements are really cool it's
+not just a thing that's you know an nft
+project that's raising money to a
+centralized treasury that is going to go
+to one thing you know it's really a dow
+that one can participate in and over
+time and help to like
+um you know raise awareness around
+[[public good|public goods]] in general and build new
+experiments together and and also
+funding you know lastly basically uh but
+uh yeah i mean i think it's going to
+exist alongside things like bitcoin and
+clr fund and radical and all that and
+and sort of it's like like a new avenue
+for different types of users to to come
+and and join and and fund [[public good|public goods]]
+um because you know like certain certain
+avenues feel more like a donation where
+it's like you're selecting you know from
+from a card of things and it's more
+passive certain things are more like
+active you know there's like doing good
+which is also you know a way for artists
+to launch collections and and fund um
+social impact projects on the side
+um and so like public nouns i think it's
+like a way for you know the people who
+um would be interested in like bidding
+for something that's
+um that gets released like in a very
+controlled manner like an nft to to join
+like the the excitement as part of that
+initial experience but also participate
+in governance uh moving forward and i
+think it's also like a nice uh
+governance experience as well
+um because you know one public noun
+equals one vote which is
+um you know there's like one token one
+vote in in the context of the rc 20s in
+in terms of like treasury governance
+thus far and then there's also you know
+uh like an ongoing effort to you know do
+uh to to launch
+um to do [[sybil resistance]] which is like
+one person one vote so i think one nft
+one vote is somewhere lies somewhere um
+between like in that spectrum so it's um
+yeah it's an interesting experiment to
+see how um how things are being governed
+um if it's like one of nft one vote yeah
+quadratic making it quadratic has
+actually been a suggestion from uh some
+people in nounsdale in like some of the
+public nouns here like eventually which
+is interesting to think about because
+it's not really too far off from the one
+to one but if you have like a lot of
+public nouns basically you just wouldn't
+be able to
+um you know really over exert your power
+basically so yeah i don't know it could
+be really interesting and yeah and that
+we've like we've already been talking
+about the different ways to bring
+identity obviously or proof of of
+uniqueness into that if we're going to
+you know go for something like quadratic
+so that you can't just like split up
+your nouns but um that's something the
+things that we also want to solve are
+like same similar issues that like nouns
+dao probably needs to solve in the long
+run and every derivation of nounsdale
+you know we are in touch with the nouns
+with now's dao people and you know
+what's cool is they also do [[public good|public goods]]
+like they've given some money towards
+the i believe the [[gitcoin grants|gitcoin grant]] round
+um but but they don't really have time
+to like focus
+only on [[public good|public goods]] right and so public
+nouns be an extension of nounsdale
+allows this mechanism to like really
+dive in and focus on us on a very
+specific vertical and i think we'll well
+we already there are other
+um nouns dow derivatives that are also
+doing that in other areas but we'll see
+that more and more um and then we can
+all also borrow all from each other so
+we're already going to start putting a
+lot of the tools that nounsdale has
+created for their community we're going
+to use those tools in our community and
+we're going to build new ones that
+they'll be able to use as well
+yeah it really is an incredible the
+nouns ecosystem is really incredible
+like yeah we've only really forked the
+first part but uh now that everybody's
+kind of getting involved there's kind of
+a lot of other things we should probably
+fork uh and get involved there's like
+the uh the fomo nouns mechanic uh fomo
+nouns dot what the which is where
+um you can go and vote at the at the
+time that the next noun is going to be
+minted you can like like the community
+can vote on which one it is basically or
+try to like upvote or down vote uh to
+kind of sway which one i think that
+could be an interesting mechanic in this
+uh [[public good|public goods]] space i think uh whether
+like communities are wanting like less
+or more of a particular one to make it
+you know uh yeah like there's lots of
+different things and then with the
+different communities like the different
+[[public good|public goods]] communities that are
+already as a part of public nouns and
+there will be more we've talked about
+some interesting things that could
+happen with like
+for good cartels within the public nouns
+ecosystem right like niche and her
+friends get together and you you have a
+stampy and you guys love panvala you're
+gonna like you may try really hard to
+drive like more experimental money into
+the panvala ecosystem versus you know
+kevin's gonna aim for the get coin
+ecosystem or something and so like you
+could have these weird cartels but
+they're all like four good cartels which
+is kind of crazy yeah
+cartels for good i think that should be
+a meme yeah
+um i think it's really interesting to
+see this pattern in the space in which
+you have these punctuated equilibriums
+and then it completely changes the game
+i mean molok dao for me just like
+everyone forked mo looked out and then
+there was a ecosystem of tools that were
+built around that uh when yam finance
+came out everyone sort of was building
+yam forks for a little while there's the
+ohm fork summer that we had and now it
+feels like we're in this nouns fork uh
+ecosystem build out and punctuated
+equilibrium and i i i think it's neat
+the the meta kind of changes every time
+one of these new things happens and then
+there's a ton of forks i'm wondering if
+if you have any comments on on that or
+uh i guess i'd just love to further dive
+deeper into the nouns ecosystem fomo
+nouns is really cool the fact that
+there's a builder where you can generate
+possible upcoming nouns is cool are
+there any other cool tools in the in the
+nouns ecosystem that you want to fork
+and bring into into public nouns and
+what is there relationship between
+public nouns and other nouns forks and
+nouns itself
+yeah i think we're definitely starting
+to build those relationships now we're
+trying to like reach out because we're
+real we're realizing we need some of
+these things uh so yeah if anybody's in
+the nouns ecosystem hit us up for sure
+uh but uh i don't know yeah there's a
+lot of cool stuff out there yes guy yeah
+yeah like there's tools to because these
+things are one every 12 hours right and
+not everyone has time to like every day
+look at these twice a day there are
+tools for auto bidding um from your
+community or from you as a person
+um there's ways to like better analyze
+what's what's out there and what people
+have obviously we're new and small so
+it's that's less important like the
+actual data at this point
+um there's fractalizing so there's
+already been some dows that have as a
+group acquired public nouns
+um and some other dows that have been
+bidding on public nouns and so then you
+get this really interesting
+um yeah there's not just individual
+people but you get teams of people that
+maybe can pull together and acquire
+these things and then they'll yeah in
+one in in one scenario
+um like there is probably going to be a
+malik dao that actually owns a like a
+set of public nouns and so you can
+actually just join that dial probably to
+to have influence in the public nouns
+ecosystem via holding and this is all
+stuff that happened with nouns like
+shark dao i think acquired two of the
+first five or six nouns
+um and so like this has been this has
+happened all along
+um and it it also it also opens the
+opportunity for people that might not be
+able to buy a full public noun
+themselves
+yeah and one cool thing that another
+really cool thing they have over there
+is uh prop house they call it which is
+where they like they i mean they do
+pretty big initiatives from nounsdale
+itself but then they send uh but they
+fund these other they fund this prop
+house basically where like a larger
+community can uh signal and vote on on
+smaller ad hoc proposals basically so
+they kind of like uh recurringly kind of
+fun fund that for to to do even more
+like uh throughout which is a really
+cool mechanism which definitely has been
+talked about with us as well there's
+obviously a lot of people who care about
+[[public good|public goods]] but you know there's only
+two per day so like you know how can i
+contribute and that kind of thing so i
+think that'll be one of the highest
+priority things for us to start looking
+into really is getting that kind of
+stuff up and running working in web3 is
+awesome it's freeing powerful and so
+much fun but working outside of the
+typical w-2 employee structure is a deal
+breaker for so many people opolis is
+helping the self-solving worker focus on
+what they do best their work well office
+manages the back there's a lot of
+nation-state overhead when working in
+web3 and opolis takes care of all of the
+back end stuff freeing you up to do what
+you do best your work opolis leverages
+group buying power through a community
+employment co-op helping you save 20 to
+50 on high quality affordable health
+care options through cigna so do what
+you love and maintain your financial
+security with opolis you must be
+authorized to work inside the united
+states to receive office's benefits but
+optus is expanding its services to
+canada starting on june 1st of next year
+so book a 30-minute free consultation
+with oculus experts and join opolis by
+december 31st to get a thousand work and
+a thousand bank tokens go to
+connect.opolis.com bankless to get
+started goldfinch is a decentralized
+credit protocol with a mission to
+connect the world's capital to the
+world's growth goldfinch focuses on real
+yields from real companies so you can
+stop worrying about the latest crypto
+ponzi and start lending your usdc to
+real businesses driving growth worldwide
+by lending to goldfinch you can can
+drive change by expanding access to d5's
+global potential goldfinches borrowers
+are proven fintech and credit funds in
+emerging markets who need access to
+goldfinches capital to drive economic
+growth in regions faced with barriers to
+financial access in just under two years
+goldfish has loaned over a hundred
+million uscc reaching over a million
+people in businesses across 28 countries
+with financing from the protocol's
+borrowers goldfinch is doing what d5 was
+always meant to do expanding financial
+access to those who have historically
+been shut out of the tradify system
+learn how you can put your uscc to work
+empowering real business growth
+worldwide at goldfinch.finance it seems
+like uh so prop house itself is kind of
+interesting it seems like uh it's
+basically where you go to submit
+proposals and get your projects that are
+noun-ish funded in in the mechanic there
+is is interesting so you all think that
+you might adopt that for public nouns
+right yeah exactly yeah i think i mean i
+think it'd be really cool it'd be a way
+i mean i think i mean [[public good|public goods]] is
+uh there's a thing with [[public good|public goods]]
+where like the public should be involved
+right so like i think just because we're
+now i think we should be looking uh very
+be very very cognizant about you know
+being uh receiving signal and input from
+uh you know up the public that we are
+trying to serve or whatever so yeah i
+believe i believe one of the main
+um functions of it is actually you know
+to borrow from bitcoin rounds right
+instead of having continuous
+gitcoin donations forever every week
+every day like in a continuous thing by
+by creating rounds you have the focus
+and attention of people to make
+decisions like for the week that it's
+live and they can decide between the all
+of the options and they don't have to
+follow it every month right all month
+long they only have to come in one day
+during that round and make a decision
+and so prop house i think part of the
+point of that was instead of having
+continuous proposals all day long every
+day you you focus them in batches and
+then you get to pick and choose and
+focus your and it takes less time and
+attention and so it's all you know it
+actually probably came from the frame
+from how bitcoin rounds work yeah yeah i
+think i think how it works is um it kind
+of turns uh it on its head where east is
+the thing that's actually being
+auctioned off and uh proposals are the
+the bidders and people go vote on it and
+i think if you're above a certain a
+certain threshold of votes that you get
+funded with the youth that's being
+auctioned off for that time period
+so the community kind of submits
+proposals and then the dow comes in and
+fun it's almost like a reverse proposal
+mechanism to i think how a lot of
+adele's were
+yeah yeah
+there's lots of interesting stuff if you
+go to prop.house that's the website for
+it and i see people submitting proposals
+to have little nouns in the world cup
+2022 put down if i escape park in
+singapore for uh to eat and and and
+nouns has a treasury of 4 000 eth which
+is oh i'm sorry 29 000 youth yeah which
+is which is like four million dollars
+right now so uh there's quite a lot of
+opportunity to to nonify a lot of
+different things with that kind of
+decentralized intelligence coming to the
+dow and the dow having that deep of
+wallets i think that's neat yeah how
+much did you say in dollars
+uh 29 000 eth which is four million
+dollars may have gotten that wrong i
+think it's more right
+okay how much is heath today yeah this
+is the part of the episode that won't
+age well but uh
+i thought it was sweet yeah that that
+makes sense to me four million dollars
+and 29 000 youth so
+oh no you're i had a top five order of
+attitude 40 million because it's 29 000.
+okay yeah all right all you just want to
+listen through to me stumble through
+doing math but um yeah i mean i'm
+interested in seeing lots of things
+getting notified as the noun ecosystem
+grows and diversifies and has that much
+treasury and that much innovation and
+how it's funding it's really cool it's a
+really cool mechanic uh i mean part of
+the i mean one of the things that really
+got us a lot of us to start staring at
+it so obsessively at the beginning was
+its problem though uh which is like the
+51 attack thing
+um you know it's uh we still haven't
+really figured out coin voting and it
+really isn't that different from that
+you know you can buy a public noun you
+can buy power with capital
+um therefore you are always at risk at
+about 51 attack
+um so they have so they you know they
+saw that veto right as we do still too
+for yeah we can't submit proposals from
+from the peanut or multi-cig and neither
+can the nounders but they can be two
+things which in our case which in our
+case is kind of interesting because
+we're like yeah we are actually supposed
+to be doing something with the like with
+a purpose with the funding
+um but regardless i think we would all
+prefer to get rid of the veto as soon as
+possible but it's a hard problem to
+solve that we really haven't solved in
+the space yet so
+um and you know it's uh i think
+well yeah i think that's definitely why
+i got super excited about navs in the
+first place was looking at that problem
+and like thinking about that problem and
+like where uh you know coming from like
+the more of the molecular ecosystem
+myself but also interacting with like
+many many coin dials and like i've seen
+those those differences over the over
+the years in the kind of like the the
+duality of those
+um announced out kind of feels like
+somewhere in the middle potentially if
+we can solve that 51 attack with
+nounsdale then i think we might have
+something really awesome for for
+governance for large communities of you
+know
+yeah like coin led governance kind of
+potentially
+yes i mean i'd love to turn the
+conversation towards [[public good|public goods]]
+funding one of my sort of views of
+[[public good|public goods]] funding is that we're going
+to need scalable funding for public
+goods that's legitimate so accepted by a
+number of ecosystem participants
+recurring uh and a deep well of funding
+and so you know there's a lot of
+different things that check those
+different boxes but if we can find
+something that's that's legitimate
+recurring and deep then then that gets
+really exciting to me and i think the
+public nouns is off to a good start
+because it's legitimate it seems to be
+beloved it's recurring every 12 hours
+it's raising four youth right now we'll
+see how long that that lasts and how it
+scales and seems to be well supported
+and uh uh an ecosystem that that
+supports new creative ways to to fund
+[[public good|public goods]] seems like it's pretty high
+upside to me i'd be curious if if you
+all have any uh views on on how public
+nouns is going to is going to evolve in
+the future and whether there's any other
+criteria that you'd that you'd add for
+scaling funding for for [[public good|public goods]]
+yeah so even though that that sounds
+like a decent amount of money like if
+you actually think how many [[public good|public goods]]
+need to be funded in the world we're
+talking like billions or trillions right
+so like public nouns that that was not
+gonna be able to do this so we need like
+this exponential effect and and so i
+don't know in like a normal hackathon in
+our space like i don't know if there's a
+lot of like prize money at those
+hackathons for people working on
+solutions to build and solve what you
+just described to solve that need and so
+public nouns now could put more funding
+towards the bounties for people that
+could figure out bigger solutions and
+other solutions that can scale that but
+yeah i don't think we can't just make a
+bunch of public nouns dallas that's
+going to like solve all the funding but
+we need to like create this so that
+there's this honey pot for people to
+make more stuff that can then solve that
+problem or start start the process to
+solve that problem and then build from
+there and then eventually i think you're
+going to need kind of some of the you
+have these things like built into
+protocols like i guess optimism would be
+the example where this big protocol and
+a portion of that thing or a portion of
+a project is going towards [[public good|public goods]]
+like and it might get to the point where
+if you launch a project whether it's an
+nft project a d5 project a dow project
+it would be weird not to give some of
+your money that goes through your system
+towards [[public good|public goods]] and so if you can
+create that dynamic that's how we get to
+like billions and trillions i think yeah
+in public nounsdale jk
+i like that's a good question like how
+to scale the the funding of public nouns
+that was interesting and like i mean i
+do think that there are i'm still trying
+to like there's a lot there's a more
+primitive i don't think we've really
+uncovered the real primitive power of
+what the noun style system
+uh is capable of
+um i think there is a more primitive
+thing there that we haven't revealed yet
+that likely does have broader
+applications
+um
+which is my guess i think this is kind
+of a you know it's one of those frontier
+problem spaces that i think is really
+very hard and challenging so you know i
+don't i don't fault you for getting lost
+in it it just seems like it's one of the
+most high upside for the space also and
+it's it's really impressive how how
+nouns has sort of grown into this
+ecosystem that it not only creates a lot
+of funding but also has innovated in how
+that funding is distributed with things
+like prop house so it'll be it'll be
+interesting to see what public nouns can
+do
+um if i'm you know a median greenpill
+listener maybe i work in d5 or web3 or
+at an l2 or maybe i even work in public
+goods how can i support public nouns or
+how can i get involved in the community
+i mean bid bid wars get in get involved
+in the mid wars uh and for the for the
+regens out there who don't know how to
+win a bid war you have to pay attention
+to the actual end of the auction because
+there will be a battle uh if you want to
+get it now then you're gonna have to
+battle for it uh at least for a little
+while it seems like
+um so the degen's i think that you were
+talking about they should know that
+already and i think they're probably
+just going to clear it clean out the
+public down so if the regions don't pick
+up their pick up their game a little bit
+uh but yeah otherwise i mean
+um you know i think this is [[public good|public goods]]
+uh and we need as many we don't need we
+don't just need as much funding as
+possible for [[public good|public goods]] we also need
+as many brains and hearts on this stuff
+as well so
+um you know definitely encourage anybody
+to hop into the discord and just yeah
+start figuring out a way to contribute
+um i'm sure any of the public nouns that
+would be like welcome to that there's
+documentation there's lots of things
+that could use some support yeah and one
+of the i think early tasks of the of
+public nouns dao is gonna to also help
+better define what kind of [[public good|public goods]]
+are because [[public good|public goods]] is so broad
+right now that like everyone's like oh
+everything's a [[public good]] and and the
+definition can be you know tweaked lots
+of different ways and so helping to
+define that is a community like goal
+um and then what that allows is most of
+yeah most of these earliest
+organizations that are part of the
+public nouns organization are like good
+with funding right like focused on
+funding and so as we grow with and open
+to more organizations we have already
+talked about maybe having more builder
+organizations
+um that are [[public good|public goods]] related like in
+the next cohort maybe so
+um that you start to balance the skill
+sets that are just even in the public
+public nouns dow ecosystem and so making
+sure that it grows with thought
+um and and anyone that has ideas around
+that or other organizations that could
+be a good part a good fit for that
+should reach out in the discord and and
+share their ideas
+um if i remember correctly like every
+30th public uh public noun gets sent to
+um like certain places so there's like
+one that gets sent to uh like non-style
+itself this one that gets sentenced to
+like um peanutter so it might be a way
+to um you know get like sweat equity
+um like the price point to enter right
+now is much much lower than the uh than
+the nouns now i think like we're
+averaging we're at the 12th noun and
+like the average is about five eighth
+which is like a far cry from uh the 600e
+that like the first actual noun have
+been sold for
+um so it's still like kind of um hefty
+but uh
+yeah it's still manageable
+nice uh is there anything i didn't ask
+that you want to tell us about public
+nouns
+uh i don't know but i did think of one
+other thing though that about something
+you said earlier which is
+right well what i lost earlier was the
+your question about how to scale the
+funding which i think there is some
+interesting things there but why would
+we want to scale the funding is why i
+got lost in like one reason
+that i'm interested in that question is
+because there's a uh
+uh what was that guy's name on the on
+the greenpill last week with the
+network ology stuff uh chris oh
+christopher vitelli yeah and he was
+talking about those like four properties
+of emergence which are like uh diversity
+i think like connectedness uh
+how distributed something is in like the
+stability or meta stability more like
+the not really being stable but like
+stable enough basically so like so like
+applying that to like something like
+public nouns and like figuring out where
+the emergence is and the emergencies in
+the community right so like
+the and one of the the you know if you
+think back up and think about those
+properties like the connectedness is
+[[public good|public goods]] so that's like the
+connectedness that of the but there's
+like all these different people from all
+over the world from different
+communities and that's the diversity
+part but then the meta stability and the
+uh distributed modes of organizing or
+whatever
+um those things i think are the things
+that are going forward basically that if
+if it if if it happens if a community
+stays together like all these people
+basically came together into this place
+and are still coming in together to do
+it but if that if there is emergence
+there then it could be a place of a lot
+of people who really care about public
+goods and show a track record of
+supporting [[public good|public goods]] and they may
+become a dow that can be a recipient of
+retroactive [[public good|public goods]] funding
+um that could scale their funding but
+you know first i think track record and
+all that like uh legitimacy part like
+you said i think basically would be yeah
+it's pretty cool so far but i think that
+yeah there's more legitimacy we need to
+start actually like making some impact
+and like all those types of things uh
+but yeah i do think that's it one part
+of the interesting meta to the whole
+thing is just us all getting together
+from the [[public good]] space in one place
+and not on our silos to to talk of them
+and uh discord about [[public good|public goods]]
+yeah some some uh already i think we
+talked about a little bit about some
+ideas around retroactive and retroactive
+is really interesting so doing like some
+[[public good]] um i don't know what you
+call them in a nice way bombs like some
+retro bombs of [[public good|public goods]] funding to
+like people that have done awesome stuff
+in the in the [[public good]] space so just
+to lay those out send us out there and
+then like hopefully more people do it
+and and they can get that award as well
+need anything to add
+yeah i think um i mean it's it's early
+days like we we have kind of a soft
+proposal like our first soft proposal to
+um for funding
+um going out uh i think we're discussing
+um being a part of uh clr funds
+um
+uh funding round or like matching pool
+uh during devcon so i think that's a
+nice kind of starting point for us to
+experiment with you know
+um what what the community wants to find
+um how much uh to fund and like setting
+an initial cadence around
+um like how how we want to get involved
+in that and so this this specific round
+is um focused on funding [[public good|public goods]] in
+colombia
+um in particular
+um so it's a nice way during devcon to
+kind of get our our name out there
+initially
+um and also we have yet to like ratify
+our our manifesto so it's um
+yeah like i'm curious to see like what
+the community or like the early initial
+people who bidded uh what their ideas
+are about uh where public nouns could go
+and and like why they why they uh
+came in early
+um and like got some initial ideas in
+there
+yeah you said it earlier a little bit
+dish but yeah the you know yeah right
+now it's kind of like the time to get in
+like it's just a community that's
+forming i mean obviously there's like a
+lot of love and thought in it already
+but uh it's yeah we're just kind of
+getting together right i mean it's cool
+that yeah we already have little
+proposals kind of spinning up and and
+whatever and that's that's great to see
+uh but uh but yeah we're still forming
+so like now's the time to kind of get in
+and like shape this thing to make sure
+that it does do the thing that we hope
+that it does right so
+um and if you're listening to this it
+now means you're slightly late to get
+your public noun and so you should have
+gotten it before this was published
+but still come and check it out yeah
+some little listener trolls uh end the
+episode on
+we're well uh where can people find the
+project online
+yeah public nouns that what the
+follow us on twitter for sure uh we try
+to uh drop all the auctions and we're
+always just showing [[public good|public goods]] so yeah
+right and public nouns on twitter i
+think
+oh yeah and totally come into the
+discord yeah yeah i mean we like to
+troll in there and uh we can also talk
+about contributions and serious things
+as well
+great well thanks for coming on the pods
+y'all keep up the great work yeah thanks
+for having me thanks for having us
+[music]

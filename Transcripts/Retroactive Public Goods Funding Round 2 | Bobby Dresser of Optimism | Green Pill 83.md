@@ -1,0 +1,1617 @@
+---
+youtube_id: Mwqf2wBY24A
+tags: transcript
+---
+
+foreign
+[music]
+ation on the pod today we have bobby
+dresser who is the general manager at
+the optimism foundation and we are
+talking about optimism retroactive
+[[public good|public goods]] funding round two
+um optimism retroactive [[public good|public goods]]
+funding round two is uh they're dropping
+10 million op tokens on people who
+create [[public good|public goods]] in the optimism and
+ethereum ecosystem they are going to be
+uh going to so the idea behind
+retroactive [[public good|public goods]] funding is that
+it's easier to know in retrospect and
+retroactively which [[public good|public goods]] were
+actually good
+um and so what if we created an
+infrastructure for dropping tokens on
+people who had created [[public good|public goods]] for
+the world and then over time as people
+start to expect that they'll be rewarded
+for contributing to [[public good|public goods]] that
+shifts the game theoretic incentives of
+the world's agents in order to
+contribute to the [[public good|public goods]] it takes
+privatized capital and it gives them a
+business case for investing in public
+goods projects on the assumption that
+they will get an exit one day so man i'm
+just so bullish on retroactive public
+goods funding and uh i guess you could
+say i'm optimistic about it
+um so i i view optimism and gitcoin and
+clr fund and giveth as creating this
+pluralistic stack that is going to help
+[[public good]] eyes the world using crypto
+rails and i'm just so bullish on the
+fact that optimism retroactive public
+goods funding rounds two is happening
+right now so um bobby and i are going to
+cover the why the what and the how of
+retractive [[public good|public goods]] funding round
+two in this episode and i think it was a
+really important one because optimism is
+doing really important work in creating
+a more regenerative crypto economic
+world so
+um really fun episode i think you're
+going to enjoy it without further ado
+i'll give you bobby dresser from the
+optimism foundation enjoy coordination
+the glow dollar is a news table coin
+with a very special property as the
+market cap of glow goes up extreme
+poverty goes down glow is a dollar
+backed non-profit stablecoin that
+creates basic income for people living
+in extreme poverty glow is basically the
+same business model as usdc with yield
+generating treasuries on one side and a
+stable coin on ethereum on the other but
+instead of being a for-profit company
+glo is a non-profit that donates 100 of
+all yields from the globe reserve to
+give directly's basic income program
+give directly is a charity that gives
+people money no strings attached to
+people living in poverty and is a
+charity that vitalik has previously
+donated to and supported in the past
+with glow you can reduce poverty just by
+holding a stable coin glow is launching
+in early 2023 and you can join the
+waitlist at glodollar.org greenpill
+that's gro dollar dot org slash green
+pill
+working in web3 is awesome but working
+outside of the typical w-2 employee
+structure is a deal breaker for so many
+opolis is helping the self-solving
+worker focus on what they do best their
+work tax time is coming up opolis helps
+professionalize your business by helping
+you form an entity generate proof of
+employment through pay subs and receive
+a w-2 at the end of the tax year are you
+self-employed and forced to spend money
+on expensive health care insurance with
+limited coverage opolis leverages group
+buying power through a community
+employment co-op helping you save 20 to
+50 on high quality affordable health
+care options through sigma and finally
+office's member owners share an obless's
+success and profits based on their work
+token holdings you must be authorized to
+work inside the united states and select
+canadian provinces to receive office's
+benefits book a 30-minute free
+consultation with opelousas experts and
+join opus by march 31st 2023 to get a
+thousand work and a thousand bank tokens
+go to
+connect.opolis.co bankless to get
+started and if you're going to eat
+denver make sure to stop by the office
+booth or attend their future of work
+summit hosted by opus
+bobby what's good
+what is up kevin
+too much really excited about
+retroactive [[public good|public goods]] funding round
+two so give us the what why and the how
+what's what's going on yeah i'm excited
+about it too and i'm happy to be here so
+retro pdf number two retro retroactive
+[[public good|public goods]] funding round two so
+um retroactive [[public good|public goods]] funding is
+this concept that optimism is putting a
+lot of time and effort and love into
+it's not optimism specific
+um i think folks in the bitcoin universe
+are familiar with that idea as well but
+it's something that we're really leaning
+into to both grow our ecosystem and
+bring about the future that we're really
+excited about so retro pdf is basically
+this idea that it's easier to look back
+at what was useful than it is to make
+predictions about what will be useful in
+the future so there are a lot of reasons
+this basic idea is applicable but very
+often we spend a lot of effort trying to
+predict whether a group of people or
+whether a project or whether some amount
+of effort will have positive returns to
+a community or to a business going
+forward
+what retro pgf does is flip that around
+and say if we look back at the past
+quarter or look back at the past week or
+look back at the past decade what work
+made a difference over that time period
+you can actually see oh 10 000 people
+use this [[open source]] project or this
+teacher educated yeah i don't know 50
+people who won nobel prizes and you can
+actually just measure the outcomes of
+that work as opposed to trying to guess
+how something will go in the future so
+how this applies to the optimism
+universe is that
+um
+optimism cares very deeply about funding
+[[public good|public goods]] we are on this mission
+along with the rest of our crypto family
+to as i like to think of it kind of
+expand the diversity of human
+coordination systems and scaling
+ethereum is a really big part of that so
+at its core optimism is trying to make
+more block space available so we can
+bring about this new censorship
+resistant economy and sort of
+coordination system but
+taking that one step further we think in
+order to get there we need to build a
+profit motive for the production of
+[[public good|public goods]] and to bring about that
+profit profit motive we use retro pgf so
+long-winded abstract spiel but basically
+this is the second version of that
+experiment that we're running it's a
+rather complicated thing to implement
+right the idea might be simple but there
+are a thousand variables in each round
+and so rpgf2 is our our second
+experiment where we're tweaking some of
+those variables and trying to see how
+that affects the outcomes that it
+creates
+amazing so um
+i think i've heard carl talk about this
+carl flourish one of the founders of
+optimism talks about like building a
+world in which it's as profitable to
+build [[public good|public goods]] as it is to launch a
+vc back startup and then once you have
+that world then the whole capital
+allocation infrastructure that's you
+know funding the next pets.com or photo
+sharing app you know stuff that silicon
+valley funds can actually be pointed at
+[[public good|public goods]] because that capital now
+has a belief that they can have returns
+so the retroactive [[public good|public goods]] kind of
+creates a credible promise of an exit
+for the [[public good|public goods]] that people care
+about and then once people realize that
+they can start making investments in the
+present in [[public good|public goods]] assuming that
+they have a credible path to exit in the
+future so it kind of shifts the game
+theory of of [[public good|public goods]] did i get that
+directionally right at all a hundred
+percent yeah there's there's some really
+exciting stuff in that exact concept
+that i think is
+um super powerful and can change the
+game for people who are building public
+goods whether that's [[open source]]
+software or in the long term hopefully
+[[public good|public goods]] beyond crypto beyond
+technology in general that's the that's
+the dream yeah those things should be
+investable right those people should
+have the chance at an exit because
+oftentimes those types of contributions
+are providing more impact to society and
+we just historically don't fund them
+whether that's again the maintenance of
+[[open source]] software or whether that is
+the type of effort that makes a local
+community better or the type of global
+effort that makes our climate better
+there are a lot of ways where this kind
+of lack of symmetry and funding
+opportunity um manifests yeah
+um so i want to camp a little bit more
+on the theory in the in the vision and
+then we'll get into the actual
+retroactive yeah in the ground too
+um people who are watching on video will
+see behind me i have this uh this crypto
+art made by art by nelly it was this
+amazing uh crypto artist and um it's
+it's called ethers phoenix and this is
+this idea that carl flourish has had
+about the game theory of retroactive
+[[public good|public goods]] funding on ethereum i'm
+wondering if you could take a swing at
+explaining uh at at talking about ethers
+phoenix
+yeah for sure so
+um ethers phoenix is this basic idea
+that
+um
+in the long term
+there is a like a a i i don't want to
+use the word utopia that might sound too
+grandma z but there's a utopian state
+where public where the production of
+[[public good|public goods]] is rewarded and there are a
+lot of different paths to get there
+there is a there is a lot of different
+effort that has to take place in order
+to reach that future state and very
+simply the
+effort to bring about that future state
+is itself a [[public good]]
+and so if you take those two pieces of
+of logic like future state where the
+production of [[public good|public goods]] is well
+funded and any work to get to that
+future state is itself a [[public good]] you
+can basically think of the work to bring
+about ethers phoenix as something that
+itself would be rewarded so it's like in
+my head this little recursive
+um
+motivation to create
+that end state that we're working
+towards and it's the idea that like
+those types of
+projects whether that's retro pdf number
+two whether that's something you're
+doing tiny in your own world whether
+that's creating the greenpill podcast
+whether that's telling your friend about
+this type of idea all of that work will
+be rewarded in this future state and
+it's like a
+kind of a reason to keep going if you
+think we'll get there yeah what i like
+is that it takes this idea of
+retroactive [[public good|public goods]] funding that's
+like 10 syllables but it takes it takes
+the idea of the game theory of retracted
+[[public good|public goods]] funding and it makes me
+feel like like i'm in like a marvel
+comic or something like that ethers
+phoenix is rising from the ashes of the
+coordination tools of ethereum and
+giving birth to itself and it's a
+benevolent sort of like angel because it
+rewards [[public good|public goods]] that people
+actually care about so it's like this
+recursive algorithm
+um and i just think it's like it's
+really elegant and
+um you know depending on who i'm talking
+to if i'm talking to economists i'll
+talk about retroactive [[public good|public goods]]
+funding and the mechanisms but if i'm
+talking more general audience we can
+talk about retro or ethers phoenix and
+and they're totally complementary
+yeah it's it also makes this abstract
+idea you know when you meet someone and
+you feel like there's something
+simpatico you like kind of feel like
+you're on the same wavelength you're
+like oh all right we get each other in a
+certain way this kind of makes that
+feeling a little bit more concrete
+because it's like oh we're actually on
+the same secret or not so secret team
+like we're actually it's not just a vibe
+that we caught it's actually us working
+toward the same long-term abstract thing
+and so that type of idea is like a
+little ear worm that i think
+i mean even creating the concept of
+ethers phoenix itself helps bring about
+ethers phoenix so i don't know how how
+far down the recursion you can go before
+my head falls off but uh stuck too
+deeper yeah yeah it helps like prevent
+the kind of defeatism that um is
+increasingly prevalent not only in
+crypto but i don't know globally and
+um that sort of thing is huge for for
+continuing optimism yeah
+um
+it's funny that you just name dropped
+the name of the project that's doing
+this optimism yeah
+um but medically i like that
+um so so yeah uh let's let's get let's
+actually get into the mechanism so
+retractive [[public good|public goods]] funding round
+two when is it how do people participate
+how does it work and and
+um you know how much how much capital is
+going to be allocated during this during
+this round yeah for sure so we are
+recording this conversation on tuesday
+january the 24th we are smack in the
+middle of the nomination window so uh
+the way retro pdf runs very simply is
+there is a declared scope so at the
+outset of the round we'll say
+[[public good|public goods]] and contributions that fit
+these criteria are eligible for funding
+in this round so right now that's a set
+of guidelines that the optimism
+foundation sets in the very early stages
+of the optimism collective and
+eventually that'll be a scope that is
+set by our governance community by the
+collaboration between token house and
+the citizens health so we can bookmark
+the kind of rabbit hole of optimism
+governance for a second and just say
+there's a scope for the funding round
+that's set at the outset and some time
+passes and maybe in that time people
+put in a lot of effort to build stuff
+that fits in that round scope or in the
+case of this round because it's been so
+long since round one there's been tons
+of positive contributions that have
+happened over the past year so we
+basically said here's the round scope we
+know there's tons of stuff that fits in
+here so we're going to move right
+through the next couple stages of the
+process
+next stage is this nomination window so
+anybody on uh uh on the planet earth or
+beyond the planet earth anybody can
+nominate a project for funding and so
+the way you nominate a project is you
+read the scope and you're like hey this
+opens there's dependency that i use
+every day probably fits within that
+scope or hey i read this educational
+resource about optimism and i realize
+there's this education category so i'm
+going to nominate that thing we've got a
+couple threads open on our governance
+forum and that's where anyone can show
+up and write a pretty short description
+to nominate the project for funding
+um the scope of this round two i should
+add is funding [[public good|public goods]] that support
+the development and the usage of the op
+stack and so we're starting with this
+pretty small concentric circle to say
+all of the things that we rely on to
+make optimism go should be funded and
+that includes the infra and the
+dependencies that the optimism code base
+itself relies on that includes the
+tooling and utilities that developers on
+the optimism core development team or
+building applications in the optimism
+ecosystem use and that includes
+education things that bring awareness of
+optimism to a broader audience whether
+that's technical education or social
+education etc
+um so in any of those categories you can
+nominate something and that nomination
+window at least for this round will run
+two weeks ending on january 31st
+we do a little bit of like program
+management admin to make sure we've got
+info from all of those projects which is
+pretty important right we want to make
+sure we're funding the right people and
+everyone feels safe and good about that
+we also collect a little bit of
+information from them and we'll probably
+come back to this in a second but
+there's a there's a big variable here
+around
+what info we require from the project
+and what info we present to voters when
+they're making their choice so we've got
+all these products nominated we've kind
+of collected some information we've got
+a pretty
+um consistent template for everybody and
+then
+we enter this voting window so voting on
+retro pgf is done by a set of people who
+are called citizens so optimism has two
+houses of governance token house which
+is standard token weighted voting so the
+op token circulates freely and people
+who
+have ob tokens delegated to them can
+choose to vote in the token house
+governance and they're responsible for a
+set of decisions around grants funding
+and uh governing certain attributes of
+how the sequencer works and approving
+protocol upgrades things like that
+second house of optimism governance is
+called the citizens house and their
+primary responsibility is voting on
+retro pgf it's voting on the allocation
+of [[public good|public goods]] funding so we are
+gradually ramping up this concept of the
+citizens house and in retro pgf round
+two we've got about 90 people who are
+from all different backgrounds and
+experiences who will be voting on how to
+allocate 10 million op tokens over the
+full set of projects that were nominated
+um so we covered a lot of ground and
+there's a lot of uh a lot of detail in
+there but that's the very basic like run
+of show of of how we go start to finish
+after the voting takes place
+um funding's distributed to those
+projects then we'll run retro pgf round
+three with a new scope maybe it's
+broader maybe it's more specific a
+slightly broader set of citizens
+um and keep going until we've
+funded all of the impact on the world
+and brought everybody into the new fold
+of how this economy should work right
+well i just think it's so elegant how
+with optimism's bicameral governance
+structure you've got the token house
+which is like motivated by capital and
+then you've got the citizens house which
+is kind of motivated by these values and
+you're kind of creating this economic
+system that
+um
+the the sum is greater than than each of
+those parts they're they're they're kind
+of really very
+um there's a healthy tension there but
+but i think that together it makes the
+the community stronger and so um the
+bicameral governance is something that
+vitalik has talked about as a big
+innovation to make sure that capital is
+values aligned and that values uh the
+values alignment has the power of
+capital and wow 10 million op tokens
+that's like 20 million bucks right 21
+million dollars as of as a recording
+it's a it's a big chunk of tokens and if
+you look at the initial allocation of
+um like the initial tokens applied
+there's a huge portion of it that's
+allocated for retroactive [[public good|public goods]]
+funding in addition to a portion of
+protocol revenue that will go to public
+goods funding
+um and so we really care about this not
+only as a as a new type of economy that
+we want to prove out but also because
+it's a it's a growth strategy we
+earnestly believe that funding public
+goods will make optimism an incredibly
+vibrant and successful crypto ecosystem
+because it'll be easier to build on it
+will be easier to learn about it will be
+easier to participate in as a technical
+or non-technical person it's like
+[music]
+um
+it's not just altruism like yes we think
+it's good for it's the way the world
+should work but we also think it's a
+really crucial ingredient to to growing
+this this fabric community
+yeah i love that alignment of i mean
+this is what makes optimism such a
+special place uh to me
+um in in the ecosystem and such a leader
+is that it's got the values alignment of
+being focused on [[public good|public goods]] and it's
+also got the capital to deploy on this
+stuff uh and one without the other
+doesn't have the same sort of effect but
+the synthesis of the two is is what
+makes it pretty exciting to me for sure
+yeah and i'm glad you brought up some of
+vitalik's writing because i think one of
+the just like personally one of the most
+interesting things about working on this
+project is that space between some of
+the abstract ideas around how these
+systems could work like ethers phoenix
+or a bicameral governance system where
+certain governance rights are shared
+between these two parties and you've had
+carl on this podcast i think you might
+have had ben also on this podcast and
+they are incredible thinkers and some of
+the most brilliant minds that i've come
+in contact with and thinking about how
+to design these big picture systems and
+one of my personal favorite things is
+that like really messy space
+where you're going from this pretty pure
+and elegant idea and you're taking it
+into the messy stage of implementation
+so it's like all right retrophgf that's
+a pretty clean concept but when you
+break it down and try to like make it
+actionable and execute on it it's really
+messy and there are a thousand little
+variables
+from the product design of the ui to the
+way we distribute voting badges to the
+specific algorithm we're using to count
+votes to the way that we word the scope
+there's so many variables that actually
+affect the outcomes and uh it's just
+like a joy to kind of work through that
+and iterate towards the actual outcomes
+that we're that we're working on i think
+there's so much fascinating stuff in
+there that it's um been really fun to to
+play with that optimism
+yeah oh man we could go we could dive in
+on those variables but we could also
+look well maybe i'll establish i want to
+establish like a macro view and then
+maybe we can dive in on some of those
+variables
+um so
+i've kind of got this view of
+um
+a holonic view of how we're going to
+fund [[public good|public goods]] using crypto in the
+future and like a whole lot is just a
+whole that's comprised of parts like
+um i i am a whole lot of my cells and my
+organs and me and you together are a
+whole lot of this episode of the podcast
+in the ethereum community is a whole lot
+that's composed of the ethereum
+community and
+um inside of each hold on uh in order to
+fund the [[public good|public goods]] of that whole on
+in this case the ethereum community or
+the optimism community you need
+um funding
+but then once you have the funding the
+question is how do i distribute it to
+the most legitimate [[public good|public goods]] and so
+you've got the mechanism is the other
+composite part of the whole on and so
+um in gitcoin's case the funding source
+is really generous
+um donors optimism included that give to
+get coin and then you have quadratic
+funding as the mechanism that
+distributes it's the most legitimate
+[[public good|public goods]] and then within optimism
+you've got sequencer fees and the
+initial token allocation as the funding
+mechanism and then you've got or sorry
+the funding source and then the
+mechanism is retroactive [[public good|public goods]]
+funding
+um and and i think some sort of
+[[quadratic voting]] correct me if i'm wrong
+uh it will take place there we're
+actually not using [[quadratic voting]] this
+in round two as sort of a test to see
+how it affects the voting outcomes but
+yes right i like that that distinction
+right the funding comes from somewhere
+and then there's a decision there's like
+this like decision module where funding
+has to get distributed well yeah and
+then like the last thing to build on top
+of that is like you start with funding
+the [[public good|public goods]] of the optimism
+community and then you can fund the
+ethereum uh like i almost look at this
+as like an expanding the whole on of
+which [[public good|public goods]] were funding so you
+start with optimism community and then
+you since optimism kind of is ethereum
+then you expand out to ethereum public
+goods and then we could go to all open
+source software and we're creating this
+ethers phoenix retroactive [[public good|public goods]]
+funding loop at expanding
+expanding amounts of humanity and then
+you eventually do from all [[open source]]
+then all digital and then and then you
+can kind of retroactive [[public good|public goods]]
+fund the world out from there and that's
+like the incremental iterative approach
+the loop that i would like to see happen
+in the world and and one of the things i
+think is cool is like this modularity of
+like oh there's going to be a pluralism
+of mechanisms and funding sources that's
+going to allow that to expand outwards
+and that's what makes kind of like
+bitcoin's work and optimism's work uh
+complementary you know in a way and
+there'll be certain mechanisms that are
+really good for some communities
+um but won't be good for other
+communities and so that forkability
+um of like that allocation stack i think
+is really important so i don't know
+that's that's my macro take on on how
+retroactive [[public good|public goods]] funding and
+other mechanisms expand out to like
+really create outcomes for humanity but
+i'm curious how that resonates with the
+optimism vision 100 yeah that's exactly
+the the dream is like running this
+process enough until we can build the
+escape velocity to expand beyond our own
+optimism community beyond our own
+ethereum community beyond even the the
+crypto community and i think it's this
+balance between like these incredibly
+large dreams and then the humility to
+know that we can't like take one giant
+step and say right optimism is able to
+fund [[public good|public goods]] across the entire
+globe we're doing it all right now it's
+like we know that it's possible but we
+know we have to take a lot of small
+steps to get there and that's sort of
+what i mean about all these infinite
+variables like there's a lot of ways i
+think we could design a bad round and
+and i think we're very clear-eyed that
+even in round two there's probably going
+to be a lot of constructive feedback
+from projects who are getting funded
+from voters from community members
+making nominations where they say hey
+these things work for me and these
+things didn't work for me and by giving
+ourselves little bite-sized chunks we
+like i think dramatically increase the
+chances that we arrive at a process in
+the longer term that actually works for
+the impact that it's trying to fund
+because who knows it will learn even
+when we grow from a scope that says
+we're funding [[public good|public goods]] that support
+development of ethereum and optimism or
+we're funding [[public good|public goods]] for the thai
+crypto community we've got a giant thai
+community out there like the scope of
+the funding round will change the
+mechanics of the round the makeup of
+badge holders will change it and trying
+to remain very
+[music]
+um
+like pragmatic that we don't know all of
+the right answers for all of those
+different uh different steps yeah i mean
+i think the iterative approach is a is a
+great one you know they say startups are
+kind of like contained explosions
+um and maybe like each of each i know
+like get coin round is just like an
+experiment with a new mechanism or a new
+parameter and then you iterate towards
+the global maxima of coordination
+um it through just trying stuff and and
+you got to get it wrong in the
+iterations in order to in order to learn
+and so
+um yeah that iterative loop is is really
+i think very cool for proving this out
+but what what makes me really excited
+about this vision is that if it works in
+optimism then you can imagine
+um other l2s or defy or dow projects
+doing
+um retroactive [[public good|public goods]] funding
+um or maybe you know we reach a place in
+which crypto is saturated
+um the world and you know a local a
+local community uh could just take the
+playbook that optimism uses to fund its
+[[public good|public goods]] and it could fund its
+[[public good|public goods]] using that exact same stack
+and play like it's forkable and open
+source right so all you need is like a
+concerned citizen that can fork the
+mechanism and implement it in their own
+community for this to like you know it's
+like a dandelion that's like the sort of
+like the seed spread from there that's
+an excellent excellent image i think
+that's super true and i'm interested to
+see how it takes off i mean i think
+bitcoin has played a huge role in that
+dandelion effect and in spreading this
+way of thinking and
+um helping people digest the meme that
+crypto and really all technology is
+built on [[open source]] and that there's
+this obligation not only like a kind of
+just obligation but also is like an
+effective way to make sure things are
+safe and usable to to continue to fund
+[[public good|public goods]] and so i don't know two is
+stronger than one and five is stronger
+than two and so we'll see how how far
+the dandelion goes yeah well um you know
+like thank you for saying that about
+getcoin i just want to share a little
+story
+um and that's the in the heart of the
+last bear market
+um when eth was at eighty dollars uh get
+coin was
+figuring out what it wanted to be
+wandering around in the abyss trying to
+figure out what we wanted to do when we
+grow up and we got on a call with carl
+and jing from the optimism team then it
+was called uh plasma group i think
+um and and they donated 100k they were
+our first uh donors to get coin that
+wasn't the ethereum foundation and they
+told us we really love what you're doing
+with [[public good|public goods]] and we have i think it
+was like 95k left in this entity and we
+want to donate it to the [[public good]] and
+keep up the great work and it was like
+for me it was like a warm fuzzy because
+i i like an application level developer
+but carl and jaeger like deep game
+theory like protocol developers just
+like i don't know it it anyway so um it
+feels like optimism or uh carl and jing
+could sort of like slingshot get coin
+through the last bear market
+um and i and i hope that bitcoin can pay
+it forward to you because
+um optimism in many ways is carrying the
+torch on on [[public good|public goods]] funding
+um and now we've got a pluralism of
+[[public good|public goods]] funding mechanisms and
+funding sources and that's that's what's
+cool like that's client diversity city
+but for [[public good|public goods]] funding sources and
+i think that that's really exciting to
+me that's all said
+um yeah i i have had some back and forth
+with folks on the bitcoin grand sub team
+folks like chase
+um and others michelle etc
+um and i have kind of gotten bit by this
+by this hype that y'all are building and
+building out sort of this central
+repository for uh if you'll permit me a
+moment of showing uh bitcoin like
+building out a central repository for
+projects that are accepting or looking
+for [[public good|public goods]] funding right because
+as we expand the number of communities
+that are interested in sending resources
+to these folks it's like you could
+either multiply the operational cost by
+the number of projects that are trying
+to send funding to [[public good|public goods]] or you
+can create this little shelling point
+this little this mod this like hub that
+builds network effects so that every
+time a new community pulls some folks
+online they accumulate into this central
+[[public good|public goods]] funding hub and makes it
+easier for projects it makes it easier
+for funders i think it's a really
+compelling and just like a smart move to
+help this thing take off a lot more
+quickly so i'm very on board with that
+direction i'm excited to see where it
+goes yeah likewise
+um well i think that what's cool is this
+just this like practical pluralism of we
+talked about bitcoin and optimism but
+giveth is doing it clr fund is doing it
+doing good is doing it and it feels like
+building a movement together and i would
+really like for you know right now the
+last markets the first the 2017 market
+cycle was icos the last market cycle
+felt like it was d5 and nfts and like
+dows are like on the low kind of
+happening but i would really like for
+there to be a cycle where like people
+are really excited about [[public good|public goods]]
+and coordination mechanisms in the
+future and i don't i don't know if we
+can beam that into existence but the
+fact that there's a pluralism of us
+doing it uh here in 2023 means that
+there's at least some heat there
+i think we can meme it into existence
+and i'm glad you brought up that kind of
+uh that concept of upfront investment in
+[[public good|public goods]] because i do think that is
+the next sort of the next step to take
+the next big lever to pull and part of
+that includes running
+retro pgf reliably enough that investors
+can feel confident in that possibility
+of an exit it also i think benefits from
+as you mentioned this pluralism of other
+folks funding [[public good|public goods]] to think to
+uh increase the kind of confidence in in
+projects like this getting funded but
+that to me is the next like step
+function increase in the success of this
+system where if we can build a community
+of investors who understand that funding
+projects like this will actually be a
+long-term very smart economic move then
+it kind of curves up the the growth
+trajectory and i think there's a lot of
+exciting possibilities in there yeah i
+think it's like i think i was talking to
+david hoffman from bankless and i was
+explaining to him all the reasons why
+retractive [[public good|public goods]] funding was
+gonna change the way investors think
+about retroactive [[public good|public goods]] funding
+he's like dude you can explain it to me
+but like when the first exit happens
+then that's when all the capitals gonna
+like go after and chase us and we need
+that visceral like totally you know that
+visceral first exit and then that'll
+change the game
+totally and that's what i mean by like
+the you know the the like gnarly
+implementation details right the concept
+is super clean but to get there it's
+like all right well we need to increase
+confidence by funding this many public
+goods over this many rounds we need to
+figure out the right investment
+structure like is there a hyper cert
+involved here are we pulling together
+the right community so that people can
+mean each other into participation in
+the system there's a lot of like
+um both social and technical questions
+that have to be answered even with a
+hypothesis even if it's not the final
+answer to kind of test our way towards
+making any of this happen
+but one of the things that you said that
+i really want to camp on
+because you know i believe in this in
+this like outer loop but you know
+clearly i'm greenpilled i'm like
+episode 100 of these but like for for
+the people who aren't greenpill yet and
+like they tune out the [[public good]] stuff
+as just like this hippie dippy granola
+uh coming out of boulder colorado
+kevin's talking about [[public good|public goods]] thing
+again i just want to camp on the fact
+that you said that it's about public
+goods but it's also a growth hack for
+the optimism ecosystem so the same
+mechanism pointed at
+um optimism as a growth hack is a
+mechanism for [[public good|public goods]] funding in
+the wider world just when you apply it
+at a different aperture and and to me
+you know optimism wanting to grow its
+developer community is not that
+dissimilar from like a local town like
+boulder wanting to grow its community of
+engaged citizens who are like i don't
+know making a downtown livable and
+um making sure that you know you could
+point that same mechanism at uh open
+source software and build [[public good|public goods]]
+for like the npm python ecosystem and so
+to me that's what makes me insanely
+bullish that we're going to get to this
+point where we're going to have this
+[[public good|public goods]] exit thing is because
+um in the meantime you can just sell
+this stuff to marketing departments that
+are trying to build their crypto
+ecosystems or to like local governments
+you know i'm painting over a few details
+here but but i just want to make i guess
+the point i'm trying to make is that
+this isn't just like a moral argument
+that like [[public good|public goods]] are good and we
+should fund them because people who
+contribute to [[public good|public goods]] are good it's
+actually like the business objectives of
+a lot of crypto can use these mechanisms
+to build their ecosystems [[public good|public goods]]
+and i think that that's that's what's
+going to bridge us to this point where
+[[public good|public goods]] are just like ubiquitous i
+don't know if you have any comments on
+that
+yeah i think that's a really important
+point and if if we even if we put crypto
+aside for a moment so way back in the
+day i worked at metamask which is this
+[[open source]] project and it got me
+interested in
+um the just the mechanics of building in
+public right you've got people screaming
+your issues you've also got people who
+pick up you know uh half-built thing and
+get it over the finish line and there's
+just like all these dynamics and making
+that possible and from there i went to
+work at github where
+almost all of the world a lot of the
+world's [[open source]] software lives and i
+worked on the team that is thinking
+about how to make the production and
+maintenance of [[open source]] software
+accessible and for lack of better word
+healthy and so that includes things like
+github sponsors github discussions
+um like onboarding even onto github
+things like that
+um and there's an incredible team there
+but we spent a lot of time thinking
+about the
+psychology behind people who contribute
+to [[open source]] software projects and i
+am consistently
+shocked that the modern world exists as
+it does today given the current state of
+[[open source]] development and funding
+because every single piece of software
+that you touch in your daily life has
+thousands of legos that are built for
+free that are maintained for free and
+that the software that you're using
+critically depends on to work
+and there is this like massive economic
+mismatch and sometimes that thing bites
+us in the ass right there's i don't know
+heart bleed or like the event stream
+hack that i guess is somewhat crypto
+related but the fact that that thing
+that type of thing where a free piece of
+software where the maintainer has has no
+economic incentive to maintain it and
+keep it safe other than well no economic
+incentive and probably a lot of personal
+incentives like pride or the sense of
+giving back the fact that that type of
+thing doesn't crumble much more often
+and bring down huge parts of our modern
+economy with it is
+continuously surprising to me and
+frankly a little terrifying and so
+yes we're talking about funding public
+goods as a growth strategy for optimism
+but i also think funding [[public good|public goods]]
+like [[open source]] software is pretty
+critical for our modern worlds to
+continue to survive in the way that it
+does now and that's why we're really
+that's why i'm personally really keen on
+this idea extending beyond just optimism
+and just crypto because
+i don't know if the current status quo
+will be able to continue for so long and
+we've also thought about this with
+sponsors right there are there are we we
+started from a place of sponsors
+gaining traction with companies because
+they wanted the marketing boost right i
+as uh
+gripe a giant payments company want to
+give 10 million to [[open source]] every
+year because it looks good and that only
+goes so far right what we really try to
+do is connect that big budget company
+it's like thinking about funding open
+source software to the actual benefits
+they would get from funding it so for
+example if we're spending 10 million
+dollars on [[open source]] software we know
+that our stack is safer and we know that
+the security of those things that we're
+depending on is slightly higher than it
+would be if those projects were
+underfunded so in general with this
+whole concept and i promise my ramble is
+almost through but it's like
+helping people understand this stuff
+isn't just like you said a hippie dippy
+abstract like oh this like community
+impact should be funded it's actually
+we've built a house of cards and it's
+really not safe and if we want to make
+software that lasts and that's
+accessible to use and that can actually
+take us into the next chapter of
+wherever the world goes then funding
+[[public good|public goods]] and funding [[open source]]
+software has to be for that yeah you
+know this is where we started at bitcoin
+original mission was to grow [[open source]]
+actually it was push [[open source]] forward
+but then we were like [[open source]]
+doesn't need to push it's more like a
+garden you need to garden
+um and i'm reminded of this xkcd comic
+where you've got a bunch of little
+blocks that are all sort of leaning on
+top of each other and it the title is
+all modern digital infrastructure and at
+the bottom there's like this little
+django block that's that's entitled a
+project some random person in nebraska
+has been thanklessly maintaining since
+2003. it's it's really pretty crazy
+um yeah and so yeah i'm i'm totally
+bought into the vision but like you know
+the interesting part for me is like how
+do we go from the game theoretic
+shelling point being everyone free rides
+to the game theoretic shadowing point
+being everyone coordinates and you know
+like we found this local maxima in which
+like gripe i think you called them the
+web 2 payments company is willing to uh
+is willing to spend some of their
+marketing budget to look good by
+supporting github sponsors but you know
+how do we go like where people aren't
+just anti-ing in for like for the optics
+of it but it but it's more of like a way
+of
+i know like just like a way of building
+in public or you know how do we make the
+selling point to be more deeper
+coordination and and i think that we're
+still trying to figure that out as an
+ecosystem right now but it makes me
+really bullish to see so much
+experimentation and
+um uh in in this space and hopefully we
+figured out in the next market cycle
+yes that's a that's i think that's the
+exact right question to ask and it's
+interesting to for me at least just to
+compare like optimism's approach and
+github's approach for github's approach
+is like somewhat social with sponsors
+and optimism's approach bakes i mean i
+guess it's still social because some of
+it exists at the governance layer but
+we're baking in
+this assumption this like this little
+channel for a portion of protocol
+profits to continually forever and ever
+go towards attractive [[public good|public goods]]
+funding and that's up to governance at a
+certain point and they will make the
+continuous choice again that balances
+the financial interests of token house
+and the more sort of like long-term
+interests of the citizens to decide how
+that funding is like how much and how
+that funding is distributed but it's a
+slightly more opinionated take it's like
+that thing exists as part of the system
+it's not just like an agreement that
+we're trying to strike with a bunch of
+business people
+so we'll see if it works yeah totally
+um well you know i also appreciate that
+you've left the crypto bubble you worked
+at metamask and and then you went to
+github sponsors and it almost feels like
+your role uh at optimism foundation is
+is combining what you learned in both of
+those places in order to create this
+like coordination megazord so
+um you know i appreciate that reality
+check as well
+for sure yeah i missed i missed the
+crypto and i had to come back but
+honestly i think it was the
+the specific vision of the folks at
+optimism and the like magnitude of what
+they're trying to accomplish that feels
+like that little beating heart at the
+core of crypto that's what i care about
+this movement for and we've accumulated
+this much larger troop and there's like
+you know some chaos and some things that
+i like kind of look away from and some
+like you know some people doing really
+brilliant novel stuff and i think at the
+core there's this group of folks with
+very strong values about how crypto can
+actually make the world better and give
+us different tools to coordinate with
+that can solve all sorts of problems and
+that's like i think
+um the the subset of the broader
+community that i that i love to play in
+and that's what pulled me back
+and one of the things that i got to say
+like going back to my point about like
+how do we make the game theoretic
+shelling point to coordinate not to
+defect and to support your
+infrastructure but um you know i also
+and like to the eye to this idea that
+vcs will actually fund the [[public good|public goods]]
+when they see there's an exit from
+[[public good|public goods]]
+um i just want to say that i think the
+optimism is is really special in turning
+the tide towards a more regenerative
+crypto economic internet because it's
+proof point i mean the l2 is a leading
+l2 uh the technology is sound and the
+ethos the fact that it's bundled with
+this ethos hopefully will be a part of
+that creation of this game theoretic
+shelling point towards more [[public good|public goods]]
+and like what i really want in the next
+market cycle is for the vanguard
+projects to not be this like dog [ __ ]
+like the safe moons in the like i didn't
+even know the names of like of of these
+like meme coins that just pump and dump
+because
+if we can't like the the subtitle of the
+greenpill podcast or the book is like
+how crypto can regenerate the world and
+i want
+it to be crypto actually is regenerating
+the world in the next edition that we do
+and we don't get that without projects
+that are actually truly eating their
+decentralization in their region
+vegetables doing it and i think that
+optimism is sort of like leading
+um in in that way and you know hopefully
+we move from a market that's all just
+speculation to one that's more
+fundamentals and i think that projects
+like optimism really have strong
+fundamentals so uh just a recognition
+for you all that you're that you're sort
+of leading in improving that a more
+regen greenpilled web3 is possible and
+uh i don't know what your secret is but
+uh but i but i hope that you sprinkle
+some some optimism and some retro pdf
+and in [[public good|public goods]] on on the rest of
+the ecosystem before the next market
+cycle starts
+i appreciate that i think we have a long
+ways to go and a lot of work to do but i
+appreciate that nonetheless yeah well
+i'm like the tired curmudgeon after 15
+rounds of [[gitcoin grants]] we're like
+passing the batana they're like yeah
+good luck with your next 13 rounds bobby
+um so i want to spend maybe a few more
+minutes talking high level about this
+world that you're trying to create and
+then we should probably stick the
+landing by by tangibly revisiting retro
+pgf round two so is there anything that
+i didn't ask you that that you want to
+say about retro pgf or optimism or the
+movement that y'all are building
+hmm i mean there's a lot that i could
+say i think that the the piece that we
+touched on a tiny bit that i just want
+to reiterate is like the commitment to
+um this being this gradual iterative
+process because i think oftentimes
+there's a little bit of distance between
+what people expect and how kind of
+progressive we're being with this so a
+lot of projects have gone right from uh
+or dev team building something to like
+full dao and there's a like just that
+leap in a moment and there's a lot of
+benefits to that right you just like hit
+that end state and you figure stuff out
+live but what optimism is trying to do
+is this much more gradual process
+because we know how hard the design of
+these systems can be and how much there
+is to get right if we're going to build
+something that actually works for a huge
+variety of stakeholders and participants
+and so we i've had this experience
+talking with a bunch of different
+community members where they expect
+things to be a certain way or they
+expect these certain types of decisions
+to be immediately you know voted on by
+everybody or they expect like
+um i don't know if like oh you're
+funding [[public good|public goods]] like why aren't we
+funding teachers in my hometown why
+aren't we funding clean water
+immediately like this type of uh get
+there tomorrow sort of mentality
+it would be ideal if those things were
+possible but we're just like really
+committed to taking it step by step and
+committed to being here for the long
+haul
+um and like we i certainly hope that
+folks hold us accountable to that
+commitment that each step we are taking
+feedback and making the system work
+better and we're learning from past
+experiences
+um but just i think it's a slightly
+different way of doing things than a lot
+of um existing projects out there have
+have
+taken and so i just wanted to like i
+guess touch on that again because it'll
+it'll take a while but i think it's the
+most likely path to lead us to a to a
+good system at the end of the rainbow
+the end of the rainbow
+um yeah i mean in my my version of this
+is like you can't let perfect be the
+enemy of good we wish [[quadratic funding]]
+was was funding local [[public good|public goods]] and
+things outside of the crypto bubble but
+um you know we just rewrote the entire
+not we but get coined out it just
+rewrote the entire stack to be
+decentralized and modular from a
+centralized monolith and that took like
+12 months so it's it's it's actually uh
+rebuilding the infrastructure that can
+scale in that way and i gotta say that i
+think op stack wasn't was an inspiration
+for grant stack um you have this modular
+ecosystem that can be used to compose an
+l2
+um and so you went like one level meta
+above just building an l2 with the op
+stack and i think that get coin from
+what i've seen of their strategy on the
+governance forums is like the same thing
+it's like building a suite of tools that
+can be used to compose a grants program
+and you can fork out uh the sequencer in
+l2 uh for another type of sequencer or
+on grant stack you can fork out
+[[quadratic funding]] for [[quadratic voting]]
+or i don't know maybe one day we'll
+build retroactive [[public good|public goods]] funding
+into grant stack or something like that
+and so
+um you all have been an inspiration i i
+think for bitcoin as it's turned the
+corner from centralized monolith into
+decentralized modular and then you just
+have to iterate from there once you've
+got the right foundation and so
+um yeah it's it's pretty exciting for me
+to see it working at op stack and it
+gives me hope that uh the grand stack
+will work in the same with the same sort
+of decentralized modular strategy
+yeah there's a lot in there i think like
+a shout out i can take no credit for for
+the op stacks architecture and our
+upcoming release bedrock which is
+scheduled for feb but folks like carl
+and ben folks like proto and kelvin and
+kevin ho and all these folks who are
+cranking on making sure the system not
+only
+works to the quality that we expect but
+is designed in a way that can let other
+people build their own chains or
+experiment with a chain that has
+different characteristics i think is
+like very core to our [[open source]]
+philosophy right we want to build this
+thing and have it be licensed in a way
+that other people can take it and remix
+it and play with it and reassemble it in
+a way that works for them
+um but it also exactly like you
+mentioned applies to a lot of other
+different types of product it applies to
+our governance system it applies to
+these funding mechanisms and eventually
+we want to get to a place with retro pgf
+where we've got enough modularity that
+the iteration that we're going for can
+happen in parallel it can happen a lot
+more quickly it can happen more
+permissionlessly so that we're setting
+folks up to run their own rounds in ways
+that
+um are sort of more true to the local
+knowledge of their community unless
+about our opinions and how we want some
+things done there's all there's a lot in
+there but i'm i'm glad it's working out
+for you see other folks doing stuff like
+that as well yeah totally well uh let's
+come down from the matter and actually
+get to the object level so the
+nomination window for retro pgfron 2 is
+until january 31st at 1900 hours gmt and
+then the project opt-in deadline is
+february 14th and then the voting window
+is february 28th to march 14th so during
+east denver uh y'all it sounds like
+you'll be dropping bedrock uh and then
+also retroactive [[public good|public goods]] funding
+will be happening so really excited for
+that
+um any comments on that and also how can
+people get involved in retro pgf round
+two you got a call to action for people
+yeah for sure the big moment to get
+involved is actually right now during
+this nomination window so if you've
+heard this and you've been like damn i
+know about this project or this person
+doing exceptional work or this resource
+that i've relied on a bunch these things
+are all great things to nominate for
+retro pgf round two uh we have a pretty
+big sort of commitment to this specific
+funding round there's 10 million op
+tokens going out and we've got a great
+stream of nominations coming in so far
+but i think the broader the set of folks
+who are nominating i think the better
+the outcomes will be so you can head to
+gov.optimism.io and there are a couple
+threads going on there where folks have
+been nominating projects over the past
+couple weeks and that nomination window
+will wrap up at the end of january on
+january 31st so
+um get get the nominations in while you
+still can and then we'll continue the
+rest of february kind of getting our
+acts together for this voting period and
+um i'm honestly really excited not only
+for the products getting funded but also
+for the retro experience of this round
+because that's what kind of propels us
+for round three so at the conclusion of
+round two we'll be announcing plans for
+round three and that's another exciting
+moment to get involved as we announced
+let's go you can kind of consider is
+there something i can do that fits
+within this kind of spec this umbrella
+of impact and then there'll be a period
+of time between round three announcement
+and round three voting where you can
+find some folks to build with get in
+contact with the optimism team and our
+deveral folks and um it kind of paired
+with uh the the right way to make impact
+um there's a lot of good stuff coming in
+for round three as well
+yeah excited for that um and will those
+links to to those uh resources will be
+in the show notes
+um are you all planning on doing this i
+think round one to round two was roughly
+nine months or 12 months are you
+planning on doing yearly or quarterly or
+you know what's what's the cadence are
+you all just kind of figuring it out
+very much want to increase the cadence
+so ideally there's not nearly as much of
+a time delay between round one and round
+two we've had a very busy year so i
+think that contributed to it as well but
+um like we mentioned with the way to get
+some of this investment off the ground
+running retro pdf regularly i think is
+going to be key to its success so you'll
+likely see the cadence of rounds
+um shorten we could even run parallel
+rounds in some future universe so
+um we want to make this ongoing process
+and really build up the muscle so that
+this can get super easy for our side and
+from the community side as well
+and then let's just end on what does
+this look like if you all are maximally
+successful uh my version of this is like
+it's a world where vcs fund [[public good|public goods]]
+the same way they do seed stage startups
+but like what does the world look like
+where you where you stick the landing on
+this i don't know let's say 20
+27 or something like that
+so what you mentioned i think is a goal
+post along our our vision for success
+but it's not the end state i think the
+end state is that
+the the global economy or the many
+different versions of the global economy
+have built in a mechanism that funds
+[[public good|public goods]] that is not just taxes
+funding
+schools are doing the kind of like
+marginal things that at least i see
+happen in the united states maybe
+marginal's too strong a word i know
+there's tons of government funding that
+goes towards
+um supporting [[public good|public goods]] but the
+global economy takes note and starts to
+fund [[public good|public goods]] in a way where the
+profit to the individual is actually
+matching the impact that that public
+good has provided and that is something
+that i think is very easy to observe us
+not doing today if you think about the
+amount of social science research that
+shows that education is one of the most
+important things for driving positive
+life outcomes and then you look at the
+average public school teacher salary in
+the u.s and i think it's pretty easy to
+see a clear mismatch between the impact
+a good school teacher is providing and
+the amount of profit they're personally
+receiving is as part of it so maximally
+successful to me looks like a global
+economy that takes note from what
+optimism is doing and funds [[public good|public goods]]
+in a way that matches the impact they're
+having and isn't just a footnote on a
+budget
+yeah i i think that like for me what
+makes me really bullish is like these
+individual agent level incentives that
+exist in that world where
+um
+where people can work on the [[public good]]
+and and just like be financially
+rewarded for it and then what you get is
+this like game theoretic shelling
+pointer like movement from people
+working at like jp morgan so that they
+have to like be so they can pay the
+mortgage and pay for their kids
+education and health care and stuff to
+just working on [[public good|public goods]]
+um and you know the problem with like
+you know spending nine hours a day
+working at a big bank is that by the end
+of your the end of that you don't have
+any time left in your day you don't have
+any energy emotional energy to go fix
+the potholes or to go pitching in your
+community and so by pointing people's
+financial lives at [[public good|public goods]] instead
+of these like private uh privatized jobs
+um then then not only do you like create
+a better world
+um because all the world's agents are
+like working on [[public good|public goods]] instead of
+in their own like private capture things
+but
+um but like it just it just really
+creates a sea change in how people view
+um being a community citizen and being
+able to be a community citizen and pay
+your bills with that to me is uh is is
+really the bullet case for this so i'm
+so excited about what you're doing and i
+hope that get coin and super modular and
+optimism are are building this world
+together because uh it feels like one
+that i want to live in
+absolutely i appreciate you saying all
+that i have one little i have one little
+tiny story people permit me at the end
+let's do it yeah one of the questions
+that you sent over was just like the
+concept of how do you keep that how do
+you keep that optimism alive and um you
+work at a company named optimism well
+that's part of it that gets most of the
+way but it does actually get you all the
+way so the trick for getting the rest of
+the way is the greenfield podcast
+um i i i like have a very bad habit of
+biting my nails and so for the past
+years so i've been getting gel manicures
+where they put this stuff on your nails
+it's like so hard you couldn't even
+possibly bite through it with your teeth
+it's actually been very helpful at
+helping me kick my nobody habit but i'm
+saying all this because my ritual once a
+month
+go to the nail salon you can't really do
+anything because your hands are trapped
+by someone who's just right so um i'd
+pop in the greenfield podcast
+there's like some nice like calming
+music in the background get my little
+nail down so i can't be biting my meals
+anymore exactly there we go
+um and like it honestly did give me a
+moment of zooming out from furiously
+sending messages to my internet
+co-workers and forced me to kind of
+reconnect with like the amount of brain
+power in this space the amount of
+creativity the amount of i'm gonna say
+it again i'm so sorry the amount of
+optimism that exists in this space
+um and it it really honestly does help
+me kind of connect back to not only why
+we're doing this but also the the like
+gentle faith that we will be able to
+build a better future so thank you for
+making this podcast
+um thanks for having me yeah well
+hopefully we are one step uh closer to
+manifesting ethers phoenix by doing this
+episode and i appreciate you saying that
+alrighty bobby uh thanks again man and
+good luck on retroactive [[public good|public goods]]
+round uh too we'll be we'll be rooting
+for you
+thank you kevin good to chat
+[music]

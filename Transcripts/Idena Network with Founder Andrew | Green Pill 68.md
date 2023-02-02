@@ -1,0 +1,1161 @@
+---
+youtube_id: OYH7EQjas-c
+tags: transcript
+---
+
+foreign
+[music]
+ation how you doing we are continuing
+our exploration of decentralized
+identity with the founder of the idina
+network andrew who is an anon is joining
+us today today to talk about their
+approach to doing [[sybil resistance]] so um
+basically idina is what they call the
+first proof of person blockchain and uh
+basically personhood is proved by
+showing up online within a strict window
+of time in solving a series of flip
+tests think of them as like kind of
+captchas like human intelligence tests
+to make it so that bots can't operate
+accounts this is called a validation
+session and if maximally successful
+idina helps create a more democratic
+borderless world we talk about
+quadratics taking we talk about bitcoin
+integrations we talk about why civil
+resistance how we can create a more
+democratic web 3 with [[sybil resistance]]
+in this episode and then just various
+use cases for proof of personhood so i
+think this is one of the more technical
+episodes that we've done andrew's kind
+of a i would say he's like a deep
+technical subject matter expert if you
+want to go deep on [[sybil resistance]]
+probably a good episode for you and
+um if you're watching on video we have
+no video for this one because andrew is
+a non but if you're listening to audio
+it'll sound the same as any other
+podcast so a fun episode i think that
+[[sybil resistance]] is important uh idina
+is one of the many players out there
+making an earnest try at creating more
+[[sybil resistance]] and so without further
+ado i hope that you enjoy this episode
+about [[sybil resistance]] with andrew the
+founder of the idina network enjoy the
+world has woken up to refi and celo is
+here for it celo is the layer one for
+the [[regenerative finance]] movement it's
+fast planet positive and built for the
+real world celo has committed to
+producing a sustainable future from day
+one and has built its technology around
+one of the lowest carbon impact
+consensus mechanisms and is the world's
+first carbon negative evm compatible
+layer 1 blockchain cello is a movement
+to create the conditions of prosperity
+for everyone whether it's tokenizing
+carbon credits with toucan providing
+capital to underserved communities with
+unicorn or building for millions of
+users around the globe cello was created
+to transform crypto enthusiasts into a
+movement of change makers follow along
+on twitter at celloorg to learn more
+about how cello is accelerating refi for
+a positive lasting impact on people
+communities and the planet and if you're
+a builder interested in refi be sure to
+join the build with cello hackathon live
+now with a prize pool of over a hundred
+thousand dollars coin shift is a leading
+treasury management and infrastructure
+platform for dows and crypto businesses
+that need to manage their treasury
+operations every crypto org needs to
+manage this treasury and coin shift
+offers a simple flexible and efficient
+multi-chain treasury management platform
+built on top of the highly secure gnosis
+safe with coin shift your organization
+can go from primitive single chain
+treasury management to expressive
+flexible and multi-chain treasury
+features such as global user management
+global contacts proposal management and
+many other features that can be shared
+across an entire organization allowing
+users to save time and reduce
+operational burdens and gas costs coin
+shift even has data tools like account
+reporting across the seven chains on
+which it operates used by industry
+powerhouses such as uniswap grants
+balancer consensus and massari coin
+shift is speeding up their coordination
+and efficiency of the organizations that
+use it you have to keep up with the
+frontier and coin shift makes that easy
+so sign up at coinshift.xyz slash
+bankless
+andrew what's good how you doing
+yeah hey karen great
+really have been going deep on civil
+resistance this season of the greenpill
+podcast and so really excited to talk
+about idina tell us about idina and how
+you think about [[sybil resistance]]
+yeah uh thanks for inviting us really
+appreciate that i think the civil
+resistance very important topic and it's
+getting even more and more uh attention
+across different platform last time
+so
+uh yeah let me introduce myself first
+um
+yeah i'm under i'm a co-founder for dina
+i'm software engineer and before crypto
+i've been uh for more than 10 years in
+it and
+uh i've learned about bitcoin in 2015
+and i was really amazed about bitcoin
+uh because what i learned about this is
+is not a digital currency it's not like
+a paypal but it's something new and it
+has no underlying asset and it's kind of
+a value itself which exists only on the
+on the web which is really kind of
+amazing idea and the most important part
+for me was that that nobody solely
+controls the bitcoin so it's
+what [[sybil resistance]] is about
+and in 2015 we started the
+semi-decentralized crypto exchange it
+was the first swiss-based crypto
+exchange in europe
+and uh it was a non-custodial
+semi-decentralized setup where you could
+control your money with a private key so
+that exchange could not get your
+deposited coins
+but at the same time you could trade
+back and forth with a speed of normal
+centralized exchange so what we did is
+we provided the premium channels for
+trading for users and it was a you know
+a building block for lighting network
+but we we were live even before the
+lightning network was launched that time
+and we learned a lot about the layer 2
+scalability solutions
+and there are lots of trade-offs you
+know uh about the the about that and
+it's a complexity liquidity problem and
+ultimately all the layers to scalability
+techniques are kind of constrained by
+the limitations of the first layer of
+the blockchain itself and uh and that
+was the starting point for idina we
+actually decided to solve that problem
+so
+we we didn't want to make you know
+identity protocol
+and idea was that we just make a
+scalable blockchain
+that can perform a substantial number of
+transactions without decreasing the
+level of decentralization
+and actually this is kind of a you know
+we try to solve this scalability through
+now
+so that is that we just enabled parallel
+on chain computation which which is a
+sharding and instead of running one
+blockchain we we run just many
+interconnected chains and instead of
+running just one state machine we run
+multiple state machines which are
+secured by independent set of validators
+so cam how how can it you know make it
+securely
+uh we just you know
+to make it to make that possible we just
+needed to have as many independent
+validators as possible to secure every
+chain you know so we needed to have an
+excessive decentralization
+which is i think the key for uh solving
+the scalability tutorial
+and the silver resistant that i'm was
+really very very practical you know for
+us it was it has a really practical
+meaning for us
+uh but the problem was that we couldn't
+find you know the right basis for this
+decentralization
+what we understood that time that money
+doesn't work staking doesn't work
+because of the nature of capitals you
+know it's it's a wealth is getting
+productive distributed all the time so
+we we go like we reach get richer so we
+needed to find a better basis for civil
+resistance which is kind of scars but
+you know opposite to money
+and the question was
+so what is the you know the most evenly
+distributed resource on the planet it's
+not money it's not cpus it's not
+electricity so what's that and the
+answer was it's us you know it's human
+beings
+so yeah this is how we started with this
+[[sybil resistance]]
+and yeah and you know interesting uh
+interesting part here is that
+uh because we just came up with the idea
+of of human beings
+we we try to get a better understanding
+of [[sybil resistance]] problem
+because initial definition of civil
+resistant attack was telling us about
+the large number of you know of
+pseudonymous accounts which attacker can
+you know create to get a
+disproportionately large influence on
+the system
+but satosh actually changed that
+definition so instead of using accounts
+he used cpus like to make a civil attack
+on proof of work you need to buy lots of
+cpus to make a civil attack on profile
+state system you need to buy lots of
+coins like for example to attack
+ethereum we need to have like many
+accounts with 32 east ethers each you
+know and a kind of joke you know to
+attack a twitter you need to to to make
+many accounts with you know eight bucks
+each
+which is kind of a job but is it is it
+going to be kind of [[sybil resistance]]
+resistance i think i don't think i don't
+think so
+and what we currently have in ethereum
+uh you know that more than 70 of the
+blocks are currently offer compliant
+which means that 70 of validators
+actually follow their their rules
+and is it okay
+um i don't think so and the problem is
+that we are as a community we just
+agreed that it's okay to have large
+stakeholders dominating the network
+if their intentions are good
+so if they're not interested in
+attacking the system because they'll
+lock their stakes
+but i think it's not okay and the reason
+is actually what we have in in ethereum
+is a civil attack
+i mean the [[sybil resistance]] is not about
+intentions you know civil attack is
+definition is telling us about an
+attacker gaining disproportion of the
+large influence of the system this this
+is what we have
+you see that this 70 of validators could
+follow the of fact rules are just a few
+guys and this is nothing but civil
+attack
+and we failed to handle it and we failed
+the [[sybil resistance]] war already
+and the problem is that we accepted that
+and now we if you want to solve that we
+just need to acknowledge that problem i
+think we shouldn't welcome civil
+attackers even if their intentions are
+good even you know because regulators
+can can come in and all you know local
+government may account or their
+intentions may change
+or you know what if they can short the
+stake points
+yeah yeah so i mean i i think that we've
+kind of trodden the ground on greenpill
+of why [[sybil resistance]] matters a lot so
+basically moving from one token one vote
+dallas to more one human one boat dials
+creates more democracy in how tokens are
+distributed and how decisions are made
+and you know i'd be curious if you sort
+of you sort of agree with that summary
+if there's anything you would add to it
+and then i want to talk about how idina
+creates [[sybil resistance]]
+um yeah
+um yeah but before we just you know dive
+into this a
+um specific of ie adina i would i would
+uh
+i will try as well to tell a bit more
+about the you know
+uh building i didn't kind of a unique
+identity primitive you know
+because uh
+now you know when we started you know we
+we tried to find the existing solution
+for unique identity primitive
+and you know the problem was that i
+didn't use the blockchain
+and we needed to find a kind of a layer
+one identity you know a solution but
+you know identity identities identity
+data is very sensitive and it's not
+usually suitable for you know storing
+this data on blockchain because
+blockchain is immutable
+and we we try to find kind of you know
+privacy preserving or even better
+anonymous solution for that
+and there were many other problems like
+we needed to have the [[open source]]
+solution we need to have decentralized
+ai resistance resistant and you know
+non-contextual non-subjective so it
+should be like a global registry of
+validated identities and
+finally it should have been like we
+needed to find it like if a puppet
+resistant
+solution which i think was the most
+difficult
+and we try to iterate with many in our
+approaches we decided just not to go
+with the government-based ids because of
+the privacy issue you know government
+trust issue and we learned about
+biometric solutions
+um
+they're all kind of a you know there are
+proprietary solutions that cannot work
+with blockchain and [[open source]]
+solutions
+have their own trade-offs you know how
+the biometrics is analyzed either it's
+publicly available like you publish your
+you know biometrics data on chain and
+then we have a privacy issue or deep
+flex issues or it's a client-side you
+know analysis like you have a public
+neural net with some zk knowledge proof
+but then you you also have some problems
+with white box attacks and the address
+are operation attacks which are kind of
+um which can be applied for the neural
+nets
+so the and the last options that we we
+could use and that was the attendance
+based protocol
+so because other other protocols
+couldn't work with blockchains there are
+too many trades of and we just decided
+to go with the um kind of
+a protocol that is based on you know on
+participation
+of you know users during the kind of
+validation ceremons so the idea is that
+people cannot have many
+accounts because they they cannot be in
+in many places at the same time because
+the time is scarce
+and we can't do the we can build it
+protocol around that idea
+and kind of make it in a way like people
+usually validate each other without any
+centralized body so initial idea you
+know was
+to run a global zoom party when you know
+people talk to each other at the same
+time we try it you know we tested that
+but it wasn't scalable enough and then
+we just decided to go with the
+validation ceremony when people were
+people just communicate with each other
+with some kind of a pre-arranged test
+you know
+and this is how we started hyena we
+started like building our own protocol
+for uh you know unique identity solution
+and any identity primitive
+right so um it seems like you wanted to
+have a [[sybil resistance]] technique that
+was going to be privacy preserving
+didn't have any pii
+um and
+and you know the zoom meetings were sort
+of like the prior for you we actually
+had brian ford on the podcast a few
+episodes ago and he talked about four
+ways to create [[sybil resistance]]
+biometric nation state ids uh web of
+trust and then the fourth one was
+presence-based and so the one that
+really jumps out to me with these sort
+of zoom parties being the the method
+through which you wanted to emulate with
+the idina protocols is presence-based
+you know if i'm in the presence of you
+at a certain time then you you can't be
+two people at once on that same zoom
+party without people catching you is
+that a fair take in a fair synopsis of
+what you said yeah that's right uh
+that's right this is what we we tried
+and you know and tested and and we just
+you know we couldn't kind of build the
+right protocol for zoom meetings because
+we need to uh you know to let people
+talk at the same time and uh challenge
+each other you know at the same time
+which is pretty complicated
+yeah
+yeah well this feels like a great
+jumping off point to talk about the idea
+ceremony and how idina creates civil
+resistance so you want to take us down
+that rabbit hole
+um
+i might take a bit like uh some some
+some more kind of details about what
+adina is because uh i want to and
+emphasize that idea is not a civil
+resistance solution you know it's not a
+identity solution it's a blockchain and
+it's a general purpose blockchain
+uh that aims to encourage running a
+human-centric apps on top of it uh is is
+based on democratic principles like one
+person one vote and it's not the kind of
+you know [[smart contract]] or it's not a
+fork of any existing blockchain it's it
+was developed from scratch and it's
+secured by the network of nodes which
+run by people it's either individual or
+uh or family you know family notes
+and every person can run the validating
+node with equal voting power which makes
+again one of the most decentralized
+blockchains and there are around 600
+nodes up and running as we speak so the
+core concept of the ideal protocol is a
+unique identity
+and we call it crypt identity
+because it's somehow similar to
+cryptocurrency you know it has no
+underlying identity data it's anonymous
+it's global so uniqueness is not
+contextual and it has no central issue
+that could certify your uniqueness and
+is based on mutual verification and
+validation parties
+and i think the most fascinating part
+about idina [[sybil resistance]] and pocket
+resistance is that is not just you know
+empowered by the crypto identity concept
+but it's empowered by the quadratic
+staking so i think the quadratic's
+taking is the most important part about
+edina because civil resistant identity
+itself i think
+uh sorry to say that but i think that
+civil resistant identity is a myth
+however uh the identity primitive like
+unique identity primitive is a missing
+element for building simple resistance
+system
+and if you don't mind i just want to
+tell a bit more about this this
+provocative you know statement because
+um please go there yeah i think we were
+very idealistic when we started edina
+we wanted to build a democratic system
+based on you know pure proof of personal
+food
+uh like one person one volt government
+system with equal mining reward
+distribution you know without any
+initial investment notes taking we
+wanted ideal to pay equal ubi for their
+validators
+but uh the problems that unique identity
+is not enough for that
+it isn't civil resistant by itself and
+it doesn't matter which protocol you use
+for the proof of personhood either
+biometrics of web of trust or it's even
+it could be even government-based
+identity you know the interesting thing
+is that there was a really cool project
+it's called ubic like ubic you can
+google it
+it's a kind of a proof of proof of proof
+of passport identity solution
+you can uh you know to to make your
+identity you just need to scan your nfc
+chip of your passport
+with your iphone you know and you you
+can get the zero proof of your advantage
+on the blockchain immediately because so
+cool and so simple solution
+and it works really well until one guy
+from china came in and just submitted
+around 20 000 passport in one single
+batch
+it's really crazy i mean and the problem
+is that you can do the same with the you
+know video verification
+uh so people can say you some words for
+you on camera just for a few cents
+uh they can scan their faces or aries
+for a few cents you know they can do
+even on a regular basis if you just pay
+them
+and this is kind of a you know evolution
+of fake identity arm race
+essentially proof of personhood is just
+a final stage of that iron race at the
+beginning we had an algorithmically
+based generated accounts like uh you
+know in the in the early stage of uh web
+2. so it's more or less solved the
+problem was more or less solved by
+captures we still use it
+and then
+the next stage was like of this arm race
+was just a human generated accounts
+where one guy could you know make
+hundreds of accounts per day and we
+currently have these human forms
+generating thousands of accounts 24 7
+and now sitting together
+and the hand and the third stage is a is
+a proof of presence for protocols uh
+which problem is like
+these protocols can be attacked with a
+kind of puppets you know where many
+people can generate just many accounts
+each account is kind of is linked to one
+person and these private accounts are
+valid from the from the proof of kind of
+personal protocol perspective but
+they're not civil resistant you know
+what i mean so it's a it's not possible
+to prove who is exactly the owner of
+account and it's and it's really hard
+you know because usually this uh these
+people this kind of uh puppets they're
+they're not interested in kind of
+claiming their own uh accounts their
+ownership of their accounts so yeah this
+is this is a bad news you know for all
+the proportion protocols that system
+based on unique identity are not civil
+resistant
+and i would call that a naive proof of
+personhood
+so uh the thing is that the the system
+that formalizes unique identity and
+kind of neglecting the capital create
+strong incentives for percussion and
+identity collusion it's a kind of you
+know a form of authoritarian systems
+like where you have strong leaders on
+the ground that can coordinate lots of
+people just to extract the value
+yeah and what we have is uh
+ultimately we have two extremes there
+on the left side on the left hand we
+have an authoritarian systems where
+money doesn't matter it's a an identity
+centric system and on the right side we
+have a plutocratic systems which are
+token centric and on that side the
+identity doesn't matter
+and good news about that that both sides
+like both extremes authoritarian and
+plutocratic systems adjust the creams
+extremes located on the same dimension
+and we can generalize them
+and we can find a middle way between
+them you know by combining them together
+and this is what we call quadratic
+staking
+got it yeah so tell me about quadratic
+staking
+yeah i think that quadratics taking is
+real gem uh we were lucky to discover
+that uh you know idea and i'm happy to
+share details about that with you
+um
+the quadratic staking is the model that
+actually combines proof of stake and
+naive proof of personhood
+it's a
+it's it's something that
+making you know makes your mining
+rewards proportional to square root of
+your stake
+so
+essentially it solves the plutocracy
+problem inherent in capitalist system
+so it discriminates against whales or
+large-scale investors
+and at the same time it increases the
+weights of small users and encourage
+them them you know to participate more
+actively
+so uh to make uh quadratics taking a
+work
+you need to have this you know a unique
+identity primitive
+because otherwise uh large stakeholders
+could just split their stakes across
+many accounts
+but with the proof of personhood or kind
+of unique
+unique identity primitive you can stake
+the coins only if you have this kind of
+account validated account and you can
+just you know
+you can be slashed if you're if you
+don't prove your liveness
+and
+at the same time if you want to withdraw
+your stake then you need to terminate
+your account so it's fully your steak is
+fully connected with your uh unique
+identity and
+basically your stake is always at risk
+you know related to your uh proof of
+your uniqueness of your identity and
+which actually makes the identity
+primitive more [[sybil resistance]]
+um so yeah so on the one hand we have a
+quadratic staking
+with just it's just an improved version
+of uh linear staking
+but on the other side on the other hand
+it makes any unique identity itself more
+civil resistant and more pocket
+resistance
+so this is what we actually see
+currently in idina uh during last few
+months so before uh quadratic staking we
+observed a really aggressive growth of a
+human farms and after we released the
+hard fork update with the quadratic
+staking and what will then we we see the
+decrease in human forms actually human
+forms just
+who made their accounts just to extract
+the value from the network
+decide to to stop their business
+um
+so yeah so this is this is what
+quadratic's taking andy of course
+quadratic stating has its own drawbacks
+so i i mean the main downside of the
+quadratic staking is its exclusivity
+it's an advanced version of linear
+staking but unfortunately
+the monetary component of unique
+identity just filters you know excludes
+some some people and
+you know a fully inclusive from
+democratic system where every person uh
+has equal income and equal rights
+is a subject of current correction and
+uh i think that it's an unachievable and
+idealistic and it opera unfortunately
+so the quadratic staking is a kind of a
+compromise between between two extremes
+like a capitalistic
+system that doesn't take into account
+identity and communist system that
+denies the role of private cargo
+right so i mean i i'm it seems like it's
+a way of talking uh of staking your
+tokens wherein
+um the amount of tokens in the voting
+power that you get from staking is a
+square root of the amount of tokens so
+it's more democratic than a full
+one-to-one token system right uh one
+human one vote is it's not fully on that
+spectrum and you know my experience with
+[[quadratic funding]] [[quadratic voting]] uh is
+via get coin and one of the things we've
+always thought was was really powerful
+about [[quadratic funding]] is that it gives
+the people with more capital more of a
+voice and an incentive to give more of
+their capital but it doesn't give them
+one-to-one it gives them a square root
+like a decaying uh more influence for
+putting in more capital which is a way
+of waiting the whole system on some
+towards the poor the many over the rich
+and the few but still giving the rich
+people an incentive to participate do
+you see any sort of symmetries between
+quadratic staking and [[quadratic funding]]
+there
+yeah absolutely actually uh the
+quadratic uh staking idea was fully
+inherent from uh glen whale ideas about
+writing voting and and [[quadratic funding]]
+proposed by vitalik
+and yeah and i i mean it's very
+important uh concept and the more
+projects follow this concept the the
+more civil resistant the holocaust
+systems can be you know because
+otherwise if you just you know consider
+the identities like like
+now identities without stakes like uh
+like equal then you automatically create
+a pressure you know and incentives for
+the italian guys who can you know
+coordinate people on ground and just
+create you know puppets so we need to
+use this approach you know widely across
+mining projects it's very important
+working in web3 is awesome it's freeing
+powerful and so much fun but working
+outside of the typical w-2 employee
+structure is a deal breaker for so many
+opolis is helping the self-solving
+worker focus on what they do best their
+work while managing the back end for
+them there is a lot of nation state
+overhead when working in web 3 and
+opolis takes care of all of the back end
+stuff freeing you up to do what you do
+best office leverages group buying power
+through a community employment co-op
+helping you save 20 to 50 on high
+quality affordable healthcare options
+through cigna so do what you love and
+maintain your financial security with
+opolis you must be authorized to work in
+the united states to receive oculus
+benefits but office is expanding its
+services to canada starting on january
+1st 2023. so book a 30 minute
+consultation with theopolis experts and
+join opus by december 31st of 2022 and
+get a thousand work tokens and a
+thousand bank tokens when you sign up so
+go to
+connect.opolis.co bankless to get
+started goldfinch is a decentralized
+credit protocol with a mission to
+connect the world's capital to the
+world's growth goldfinch focuses on real
+yields from real companies so start
+lending your usdc to real businesses
+driving growth worldwide goldfinches
+borrowers are proven fintechs and credit
+funds and emerging markets who need
+access to goldfinches capital to drive
+economic growth in regions faced with
+barriers to financial access in just
+under two years goldfinch has loaned
+over 100 million usdc reaching over a
+million people in businesses across 28
+countries goldfinch is doing what d5 was
+always meant to do expanding financial
+access to those who have historically
+been shut out of the tradpy system so
+become a goldfinch member to put your
+uscc to work empowering real businesses
+growth join goldfinch's new member
+vaults to be an active investor and take
+part in supporting goldfinch's security
+and expansion receive yield enhancements
+generated by protocol revenue plus
+access exclusive communication channels
+and more so go to goldfinch.finance to
+get started
+um well you know i'd love to get into
+the actual idana ceremony at some point
+point does that make sense to steer the
+conversation there is there anything
+else you wanted to say before before we
+get into that
+oh sure um and this is fun for me
+because i participated in an id in a
+ceremony uh i think it was about a year
+ago uh could you tell us about about how
+idina actually verifies the humans
+yes uh the idina protocol uh as i as i
+said let's see attendance uh based
+protocol so there is no qyc no way
+metrics
+so the protocol is based on regular
+validation ceremony where you need to
+prove your aliveness and uniqueness by
+participating in that
+and it's based on an idea that you
+cannot be in many places at the same
+time so all participants appear online
+at the same time across the world and
+prove their personhood by solving
+so-called flip tests
+flip tests is a kind of a captcha but
+it's a it's it's they made by other
+participants which makes them more ai
+resistant
+and flip is abbreviation it stands for
+filter of life intelligent people it's a
+it's a binary test uh so we need to
+solve a bunch of these tests you know to
+prove your personhood
+and and there are two sides of these
+tests like two answers uh they they
+looks like like a comics you know there
+are sequences of images that tell you a
+story without using any text texts it's
+like a it's language agnostic so every
+flip has two has two versions of the
+story one is correct and one is shuffled
+and to complete complete this test you
+need just to identify which story makes
+more sense for for for the majority of
+other people who also solve this test
+so um solving this flip test is pretty
+simple it's not an iq test but it's even
+kids can do you know these tests uh even
+if you get difficult difficult flip
+during the ceremony where you cannot
+identify the right answer it's most
+likely will be disqualified by uh by the
+consensus because other people who also
+cannot solve this flip they will vote
+randomly and will not be able you know
+the committee will not be able to reach
+the consensus about the right answer and
+the flip will be disqualified and the
+author of this clip flip will be kind of
+uh
+the the author will just lose some
+rewards and because of that
+uh so yeah this is pretty much uh it
+about the the ceremony and we have this
+ceremony like on a regular basis and the
+uh the epic duration depends on the
+network size
+the the larger the network the less
+frequently ceremony
+um take place so uh and yeah um this
+much this is pretty much
+um
+um about the the ceremony itself so let
+me know if it makes sense yeah
+well i remember participating in the
+ceremony and this might have been last
+summer that i participated in one but i
+if i recall it was a
+um it was every two weeks the ceremonies
+were happening back then does that seem
+like the right time interval
+yeah that's right it's uh it was uh two
+weeks it's it's as i said it's a
+function of the network size
+and it's always like happens at the same
+time and you know
+it's it happens like
+um early in the morning for the uh for
+the america and late at night for the uh
+for the asia and it's like they it's
+like one 1 30 p.m utc time
+which is the date you know for your
+opinions
+yeah and i recall
+um basically getting online and then
+opening up i think it was an ideena
+website or it might have been an
+application and then for 10 or 15 or 20
+minutes i can't recall solving a series
+of these flips and i remember thinking
+that they do kind of feel like captchas
+in a way and
+i i know that i passed the ceremony and
+i was part of the uh the registry for a
+little while after that which was cool i
+can't remember if i got any tokens for
+doing it but
+um but yeah
+um go ahead
+yeah uh actually uh yeah the thing is
+that the identity is not forever so it
+just lasts for until the next validation
+so if you're if you you can you can
+actually miss up to two validations in a
+row and then your identity got
+terminated
+and uh once you get verified once you
+get validated with this ceremony you can
+run
+your node and you know get some kind of
+coins for that
+and the validation itself can be run
+both on um on you know desktop version
+of the uh adding up or we recently
+developed maybe it was like a year ago
+we we just deployed the web version so
+it's available on the browser so you can
+just connect to any shared node that
+provide now by provided by the community
+and and you can't even run it on your
+mobile you know which is really nice so
+you can do the validations
+um wherever you are
+yeah
+well you know the one thing i did after
+i went through the ceremony was i went
+on to the get coin website and i
+verified my identity uh on bitcoin so i
+could get more matching so it was neat
+to see get coin and idina interoperate
+in in that way
+yeah that's true actually uh now we have
+uh the gitcoin passport right uh and uh
+uh we we actually
+submitted the pull request uh to get
+that
+integration with the bitcoin passport as
+well nice yeah cool
+um
+well you know um i i'm curious if
+there's anything anything i didn't ask
+that you want to say uh about idina
+um i i think that uh you know i i think
+it's really neat to see a bunch of
+different pluralistic ways of creating
+more [[sybil resistance]] uh
+uh work together and and build this
+ecosystem so i'm curious if there's
+anything that that i didn't ask that you
+want to say
+uh probably i would i would like to
+explain a bit about uh our anonymity i
+think it's a very important part of you
+know idea project right and i have first
+of all i wanted to say thank you kevin
+for inviting us even
+um regardless on our annuity and it's
+it's also it's it's the first time we
+speak in public that way
+and um
+uh actually we committed to stay on the
+animals inspired by satoshi and
+as well as in bitcoin we didn't make any
+ico so the project is fully [[open source]]
+and anyone can follow and contribute
+and the main reason why we stay
+anonymous is uh we wanted to minimize
+our influence on the protocol so we want
+the community to decide about the
+protocol values
+and i think it's very important the
+feeling when community members just now
+feel
+in charge of protocol changes
+you know we are as a team we cannot make
+any simple changes in a protocol so we
+cannot deploy any hard work without
+community support because the validators
+who control the network and users who
+uses who use the system are the same
+people
+so we are very thankful to our community
+for their activity and involvement into
+the protocol governance and i want to
+say a special thanks to all our old guys
+i want to say that we hear you we do our
+best to follow your discussions and read
+your comments
+and thank you for staying out with us
+for such a long time really appreciate
+that
+and i will really share your passion
+about building democracy and sustainable
+[[sybil resistance]]
+yeah well you know i do think that
+there's there's really an important i
+don't want to say trade-off but i want
+to say a design criteria of creating
+actual [[sybil resistance]] but still
+protecting privacy i think that
+yeah that's a really important thing to
+that you just can't bolt on at at the
+end and of the
+uh of the the mechanisms that brian ford
+told us about presence-based biometric
+kyc and web of trust it feels like
+there's a lot of in that trade-off space
+privacy concerns that i really have
+concerns about with kyc and biometrics
+and i think relying totally on
+presence-based
+um in web of trust is a really elegant
+way of creating more [[sybil resistance]]
+but but also maintaining privacy and
+y'all y'all are uh it seems like y'all
+are doing it and the fact that you're in
+on yourself as the founder i i think is
+uh
+um is an interesting fact pattern that
+that supports the privacy at the base
+layer so
+um yeah i mean is there anything else is
+there any other sort of important design
+criteria that you want to tell us about
+um yeah i would i would also uh like to
+tell a bit about the use cases of uh
+human-centric blockchains in general you
+know yeah because there are some that
+are really on the surface surface but uh
+um like you know like votings dollars
+air drops quadratic road in quadratic
+funding you know ubis
+and actually now we have quadratic
+staking
+and we have idina as the uh as a
+blockchain is also the use case for uh
+for unique identity primitive
+but we also have many things to discover
+and i would like to name a few of them
+or for example let's see on chain ads
+uh you know we do experiment with that
+and nobody likes us but on chain as is a
+different concept
+and it's something that you know you
+just publish on chain and anyone anybody
+can you know pull that out and just view
+that ads and we build it kind of free
+the protocol based on self-targeted ads
+you know so
+um and i think it's a huge market you
+know that still doesn't exist on chain
+which is a really really interesting and
+it can only work with the uh unique
+identity primitive
+then interesting uh idea is about the
+content moderation uh this also we we do
+some experiments with that we use
+randomly selected human oracles for the
+arts moderation
+and um
+probably another version of that we
+could experiment with the uh you know
+fake news analysis like it's it's a
+subject to explore but yeah probably
+could make some experiments with that
+yeah and is there an ecosystem of people
+that are building these type of things
+on on top of adina tell me about the
+community
+yeah we already have a you know
+uh building uh into the clients uh the
+oracle voting system so if you're
+validated uh identity then you just can
+participate in the oracle votings you
+can run your own votings you know and
+it's a kind of civil resistant warnings
+uh were
+you can do you know different things
+like you can ask you know participant to
+stake something you know before they
+vote before they publish their role uh
+and yeah so and
+or you can just pay for for some you
+know polls asking their opinions
+um so yeah all this stuff is already
+there so we we run you can even you know
+lock some coins you know based and and
+unlock the coins based on
+oracles uh decision which are you know
+so that oracles are just randomly
+selected from the network and they can
+decide you know whether to unlock the
+coins or just make keep them locked this
+is actually the the interesting
+primitive that we we uh anticipate you
+know to use
+uh in order to implement a kind of
+decentralized gitcoin you know so
+decentralized common good finding
+platform we actually have a
+so-called zero wallet in arduino
+protocol where portion of inflation is
+getting locked
+and it's really big challenge how to you
+know how to spend that coin safely
+and yeah this is um
+um
+kind of a subject that you know we need
+to explore and experiment with and
+community you know
+does a really interesting experiments
+with that running
+um
+community multi-seek like a community
+wallet and yeah hopefully we'll manage
+to build some kind of an automation like
+a decentralized in all [[smart contract|smart contracts]]
+to
+that could be able you know to fund
+projects driven by the randomly selected
+oracles
+great well um this has been a really fun
+episode learning about your take on
+[[sybil resistance]] is there anything that
+i didn't ask that you want to say from
+here
+uh i think it's pretty much it
+so um
+what i what i just wanted to add that we
+truly believe that human sensory
+blockchain can make our lives better
+we just need to find the right way to
+build the you know identity which should
+be i think civil resistant pipet
+resistant and privacy preserving
+and i hope it could lead us to a better
+world which is more connected less
+polarized and more democratic and we are
+staying in the dangerous fork on the
+roads you know so
+let's pick the right way to stay safe
+and coordinated
+very cool yeah
+um well i guess let's wrap by
+by uh by asking where can where can
+people find idina online
+um it's a website uh id in a
+um idena dot io
+so and you can find all the [[social media]]
+out there
+great well thanks so much for joining me
+on this episode of greenpill really
+enjoyed the conversation and see you out
+there on the civil resistant future
+[music]

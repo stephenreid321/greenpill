@@ -1,0 +1,1457 @@
+---
+youtube_id: xYoQjd47Cvs
+tags: transcript
+---
+
+foreign
+[music]
+ation how you doing on the pod today
+we're discussing whether web3 is the new
+occupy wall street how web3 relates to
+occupy wall street why it matters and
+what we have to learn in the web 3 space
+from the occupy wall street movement
+so um on the pod we have sarah baxtendel
+from the regen network been in web3 for
+several years has done a bunch of stuff
+with permaculture also was involved in
+occupy wall street back in the day we
+have benjamin life who works in the
+independent political sector and was a
+social impact filmmaker also involved in
+occupy wall street back in the day so we
+talked about where web3 occupy wall
+street a line and share dna as social
+movements and also where they detract
+from each other and how they take
+different approaches to the various
+movements that they're in and we also
+talk about the limits of being able to
+make those types of comparisons because
+uh both are decentralized distributed
+movements and it's hard to talk in
+generalizations about any of them so i
+think that uh when we're talking about
+regen web 3 and web 3 for social change
+taking a look at a movement that
+happened to generation before us with
+occupy wall street is really fruitful
+exercise and so i think that you're
+really going to enjoy this podcast with
+sarah and ben enjoy working in web3 is
+awesome it's freeing powerful and so
+much fun but working outside of the
+typical w-2 employee structure is a deal
+breaker for so many people opolis is
+helping the self-solving worker focus on
+what they do best their work while
+opolis manages the back end there's a
+lot of nation state overhead when
+working in web 3. andopolis takes care
+of all of the back end stuff freeing you
+up to do what you do best your work
+opolis leverages group buying power
+through a community employment co-op
+helping you save 20 to 50 on high
+quality affordable health care options
+through cigna so do what you love and
+maintain your financial security with
+opolis you must be authorized to work
+inside the united states to receive
+office's benefits but optus is expanding
+its services to canada starting on june
+1st of next year so book a 30 minute
+free consultation with oculus experts
+and join opolis by december 31st to get
+a thousand work and a thousand bank
+tokens go to connect.opolis.com
+slash bankless to get started coin shift
+is a leading treasury management and
+infrastructure platform for dows and
+crypto businesses that need to manage
+their treasury operations every crypto
+org needs to manage this treasury and
+coin shift offers a simple flexible and
+efficient multi-chain treasury
+management platform built on top of the
+highly secure gnosis safe with coin
+shift your organization can go from
+primitive single chain treasury
+management to expressive flexible and
+multi-chain treasury features such as
+global user management global contacts
+proposal management and many other
+features that can be shared across an
+entire organization allowing users to
+save time and reduce operational burdens
+and gas costs coinshift even has data
+tools like account reporting across the
+seven chains on which it operates used
+by industry powerhouses such as uniswap
+grants balancer consensus and massari
+coinshift is speeding up their
+coordination and efficiency of the
+organizations that use it you have to
+keep up with the frontier and coin shift
+makes that easy so sign up at
+coinshift.xyz slash bankless what's up
+y'all
+hey hi so glad to have you let's maybe
+start off with a couple quick uh intros
+sarah you want to go first
+sure my name is sarah batson bell
+um i'm here today holding two lenses one
+is i was a organizer for the occupy wall
+street new york city sustainability
+working group and the other is in the
+world of web3 i currently were
+constructive ecosystem for regen network
+so i'm going to try to hold a little bit
+of past and present perspective in
+today's conversation
+great then you're gonna you want to go
+next
+yeah my name is benjamin life
+um i was at the boston occupy and as of
+late i've been working in the u.s
+independent political sector for an
+organization called the independent
+national union working to organize
+political independence for good
+governance and then i also work on a
+project called open civics which is
+trying to bring together systems
+architects and community organizers and
+elected officials to help redesign
+systems at the local level
+beautiful
+um well i i'm really excited to have
+this conversation with you all today the
+topic is this really obnoxious tweet
+that i sent that said web3 is the new
+occupy wall street
+uh which you know uh created some debate
+on twitter but you know the things that
+i see are that there's a lot of x occupy
+wall street people building in web 3
+um and because of that we have a lot of
+being able to think differently and swim
+against the mainstream current uh
+there's a focus in the space on group
+[[collective intelligence]] over hierarchy
+and to focus on wall street and its
+financial rails but building an open
+source financial system it's an
+alternative to wall street for a new
+generation and those are the parallels
+that i saw between occupy wall street
+and web3 that caused me to send that
+really obnoxious tweet but uh i think
+that the three of us were kind of
+debating in the replies the merits of uh
+of the parallel and and i felt like it
+was an important conversation and worth
+having living in a more high context
+environment than on twitter replies so
+um sarah maybe i'll go to you first just
+to tee things off what is your uh what
+is your reaction to the statement web3
+is the new occupy wall street
+my reaction was a lot of resistance
+personally
+um and i and i was thinking about this
+morning i think a lot of this really
+roots in
+what we're using as our description of
+web3
+if we're talking about the social impact
+quarter of web 3 the environmental
+impact quarter of web 3 i think that
+there are more parallels to the
+underlying ethos of occupy wall street
+than if you look at crypto or web3 at
+large
+but i think at a pattern level of humans
+and organizing and decision making and
+decentralization no matter what use case
+we're taking a look at there are a lot
+of parallels to what really happened in
+a natural organic and unexpected way in
+ducati park in regards to how people
+gather how they make decisions
+um and i think that there's really a big
+difference between what it's like to be
+in a crowd of 5 000 people making a
+decision on what it's like to be you
+know on the internet on twitter on a
+commonwealth forum having an opinion the
+discourse and the environment of that
+and the energy of that to me are really
+fundamentally different lived
+experiences so i'm excited to dig in
+because i think there's some
+similarities and some differences that i
+do think are really important to tease
+out
+yeah where i
+i completely agree with you at the
+experiential level and maybe even at the
+cultural level there's some really
+important parallels or distinctions
+um the reason i feel like web3 is is in
+some ways an evolution of occupy is
+around what occupy was trying to achieve
+and there was this rise in awareness of
+the inherent systemic corruption of our
+financial system
+and yet the kind of means of redress of
+that grievance
+was an encampment that struggled to
+actually
+create an alternative or to get a new
+financial system
+um that could solve a lot of those
+grievances and so i think it was an
+important cultural moment of bringing
+awareness to the brokenness of our
+financial system
+but where i see web3 continuing that arc
+is actually being able to provide the
+infrastructure that would create the
+foundation for a new economic system
+that could have different design
+principles than our current one and i
+think we're seeing with things like ftx
+that a lot of the principles of
+decentralization have been kind of lost
+in the early commodification of web3 but
+i think at the primitives level
+um we have a lot more tools that we can
+work with to actually achieve the goals
+of occupy now than we did in 2011.
+yeah i definitely agree with that i mean
+i think for me the part that i get stuck
+on really comes down to what is the
+point of web3
+and if you take a look at the vast
+majority of web3 it really is about
+something distinctly to do with the
+financial system it's it's a d5 exchange
+it's some sort of dap it's really
+focused frankly on people making money
+whereas occupy was focused on having a
+radical disruption experience that was
+very direct action oriented both in the
+park and in the marches in the actual
+street activism that was really
+associated with that experience and what
+it was trying to do there in the
+financial district would say the
+underlying structure of capitalism as a
+concept is sick it is a sickness that is
+cultural that is really evolved across
+the entire globe and so to me i struggle
+to get over that hurdle in comparison
+because i do think that the vast
+majority of web 3 activity is about
+individuals making money
+and there's all these components that
+really do reflect an evolution from
+occupy the holding of your own keys the
+decentralization of validators on proof
+of stake chains the decentralized
+decision-making mechanism the fact that
+you can jump into a protocol and write
+your own [[smart contract]] there's a lot of
+decentralization and autonomy inside of
+the web 3 systems that we work with on a
+technical level but to me the vast
+majority of that is still about people
+making money first and foremost
+and any occupation that was not the goal
+the goal was not for the people that
+showed up to make money and because of
+that there were millions and millions of
+dollars of donations that came in and
+then there were consensus mechanisms
+that were enormously public that anybody
+could join about how that money should
+be distributed
+so for me i think that's the real
+struggle and i i think about it on the
+level of art i think about it on the
+level of intention i think about it and
+the level of water rebuilding and why
+and being from a protocol that is
+environmental rails financial solutions
+for environmental impact you know the
+financialization component is there as
+well so i do think finance is this
+universal threat of web 3 but i do
+wonder if the overall whole web through
+space is more just decentralized
+capitalism than a true evolution
+i think that's a really interesting take
+i mean the way i'm viewing this in my
+mind is that there's like the web 3
+movement which is just decentralized
+immutable ledgers that you can program
+your values into and there's like one
+circle there and then there's like it's
+almost like a venn diagram the other
+circle is a bunch of occupy wall street
+alumni who are now seeing this as an
+opportunity to meet the ends that they
+had with occupy wall street but just on
+on on new rails and it's only within the
+intersection of those venn diagrams that
+occupy wall street or with it web 3 is
+the new occupy wall street and the and
+the outside of that venn diagram on the
+web 3 side is like just more capitalism
+and you know unfortunately there's like
+ftx collapses and and scams that are out
+there too and so maybe within the within
+that venn diagram that's where web3 is
+the new occupy wall street but i do
+think that within that that intersection
+there is some really interesting
+opportunity space
+um for doing things that
+maybe would have felt naive 12 years ago
+for creating real systemic change and
+and and and that's that's why i'm
+excited about this conversation
+the the one thing about the the hyper
+financialization that i think is
+interesting to to track is
+we we're we've never been in this part
+of the cycle before i mean there i
+haven't been in crypto long enough to
+have seen as many of the bearable cycles
+that i think maybe both of you have
+um but i'm curious if this the the way
+that this cycle is changing the dynamics
+of crypto itself might i don't know if
+the staking protocols that were so
+wildly all over the place in the last
+cycle if those will make it through this
+uh market i i'm curious if the way that
+the the regulatory space is shifting
+um if if it'll be possible for that
+hyper financialization to continue and i
+admit i myself got lost in it i thought
+it was going to be the best social
+impact
+um funding strategy that would ever
+exist is like free money and but then
+you look at the underlying principles
+and it's actually it's all
+um not really real like there's no real
+value that's being created there and so
+in the same way that i think capitalism
+is
+destroying itself i think the hyper
+financialization kind of already
+destroyed itself in web3 and i'm curious
+to see if that aspect of web3 makes it
+through this next phase and you know the
+the meme of the degen to regen pipeline
+like i'm curious how many degen's
+through this cycle will actually move
+into more of the refi space yeah and
+re-fired the use case aside i think the
+most for me this is just my personal
+opinion having been here for a couple
+years
+i think the most interesting thing about
+blockchain is application specific use
+case potential and the fundamental
+transparency of the data set the
+democratization of participation the
+autonomy of holding your own keys
+to me i think that we're gonna have to
+as a culture and as a blockchain
+community really make a choice to
+showcase these real world use cases if
+we can't make a strong enough
+industry-wide argument that blockchain
+has real world use cases and can be a
+real value proposition on the global
+level we are going to get out regulated
+there's there's just no way around that
+and for me i was thinking about this
+earlier about
+you know i was saying in terms of police
+because when when i got down to occupy
+wall street to be completely honest it
+was an absolute accident i thought
+radiohead was playing someone sent me
+like a one-time email straight up and
+now i got there they were like great i
+was playing this part you should go i
+was like and then that's a great occupy
+origin story uh the total universe
+accident i had no idea
+it's crazy
+but i ended up in this march to the
+police headquarters in new york city and
+the energy of the experience at the time
+i didn't even know what police brutality
+was in my you know upper middle class
+new england white privilege it wasn't
+you know a world view that that i had
+come from and i was thinking this
+morning about the the system aggression
+i saw it occupy the people who the
+police curb stopped the fingers and
+hands i saw broken the ripping apart of
+direct action activists linked together
+arm to arm on bridges and
+comparing that
+um as like a social subjugation to the
+lack of federal action around collapses
+like ftx really makes me question
+intention
+um around our industry from our
+regulatory level because i think there's
+so much wall street capital in all of
+the investment and all of the exchanges
+and in all of the organizations that to
+some extent i actually think that
+they're afraid to regulate and they've
+been afraid to regulate for a long time
+so i really think that the whole point
+of blockchain is the social organizing
+mechanism a social decision-making
+that's mechanism a social graph a trust
+graph a truth graph and we have a real
+responsibility more than anything else
+to tell the stories of our use cases in
+our communities and build honest and
+authentic technology that will outlive
+us
+um because to me
+you know a lot of the occupy wall street
+notes are lost somewhere in a google
+group that if i work hard enough i could
+probably find a password to but none of
+that as a historical record is public
+none of that decision making is
+something that everyone can't get access
+to so i do think we're in a different
+social evolution point in this juncture
+and i really look forward to how we
+communicate our use cases and how we
+build public conferences about them the
+one thing i walked away with more than
+anything from occupy is a love of public
+decision making and like a real
+willingness to be like radically
+vulnerable and a pile of people making
+decisions and helping people make
+decisions and i think we have a real
+opportunity to build a shared governance
+culture and a shared decision-making
+culture that i don't think we put enough
+time and energy into we put energy into
+defy exchanges and getting our little
+rewards and we've all participated let's
+not pretend like we're not up in there
+reaping all the aprs that were so crazy
+but i think it demands something more of
+us on a soul level and so i'm kind of
+excited about the bear market because i
+just think that we can evolve why we're
+here and our intentions more authentic
+way when we're not stuck in a hype cycle
+and i think the social dimension of
+governance is something that the dow
+space is still learning and
+yet there's this whole other body of
+work and people who've been doing that
+kind of stuff and they haven't been in
+the web 3 space and that intersection is
+really interesting to me because dao's
+create a kind of back end for
+distributed decision making but like
+what the social process is to scaffold
+the the integration of perspectives and
+and listening to each other and finding
+decisions that are actually more
+consensus based than like first passive
+post voting or reputation based
+um but when i imagine occupy happening
+again now
+powered by dows and to actually have be
+able to collectively raise and hold
+funds to pay for the medics to pay for
+food it feels like it it would
+accelerate
+occupy if it were to happen again to
+have those tools
+um and it might actually improve web3
+because a lot of people who are in the
+social process space
+could actually integrate that wisdom
+into the web 3 tech stack one of the
+things that i've been studying as a
+technologist for the last couple decades
+is technology trends and and there's
+this thing called the gartner hype cycle
+in which you have some sort of trigger
+that creates a peak of inflated
+expectations and then that collapses and
+you go into this thing called the trough
+of disillusionment and
+um and then you get into what's called
+the slope of enlightenment and then
+there's this thing called the plateau of
+productivity and you know this is sort
+of a
+um
+sort of something that assumes that the
+technology gets through the trough of
+disillusionment in reality there's a
+bunch of different technologies that
+just stay in the disillusionment draw
+forever because there's never a slope of
+enlightenment and i'm wondering if you
+know i i've i'm kind of just thinking
+about that as a cyclical way that
+movements happen
+um and just thinking about the peak of
+inflated expectations that happened
+um with occupy wall street in in which
+there was a lot of really amazing
+momentum and social change and probably
+inflated expectations for what was
+possible and then when the camps were
+all broken up by the police and we all
+moved on then that that was a trough of
+uh disillusionment and if the
+integration of occupy wall street and
+dao era tools can kind of be the
+maturing of the movement and a plateau
+of productivity i guess benjamin i'm
+just saying back to you what you said
+where if occupy was on dow based rails
+then it could do way more in and
+probably be more productive than than
+otherwise otherwise noted like i don't
+know i guess maybe the question that
+i'll take back to you is are there any
+theories of systems or social movement
+maturation that that fit your modeling
+and how does that my comments about the
+gartner hype cycle resonate with you all
+yeah that you bring up a really
+important paradigm shift that i think i
+want to unpack some more which is that
+even in my example of what a new occupy
+could do with dows the only use cases i
+gave were things relative to protest
+like how do you run an effective protest
+and where i'm really interested to go is
+in part of the paradigm shift is instead
+of organizing people to use our voices
+to delegitimize a system like the
+federal reserve or capitalism itself or
+the banking industry
+i think we have the potential of
+galvanizing that energy of needing
+change into actually building parallel
+systems and structures instead of
+protesting things and there's this
+really incredible organization called
+the bloom network and they're building
+on web3 but they're mostly focused on
+like actually improving quality of life
+in place and so they you know build
+community gardens and they do after
+school programming and they're this very
+post-capitalist anti-capitalist
+organization but they're not protesting
+anything and i think that's a really
+interesting paradigm shift with web3
+where the the kind of solarpunk ethos
+of like well this whole thing is screwed
+and and failing
+um what would we build if we actually
+wanted to build a society that was
+equitable and we end with web3 we can
+actually just start to do that instead
+of protesting you know the brokenness of
+our current institutions
+i want to add some parallels for my own
+experience because i actually think it's
+a back and forth that happens to to
+everybody on an individual level so
+you know when i when i was in ducati
+park sustainability working group only
+gave like it only gave you crap about
+the earth like i literally found it
+because someone had painted the earth on
+a piece of just like you know whatever
+and i was like this has got to be where
+my people are and i just kept harassing
+people at this little earth picture
+until i figured out where the meeting
+was like there was no you had to be
+aggressive to find your way into what
+you were after there
+um and i through that process
+um that's how i became a permaculture
+designer
+there were folks that were building
+green water systems
+um or gray water systems for the kitchen
+that i started to help with that are
+these amazing organizers in new england
+i got to go to all of these classes we
+replanted all them ducati park
+um we started to take all the compost
+out to community gardens on bicycle we
+developed bicycle uh generator systems
+that ran all of the power for press and
+media and then eventually when we got
+rated and i do think we got rated
+because of us this is my theory in the
+end i think we got rated because we had
+developed a decentralized power system
+that the people could bike on themselves
+after they turned the power off in the
+park as a way to try to scamper us out
+of there because it was the night that
+we distributed the final 14 bikes that
+they got rated
+um so i afterwards really i became a
+designer i became a solutions architect
+and spent a whole decade building farms
+building gardens helping communities
+decide how to redesign their park
+re-envisioning public space through
+group design and public decision making
+process i mean there were 25 000 people
+who participated in decisions for the
+parks that i was a planner for in the
+city of pittsburgh for almost seven
+years
+and now i work at regent and i find that
+this i have this new desire to protest
+and it's not that i would go in the
+street but i think being comfortable
+enough being vulnerable
+um and speaking up is a really critical
+aspect of intervening in our complacency
+and you know now that i have more
+technical experience under my belt i can
+i can explain to you how the different
+blockchains work and how the assets move
+and the architecture and decision making
+and the code in a way that you know
+that's not my background
+um i find this this new arrival at a
+point of saying in these cycles that
+we're in we have to speak up and not be
+complacent and so our voice and our
+creation is in fact protest as well as
+it is building the rails that are
+fundamentally necessary to build a new
+economic system and my question is
+really like
+what is our shared value set
+can we build one can we have a
+collective cross protocol cross whatever
+consensus process around what we think
+that our value set is because i fear
+that you know the occupation had its
+principles it had its little pamphlet
+you knew you knew when everybody thought
+they were there for and in that park
+there was the beating drum like
+literally the guys that literally they
+took it on themselves to literally have
+a drum circle for like six months
+straight like nobody stopped drumming no
+matter what time of day it was to the
+point where you were begging them to
+stop but what is our heartbeat as a
+community what are we here to build and
+how do we build cross-organizational
+consensus around what that mechanism
+should look like in a way where we can
+be decentralized but we can come
+together with a shared ethos i'm looking
+for that charity ethos being this far
+along in this journey and i'm looking
+for how we build charity ethos across
+whose tech is best and who's protocols
+flies or who thinks they're you know
+fanciest on the deck here i want to know
+what we all want to create in the world
+together and find ways for us all to
+work together and build that consensus
+to me that's really the golden nugget
+for us as a community moving forward
+i've been using this phrase kind of
+largely inspired by kevin about civic
+hyperstructures the phrase
+hyperstructure and you put civic in
+front of it there's something about
+like how do we facilitate the
+process of alignment between different
+social groups and actors one thing i
+noticed in your share was just how
+intensified the political polarization
+and the identity politics has become in
+the last 10 years since occupy and it's
+actually even hard for me to imagine
+that kind of pluralistic or diverse of a
+group of people in one movement today it
+feels like you have to be part of more
+of a niche movement context in order to
+speak the same language and be seen as
+on the in-group of of that and so i'm
+i don't have an answer for this but i
+feel like you know is there a sort of
+social architecture with that could be
+that could utilize web3 to help build
+the nodes of of the
+movement and the connections between
+those nodes
+um because it feels like we actually are
+all
+rooted in at some levels there's certain
+universal principles i keep i come back
+to life and quality of life
+um as a kind of universal principle like
+we're all going to have different
+experiences of what quality of life
+means to us but if we can collectively
+say we actually want to create an
+economic system that that improves the
+well-being of people and communities
+then that creates at least some kind of
+a shared value system
+um and but then there's going to be a
+lot to metabolize to actually
+come into alignment as a larger movement
+together and so i don't have the answers
+for this but i'm i'm curious how
+technology might be able to scaffold the
+the process of depolarization and
+helping people find those shared value
+systems one of the things we talk about
+a lot when i was at gitcoin is this
+idea of cooperation across social
+distance so basically you know
+cooperation across distance is is is
+basically like if we're not in the same
+social network but we can still
+cooperate on on something and that's
+like the opposite of tribalism and being
+in our own little echo chambers and so
+you know i i think that that's that's
+definitely one really component of
+coalition building and in doing it
+across dowels across layer ones across
+tribes i think is a really important
+thing and and i think that maybe what
+we're building towards here is nathan
+schneider who's also an xbox occupier
+who's uh web3 adjacent now talks a lot
+about how
+in the web the web has gotten really
+good at disrupting power uh by creating
+protest but it hasn't really gotten good
+at holding power and and i think that
+that's maybe one maturation point that
+we really need to see is is creating
+systems that are stable and can hold
+power and still be legitimate in if if
+occupy was to move on to web3 rails and
+and it seems like occupy was really good
+at disrupting power
+um or at least creating a social
+movement that felt like it could disrupt
+power what would it look like to hold
+power as the generation that went
+through occupy uh matures is kind of the
+question at the tip of my tongue yeah i
+think that's a really interesting
+question i mean
+i think it rests on social coordination
+and a just a really a good example of
+where i felt like this happened just
+really beautifully and magically this
+fall this is just a very distinct thing
+that happened
+um
+the blockchain infrastructure carbonoff
+setting working group has been trying to
+like gather all the refund homies for
+you know a year
+and
+it never felt so alive as when we all
+met in coconut colombia in person and
+actually got to see each other face to
+face and actually got to develop real
+relationships and actually got to talk
+about what does technological
+interoperability with like to us and how
+can we really work together what's our
+shared value is how can we share
+resources how can we have shared
+decision making definitely map a bigger
+system that we want to create together
+so
+i think part of power is being connected
+in community
+um and being willing to sort of take
+your boundaries down about being bigger
+better or best
+um but i also think power is money
+because money reflects contention and
+focus and finding a way to further and
+deepen the capitalization of these
+blockchain for good whether it's social
+good or environmental good or other good
+use cases i think they're really
+expanding the capital investment into
+those spaces and finding ways to really
+fund those economic models is largely
+going to be critical to us having power
+we don't have power unless you have
+place unless you have position and a lot
+of that still rests on this investment
+capital cycle that again comes back to
+that 99 thing and are we going to be
+bankers or are we going to be the bank
+lists and and how do we how do we
+negotiate and navigate between outside
+forces and forces of ourselves because i
+think we create so much value that in my
+mind is worth so much more to our social
+and planetary evolution than like the
+big d5 verticals that have a lot of you
+know total value left
+i want to see like total value captured
+into social organization and into
+resilience systems and that requires a
+real evolution but it also requires a
+big capital investment as you value
+proposition in our ecosystems
+yeah it feels like the the maturation of
+both
+how we approach the strategy of them of
+the movement realizing that
+at a structural level we we are in some
+ways forced to play into some amount of
+financialization of even social impact
+um and yet there's ways that we can do
+that in a more ethical way that's
+aligned with our principles and values
+but it's it's we're not just doing it
+for free in our spare time we're
+actually building models where people
+can be remunerated for
+taking pro-social actions
+um
+and as far as like making it real and
+and actually holding power
+um i was reminded of the experiment of
+redemption dao which if you were in
+tracking it was very similar to
+constitution doubt people trying to
+raise money to buy uh land in the congo
+and there's a lot of complex
+intersectional conversation we could
+have around colonization and the kind of
+naivete of some of the organizers who
+weren't aware of just how challenging it
+is to work with it with the government
+in the congo but it came from this like
+deep i felt it myself of like reading in
+the new york times this giant
+area of rainforest is going to be
+extracted and the amount of carbon
+that's released from the peat lands
+alone in that area let alone the the
+fossil fuels that will be burned that
+will be extracted from that place it was
+so viscerally disturbing that i got the
+impulse
+of why people wanted to raise as many
+millions as possible in a very short
+period of time to buy that land
+and put it into a trust
+um and so i think where things get
+really real is like can we
+hold
+things of value together
+and direct those flows of value into
+different value systems that are
+non-extractive and i for all of the
+amount of times that like frontline
+ecological protesters go and like cut
+the lines uh and do kind of um direct
+action to disrupt fossil fuel extraction
+what if on the other side of that
+they're a group of refi investors who
+are going to buy the contracts to those
+natural resources to keep them in the
+ground is that a strategic necessity at
+this point if we found that the wheels
+of capitalism keep turning no matter how
+many people put their bodies in front of
+it to try to get it to stop do we
+actually have to use capitalism to end
+capitalism and that's that's the inquiry
+i'm in i think i've settled long ago and
+yes like i i am not afraid to admit that
+i am a catalyst trained in financial
+capitalism at a corporate level who is
+unafraid to use those mechanisms for
+good i mean i mean just give you a stat
+i mean i spent 10 years helping people
+develop their projects developing
+projects my own developing projects for
+cities i've raised over 30 million
+dollars as somebody who just helps
+people raise money in that time period
+so i like to the phrase i use with like
+gregory from regen is i like to call it
+composting capital
+i'm not afraid to use the structural
+mechanism to say okay cool
+how do we you know how do we take those
+funds and put them into something really
+extraordinary that it's going to change
+many different people's lives and you
+know i would love for us to have a
+hundred billion dollar fund that there's
+a consensus mechanism where leadership
+across all these organizations in the
+blockchain space work to have decision
+making processes and bring communities
+of practice into those decision-making
+practices and actually move capital into
+building the solutions that we want to
+see i think that's possible but it
+requires a willingness for all of our
+leaders in this ecosystem to work
+together to largely take time out of
+their days to work together to raise
+funding at a scale that allows us to
+have control over the solutions
+architecture and the decision-making
+architecture and you know i would love
+to see that be possible and you know
+hearing this in in myself out loud you
+know i wonder if maybe that's part of my
+next wave of service in web 3 is pushing
+that dial beyond you know the stratified
+lines of who we work for and whose tech
+we build into how do we movement build
+and capitalize solutions oriented
+movement building in a way that is
+authentic and transparent and collective
+i think that could really change a lot
+of things around the world if we were
+focused and coordinated collectively the
+world has woken up to refi and celo is
+here for it celo is the layer one for
+the [[regenerative finance]] movement it's
+fast planet positive and built for the
+real world cello has committed to
+producing a sustainable future from day
+one and has built its technology around
+one of the lowest carbon impacts
+consensus mechanisms and is the world's
+first carbon negative evm compatible
+layer one blockchain cello is a movement
+to create the conditions of prosperity
+for everyone whether it's tokenizing
+carbon credits with toucan providing
+capital to underserved communities with
+unicorn or building for millions of
+users around the globe cello was created
+to transform crypto enthusiasts into a
+movement of change makers follow along
+on twitter at celloorg to learn more
+about how cello is accelerating refi for
+a positive lasting impact on people
+communities and the planet and if you're
+a builder interested in refi be sure to
+join the build with sellout hackathon
+live now with a prize pool of over a
+hundred thousand dollars goldfinch is a
+decentralized credit protocol with a
+mission to connect the world's capital
+to the world's growth goldfinch focuses
+on real yields from real companies so
+start lending your usdc to real
+businesses driving growth worldwide
+goldfinches borrowers are proven
+fintechs and credit funds in emerging
+markets who need access to goldfinches
+capital to drive economic growth in
+regions faced with barriers to financial
+access in just under two years goldfinch
+has loaned over 100 million usdc
+reaching over a million people in
+businesses across 28 countries goldfinch
+is doing what d5 was always meant to do
+expanding financial access to those who
+have historically been shut out of the
+tradpy system so so become a goldfinch
+member to put your uscc to work
+empowering real businesses growth join
+goldfinch's new member vaults to be an
+active investor and take part in
+supporting goldfish's security and
+expansion receive yield enhancements
+generated by protocol revenue plus
+access exclusive communication channels
+and more so go to goldfinch.finance to
+get started
+what you all said about uh was using
+capitalism to end capitalism kind of
+reminds me of
+um you know there's this this winston
+churchill quote about how democracy is
+the worst form of government except for
+all all the others that have been tried
+and i kind of feel like the same way
+about capitalism is that it's it's the
+worst form of economic systems except
+for all the other ones
+um and so you know that leads me to okay
+we can now program our we can now
+program money why don't we try some more
+some more economic systems so that you
+know we can create an evolution of
+capitalism that's more regenerative and
+um you know the the stuff that we put in
+the greenpill book is going from just
+like
+creating rewards for for for now me but
+like in more of like a bentoist type of
+of system which uh creates rewards for
+for now us and for future us
+um a type of capitalism that rewards
+value creation instead of just value
+extraction
+um removes the incentive to externalize
+harm i think the decentralized markets
+are a really powerful tool for
+allocating capital but we just need to
+it's like they need to be oriented in
+the right direction and i feel like
+that's the opportunity
+uh of the space and and also maybe
+creating little local bubbles isn't the
+right word but local economies that are
+oriented around [[public good|public goods]] or
+permaculture or civic spaces and and
+allowing them to uh have their own value
+systems and capital that finance them
+feels like a huge opportunity for this
+space so i don't know if that's if
+that's occupy being the new web 3 but it
+feels like it's an opportunity for
+occupy organizers to use web3 to to
+realize some very occupy uh like like
+ends so i don't know curious your
+reaction to that if any
+the one addition i would make is i the
+change to our relationship to
+[[climate change]] and ecological collapse
+that the kind of trophic cascades of the
+six mass extinction uh for me i look at
+ecological claps as a kind of heuristic
+of systems design so what are the core
+human needs that need to be designed for
+in these parallel systems to minimize
+human suffering as the glo as globalized
+supply chains begin to fracture and fail
+and i think that can actually help
+orient our building towards the things
+that actually are needed at the
+grassroots level to create healthy
+communities instead of this sort of
+abstraction of like let's try a bunch of
+different things like let's definitely
+experiment but i think having a kind of
+design space that's like how do we work
+on local food how do we ensure that we
+have clean water how do we put more of
+our community land into trust and have
+funding to
+um rehabilitate areas that have been
+really profoundly extracted from and
+those kind of heuristics i feel like are
+the kind of where it grounds in and it's
+it's not just sort of the abstraction of
+making any type of system it's like how
+do we design using web3 to account for
+the core human needs so i mean as
+someone who's in this movement and you
+know maybe i know more about it than
+most from doing 70 episodes of this
+podcast and like
+um
+is it it feels like those experiments
+are happening i mean i'm looking at the
+regen network i'm looking at proof of
+humanity i'm looking at all the hundreds
+of impact owls that we've found to me
+the problem is that the design space we
+have the tools the problem is that the
+talent and the capital are not focused
+on those tools they're focused on
+vegetable farms they're focused on with
+chasing the highest yield and so the big
+opportunity for me feels like how can we
+plant in the uh in the minds of of a
+hundred thousand digens this idea that
+the best yields come from going into
+regen web3 projects into the regen
+network into proof of humanity into
+impact else because what that does is it
+up regulates those projects allows them
+to scale their capital it gives
+sustainable yields i mean assuming these
+things these impact hours are more
+sustainable and anti-fragile than things
+like ftx and you know like the yam
+finance ponze it gives them stronger
+yields
+um it gives us all legitimate use of
+crypto
+um you know the financials should be a
+means to an end not an end in themselves
+in my opinion and um it just feels like
+it solves problems for all the different
+actors in the ecosystem but i don't know
+how to make a case that case to the
+djends because it like i think as soon
+as they hear a social impact it sounds
+like woo-woo to them or it sounds like
+something where they're going to lose
+their money and so connecting creating
+that connective tissue i think is is
+what feels like the work ahead of us so
+i don't know any reaction to that but
+that's at least how i'm thinking about
+it it's interesting we're facing this
+right now with this campaign we have
+called cosmosero and the goal is just to
+get protocols and validators to take
+responsibility and offset their
+footprint they have a footprint let's
+just be honest here
+but what is getting people to
+participate is in climate altruism as i
+would describe it it's that there's
+going to be a liquid pool of carbon it's
+that there's gonna be rewards it's that
+they could do a native token swap all of
+these financialization mechanisms and so
+i think we have to be as people inside
+the impact space unafraid to utilize
+capitalistic language in order to draw
+them in and i think we just have to come
+up with a better strategy of like
+cool degender regen is a meme but like
+how many people really care about that
+it's only us making fun of them and like
+isolating ourselves with that meme i'm
+more interested in like how do we really
+tell a financialization story for
+ecological systems and those social
+impact of those ecological systems
+because to me you know that single drum
+beat and this is what i look up to at
+occupied it's the gift that it gave me
+that keeps on giving is that the climate
+collapse is the only thing we're putting
+my time my energy and my money into and
+if i was so independently wealthy that i
+could fund everything i freaking would
+even if i only got one percent
+um but it's really a social evolution
+it's really like a mental architecture
+evolution that we have to be proactive
+about
+um that's why i always tell people i
+used to work for jp morgan they take the
+conversation more seriously when they
+know i had all those licenses so i
+always lead with that because it disarms
+them and makes them realize that i was
+them but i chose to apply those skills
+to a different problem solutions that
+than necessarily the one that they have
+with their balance sheets and i'm game
+so like we should do this not just talk
+about it but like find a way to do these
+things
+i i do have like one group of really
+close d-gen friends of mine and it's
+kind of rare for me uh
+to
+have that experience of like trying to
+instill or advocate for principles that
+really matter to me
+um but to feel like there's this kind of
+nihilism in the degen space that's just
+like
+yeah cool like have you seen this like
+stick man it's the latest one that i'm
+shilling and
+it's been really hard for me because i'm
+so earnest it like actually required me
+to actually become
+to let go and be like okay if you guys
+want to do that i'll be over here
+building this stuff if you ever want to
+come hang out you're welcome to
+um and there's this real question of
+like what is value what is valuable
+um and then this sort of nihilistic
+d-gen space like well whatever
+anything can be valuable instead of like
+community is valuable a healthy living
+earth is viable and so i don't know how
+you make that bridge i think the bridge
+is being built this is just i'm going to
+add some financialization information
+here one the sec now requires um
+everything listed on the exchanges to
+report through est and to truecarbon
+data information and really from a
+corporate sustainability and corporate
+finance perspective carbon is now an
+asset on the balance sheet the more
+pardon that goes on to the balance sheet
+which i actually think is the more
+important financial intervention than
+companies offsetting the more and this
+is where i'm totally on the same team as
+gregory wholeheartedly admitting that
+out loud i do believe that as
+corporations and nation states put the
+value of ecology on balance sheets the
+system re-architects itself so to me
+that's like the lynch pin in the
+situation that if you pull out the whole
+damn blows but that takes a long time
+for people to make brave choices at
+corporate levels and
+i think that looking at what is it that
+we value and how and why it's a
+conversation we need to have in a more
+mathematical and forthright fashion than
+we currently do we can't lead with hey
+climate doom or hey impact good we need
+to lead with dollars and cents and be
+okay doing that because it transforms
+and compost capital into the system that
+we think it ought to be but that drives
+from first principles
+as i go back to do we all have the same
+drum beat can we define our principles
+and have multiple strategies to that aim
+depending on who you are and what you
+bring to the team yeah i don't think a
+web 3 is having the same drum beat maybe
+abusing your analogy but it feels like
+an orchestra uh in in you know as long
+as we're all playing different
+instruments and that there's a sim
+there's a symphony that's developed uh
+between all of them then it feels good
+um
+yeah well so we only have four more
+minutes until the the bottom of the hour
+so i'm wondering um if y'all have
+anything that else else to say in
+closing and if there's anything that i
+didn't ask you that that you all want to
+say
+i i think the the
+i love the kind of the paradox here
+because i think that there's something
+about the financialization of carbon and
+of social impact that
+um
+i think occupy did a better job than
+web3 has so far of questioning the
+underlying values systems of capitalism
+itself
+and
+um i don't want to go off on a whole
+tangent now but there's this notion of
+energy blindness uh nate haggins does an
+incredible work on this
+um that basically a large amount of the
+value that
+we're able to extract from the natural
+world is the product of millions of
+years of stored carbon in the ground and
+so we're actually taking from an energy
+store without replenishing it and so
+we've basically created an inflated
+value system where we think we can make
+things for cheaper than we actually can
+because we're not factoring in the
+amount the millions of years that it
+took for that carbon to become in that
+form and so it feels like we're actually
+running up against like a very material
+structural wall around value
+and
+and i think that could be a really rude
+awakening for a lot of people
+um when we start when it starts to
+become harder to extract that energy and
+energy costs go up and then costs of
+everything go up and so i think we're in
+this very narrow window right now where
+um we're not being forced to radically
+change those value systems but i think
+we will be
+um and so i don't know that we're going
+to need to make as much of the
+financialization argument
+um once it becomes really clear that
+we've so vastly extended beyond the
+carrying capacity of the earth that
+we're no longer able to produce things
+at the cost that we currently have been
+and that's just going to send so many
+different things into a totally chaotic
+systems
+chaos before they recalibrate to a new a
+new basin and
+um and so yeah i would love to see more
+like deeper conversations about the
+nature of value in the web 3 space and i
+appreciate this conversation like
+bringing that ethos like back into my
+awareness it's a really good point
+i think i want to leave everyone with a
+little bit of hope that this is going to
+be better suited for those that are able
+to watch on youtube so for anyone who's
+listening you should go see this on
+youtube i have some real art from occupy
+i would like to show you
+um because i am a hoarder of you know
+important historical artifacts from the
+journey oh yeah and i want to make some
+points so
+this is a print of the uh march across
+the brooklyn bridge uh by a wonderful
+artist named lopi larrow very good
+friend of mine i've seen a long time but
+if you look at the spread
+that front line is women
+and i think here in web 3 we need to
+have more women more non-verinary people
+more people of color using these tools
+with us because occupations and
+evolutions are often driven by women and
+those who are marginalized so on their
+behalf i want to show beautiful art that
+represents that and occupy if you looked
+under the hood it was there were a lot
+more women in occupies than there is in
+web 3 or in tech and so
+i want to show you a couple more things
+because i totally am a true occupier
+that hoards the original journals
+this is my favorite picture of the whole
+occupation
+in one of the newspapers it's like this
+young radical activist cup letting me
+know who they are kissing and i just
+want to remind folks that love
+the love of ourselves love our
+communities love possibility is a true
+driving force and a first principle that
+i think is really important i should
+think this is like the sweetest photo i
+ever saw if i didn't keep the rest of
+the newspaper i literally just like kept
+this page as an example but i'll also
+say that there's something visceral that
+hits to see the wall street journal but
+it's called the occupied wall street
+journal yeah i love that medically great
+i know totally they they had this epic
+journal club and this might make some
+terrible audios i open this but
+i have the general strike edition
+filled with arts and different posters
+so i want to show you a couple of them
+here because i think that we don't do
+enough climate joy we didn't do enough
+art as activism in web 3 we view art as
+commodification
+but do we just make art to raise money
+do we just make art to like emancipate
+people from the drudgery of their daily
+lives i don't know that we use art as an
+essence
+in the same way that occupy wall street
+did
+we use art as capitalism and they're
+just i want to find just this one last
+one because i know this is sort of me
+and a piece of paper pile
+this one is so beautiful
+and in a language i can't even
+read and so peaceful
+so i want to see us create climate joy
+climate art climate activism and be
+totally unafraid to be weird and
+wonderful and let more of that
+vulnerability out in web 3 and to me
+when art is just seeping out of our
+pores then i will probably personally
+feel like occupy in web 3 are more of
+the same shared lived experience than i
+currently do
+so thanks for letting me show you my
+relics that i've kept for a decade
+folded peacefully in a drawer to keep
+them safe
+so if you're listening uh we'll have a
+link to the youtube in the show notes
+where you can check out the last five
+minutes in which uh sarah shows us her
+beautiful art but i also think that your
+audio voice over as you're talking to
+them is uh is worthwhile for audio
+listeners as well so thank you for
+sharing that pleasure
+thanks for letting me share this has
+been a really amazing conversation
+appreciate the thoughtfulness
+um in the care that went into preparing
+for it and and also just the fact that
+we took a low nuanced conversation on
+twitter and brought it into a high
+nuanced place here so
+um thanks to the listeners for listening
+and and sarah and benjamin thank you for
+joining
+[music]
+yeah thank you for holding space
+[music]
+thank you
+[music]
+foreign

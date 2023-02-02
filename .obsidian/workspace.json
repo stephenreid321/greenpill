@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "b1d14e64d99b52c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e72de70c5cc934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb4e40a87d841500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/collective intelligence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b30c3f83fe962204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/third attractor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e1af45237e98e49",
+    "type": "split",
+    "children": [
+      {
+        "id": "286f55d5db05bd3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6f826ec8c307229",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c51846d4c81fcde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a228d960e114a5e6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbb27205ca7832e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd85eaeca6213f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67c66cc92d01cda6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/collective intelligence.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e6a7401974d79c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/collective intelligence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "513f35818aa49b33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53999e1381ad44c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/collective intelligence.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes": false,
+      "switcher:Open quick switcher": false
+    }
+  },
+  "active": "cb4e40a87d841500",
+  "lastOpenFiles": [
+    "Concepts/climate change.md",
+    "Transcripts/Local Currencies & Basic Income | Alain Brenzikofer | Green Pill 79.md",
+    "Transcripts/Networkologies with Christopher Vitale - Green Pill 50.md",
+    "Transcripts/Creating Sybil Resistance with Upala Founder Petr Porobov | Green Pill 36.md",
+    "Transcripts/Collective Organization with Pia Mancini | Green Pill 18.md",
+    "Transcripts/Circles UBI with Martin Koppelmann | Green Pill 70.md",
+    "Transcripts/Balaji Srinivasan on the Network State | Green Pill 28.md",
+    "Transcripts/Superstructures with Daniel Schmachtenberger | Green Pill 32.md",
+    "Transcripts/Reputation-Based Economies with Danny Zuckerman | Green Pill 37.md",
+    "Transcripts/Digital Identity is Not Human Identity with Phillip Sheldrake | Green Pill 72.md"
+  ]
+}
