@@ -46,14 +46,4 @@ class MarkdownRecord
     attributes = attributes.each_with_object({}) { |(k, v), h| h[k] = new_attributes[k] || v }
     create(attributes)
   end
-
-  def self.define(title)
-    openapi_response = OPENAI.post('completions') do |req|
-      req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
-        "Provide a postgraduate-level definition of the term '#{title}'.
-
-        The definition should be 1 paragraph, maximum 150 words." }.to_json
-    end
-    update(title: title, body: JSON.parse(openapi_response.body)['choices'].first['text'].strip)
-  end
 end

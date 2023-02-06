@@ -60,5 +60,3 @@ class Transcript < MarkdownRecord
     end
   end
 end
-
-Transcript.populate
