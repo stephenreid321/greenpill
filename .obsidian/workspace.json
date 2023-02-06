@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "308ea1d48d643c17",
+        "id": "1e2c6e78766788b0",
         "type": "tabs",
         "children": [
           {
-            "id": "46e482bedd39ba41",
+            "id": "691f527ec326bf8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 300
   },
   "right": {
     "id": "cbb27205ca7832e5",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ]
@@ -139,17 +148,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "46e482bedd39ba41",
+  "active": "691f527ec326bf8b",
   "lastOpenFiles": [
-    "index.md",
-    "Concepts/climate change.md",
-    "assets/Pasted image 20230206162944.png",
-    "Transcripts/Retroactive Public Goods Funding Round 2 | Bobby Dresser of Optimism | Green Pill 83.md",
-    "Concepts/public good.md",
-    "Transcripts/Is Crypto Good for the World? with David Hoffman & Juan Benet | Green Pill 63.md",
-    "Untitled.canvas",
     "Concepts/smart contract.md",
     "Concepts/metacrisis.md",
-    "Concepts/gitcoin grants.md"
+    "Concepts/gitcoin grants.md",
+    "Transcripts/BrightID with Adam Stallard | Green Pill 35.md",
+    "Concepts/sybil resistance.md",
+    "Transcripts/Announcing Green Pill Season 2 | Regenerative Society.md",
+    "Concepts/network effect.md",
+    "Transcripts/Balaji Srinivasan on the Network State | Green Pill 28.md",
+    "Concepts/social media.md",
+    "Concepts/regenerative finance.md"
   ]
 }
