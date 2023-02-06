@@ -1,4 +1,4 @@
-This is a Ruby/OpenAI enhanced Obsidian knowledgebase for the GreenPill podcast.
+This is a Ruby/OpenAI-enhanced Obsidian knowledgebase for the GreenPill podcast.
 
 Github: https://github.com/stephenreid321/greenpill
 Obsidian Publish: https://publish.obsidian.md/greenpill
