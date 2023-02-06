@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19e72de70c5cc934",
+        "id": "dd579ce3f302ae34",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4e40a87d841500",
+            "id": "af3db45c64af590f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/collective intelligence.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b30c3f83fe962204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/third attractor.md",
+                "file": "Concepts/gitcoin grants.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,7 +52,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -79,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/collective intelligence.md",
+                "file": "Concepts/gitcoin grants.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/collective intelligence.md",
+                "file": "Concepts/gitcoin grants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/collective intelligence.md"
+                "file": "Concepts/gitcoin grants.md"
               }
             }
           }
@@ -161,17 +149,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "cb4e40a87d841500",
+  "active": "af3db45c64af590f",
   "lastOpenFiles": [
-    "Concepts/climate change.md",
-    "Transcripts/Local Currencies & Basic Income | Alain Brenzikofer | Green Pill 79.md",
-    "Transcripts/Networkologies with Christopher Vitale - Green Pill 50.md",
-    "Transcripts/Creating Sybil Resistance with Upala Founder Petr Porobov | Green Pill 36.md",
-    "Transcripts/Collective Organization with Pia Mancini | Green Pill 18.md",
-    "Transcripts/Circles UBI with Martin Koppelmann | Green Pill 70.md",
+    "Transcripts/BrightID with Adam Stallard | Green Pill 35.md",
+    "Concepts/sybil resistance.md",
+    "Transcripts/Announcing Green Pill Season 2 | Regenerative Society.md",
+    "Concepts/network effect.md",
     "Transcripts/Balaji Srinivasan on the Network State | Green Pill 28.md",
-    "Transcripts/Superstructures with Daniel Schmachtenberger | Green Pill 32.md",
-    "Transcripts/Reputation-Based Economies with Danny Zuckerman | Green Pill 37.md",
-    "Transcripts/Digital Identity is Not Human Identity with Phillip Sheldrake | Green Pill 72.md"
+    "Concepts/social media.md",
+    "Concepts/regenerative finance.md",
+    "Concepts/public good.md",
+    "Transcripts/MetacrisisDAO with Daniel Schmachtenberger | Green Pill 84.md",
+    "Concepts/impact certificate.md"
   ]
 }
