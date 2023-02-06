@@ -10,6 +10,7 @@ Obsidian Publish: https://publish.obsidian.md/greenpill
 ## Todos
 - [ ] AI-generated audio/video using tools like [synthesia.io](https://www.synthesia.io/) or [elai.io](https://elai.io) 
 - [ ] AI-powered semantic search using [OpenAI Embeddings](https://beta.openai.com/docs/guides/embeddings) & [Pinecone](https://cobusgreyling.medium.com/using-pinecone-for-question-answering-with-similarity-search-85ec8a636da2) or [Algolia](https://www.algolia.com/)
+- [ ] AI-generated 'see also' links
 - [ ] Find a good way of linking to exact timestamps in transcripts
 - [ ] Make a green-accented GreenPill skin
 - [ ] Transition away from Obsidian Publish to an open source publishing solution e.g. https://github.com/maximevaillancourt/digital-garden-jekyll-template
