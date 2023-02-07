@@ -57,6 +57,25 @@ class MarkdownRecord
     update(title: title, body: body)
   end
 
+  def self.see_also(attributes)
+    body = nil
+    until body
+      openapi_response = OPENAI.post('completions') do |req|
+        req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
+          "Select the 5 terms from the list below that are most relevant to the term '#{title}'.
+
+          #{(titles - [title]).join(', ')}.
+
+          Return the result as a comma-separated list, e.g. 'term1, term2, term3, term4, term5'.
+
+          " }.to_json
+      end
+      puts JSON.parse(openapi_response.body)
+      body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
+    end
+    set_callout(attributes, 'See also', body)
+  end
+
   def self.define_all
     all.each do |r|
       puts r[:title]
