@@ -10,7 +10,7 @@ Obsidian Publish: https://publish.obsidian.md/greenpill
 * `/_scripts` (not visible on Obsidian/Obsidian Publish) contains the Ruby scripts that supercharge the knowledgebase, including `MarkdownRecord` that provides an ORM-like syntax for manipulating Markdown files
 
 ## Todos
-- [ ] 'Top 3 podcasts on this concept'
+- [ ] Embed actual YouTube videos
 - [ ] Find a good way of linking to exact timestamps in transcripts
 - [ ] Merge this with [metacrisis.net](https://metacrisis.net)?
 - [ ] AI-generated audio/video using tools like [synthesia.io](https://www.synthesia.io/) or [elai.io](https://elai.io) 
@@ -18,6 +18,7 @@ Obsidian Publish: https://publish.obsidian.md/greenpill
 - [ ] Train an AI model on this and allow people to chat to it
 - [ ] Make a green-accented GreenPill skin
 - [ ] Transition away from Obsidian Publish to an open source publishing solution e.g. [Flowershow](https://flowershow.app/) or [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- [x] 'Top 3 podcasts on this concept'
 - [x] AI-generated 'see also' links
 - [x] Host at [greenpill.education](https://greenpill.education)
 
