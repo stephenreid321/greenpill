@@ -42,45 +42,6 @@ class MarkdownRecord
     create(attributes)
   end
 
-  def self.define(title)
-    body = nil
-    until body
-      openapi_response = OPENAI.post('completions') do |req|
-        req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
-          "Provide a postgraduate-level definition of the term '#{title}'.
-
-        The definition should be 1 paragraph, maximum 150 words." }.to_json
-      end
-      puts JSON.parse(openapi_response.body)
-      body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
-    end
-    update(title: title, body: body)
-  end
-
-  def self.see_also(attributes, titles)
-    body = nil
-    until body
-      openapi_response = OPENAI.post('completions') do |req|
-        req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
-          "Select the 5 terms from the list below that are most relevant to the term '#{attributes[:title]}'.
-
-          #{(titles - [attributes[:title]]).join(', ')}.
-
-          Return the result as a comma-separated list without a period at the end, e.g. 'term1, term2, term3, term4, term5'" }.to_json
-      end
-      puts JSON.parse(openapi_response.body)
-      body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
-    end
-    set_callout(attributes, 'See also', body.split(', ').map { |t| "[[#{t.downcase}]]" }.join(', '))
-  end
-
-  def self.define_all
-    all.each do |r|
-      puts r[:title]
-      define(r[:title])
-    end
-  end
-
   def self.get_callout(attributes, callout_type, callout_title)
     lines = attributes[:body].split("\n")
 
@@ -110,5 +71,37 @@ class MarkdownRecord
     end
 
     update(title: attributes[:title], body: body)
+  end
+
+  def self.get_definition(title)
+    body = nil
+    until body
+      openapi_response = OPENAI.post('completions') do |req|
+        req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
+          "Provide a postgraduate-level definition of the term '#{title}'.
+
+        The definition should be 1 paragraph, maximum 150 words." }.to_json
+      end
+      puts JSON.parse(openapi_response.body)
+      body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
+    end
+    body
+  end
+
+  def self.set_see_also(attributes, titles)
+    body = nil
+    until body
+      openapi_response = OPENAI.post('completions') do |req|
+        req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
+          "Select the 5 terms from the list below that are most relevant to the term '#{attributes[:title]}'.
+
+          #{(titles - [attributes[:title]]).join(', ')}.
+
+          Return the result as a comma-separated list without a period at the end, e.g. 'term1, term2, term3, term4, term5'" }.to_json
+      end
+      puts JSON.parse(openapi_response.body)
+      body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
+    end
+    set_callout(attributes, 'See also', body.split(', ').map { |t| "[[#{t.downcase}]]" }.join(', '))
   end
 end
