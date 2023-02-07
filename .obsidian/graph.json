@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "tag:#concept",
+      "query": "tag:#diagnosis",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#tech",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "tag:#response",
+      "color": {
+        "a": 1,
+        "rgb": 14111456
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.17473122054564563,
+  "scale": 0.6134893437358865,
   "close": true
 }

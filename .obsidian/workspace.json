@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tech/gitcoin grants.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tech/gitcoin grants.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tech/gitcoin grants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,16 +140,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Tech/gitcoin grants.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,15 +164,15 @@
   },
   "active": "4fc8c4281126a3f5",
   "lastOpenFiles": [
-    "Responses/public good.md",
-    "Responses/schelling point.md",
-    "Welcome.md",
-    "Diagnosis/social media.md",
-    "Responses/third attractor.md",
-    "Tech/sybil resistance.md",
-    "Tech/quadratic funding.md",
-    "Tech/quadratic voting.md",
-    "Tech/regenerative finance.md",
-    "Tech/impact network.md"
+    "Transcripts/Building New Civilizations with Jordan Hall | GreenPill 6.md",
+    "Transcripts/Collective Decision Making with Matt Prewitt | Green Pill 25.md",
+    "Transcripts/Common Ground with Erik Voorhees | Green Pill 82.md",
+    "Transcripts/Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen | Green Pill 16.md",
+    "Transcripts/Crypto UBI with Santi Siri of Proof of Humanity | GreenPill 3.md",
+    "Transcripts/DoinGud with Manu Alzuru | Green Pill 13.md",
+    "Transcripts/Unfinished Live with Nathan Schneider - Green Pill 49.md",
+    "Transcripts/The Protocol Guild with Trent Van Epps | Green Pill 10.md",
+    "Transcripts/Terrapunk with Jack Nasjaq | Green Pill 61.md",
+    "Transcripts/Novel Coordination Architectures with Awa Sun Yin | Green Pill 64.md"
   ]
 }
