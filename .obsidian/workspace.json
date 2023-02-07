@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd367aae187bb475",
+        "id": "f2edd7f6473358bf",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1e751823843904",
+            "id": "7ee31056a78ed14b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Responses/schelling point.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Responses/schelling point.md",
+                "file": "Welcome.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Responses/schelling point.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Responses/schelling point.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "7a1e751823843904",
+  "active": "7ee31056a78ed14b",
   "lastOpenFiles": [
-    "Responses/public good.md",
-    "Responses/open source.md",
-    "Diagnosis/social media.md",
-    "Diagnosis/metacrisis.md",
-    "Diagnosis/coordination failure.md",
     "Diagnosis/climate change.md",
-    "Welcome.md",
+    "Diagnosis/metacrisis.md",
+    "Responses/public good.md",
+    "Responses/network effect.md",
     "Tech/quadratic funding.md",
-    "Tech/gitcoin grants.md",
-    "Transcripts/Building New Civilizations with Jordan Hall | GreenPill 6.md"
+    "Tech/regenerative finance.md",
+    "Tech/sybil resistance.md",
+    "Tech/quadratic voting.md",
+    "Tech/impact certificate.md",
+    "Tech/gitcoin grants.md"
   ]
 }
