@@ -7,3 +7,8 @@ A public good is an economic concept referring to an item, service or resource t
 
 > [!example] See also
 > [[network effect]], [[climate change]], [[open source]], [[collective intelligence]], [[impact network]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Retroactive Public Goods Funding Round 2 – Bobby Dresser of Optimism – Green Pill 83]] (108)
+> * [[Coordination Mechanisms with Griff Green – Green Pill 65]] (77)
+> * [[Ether's Phoenix with Optimism's Karl Floersch – GreenPill 2]] (74)

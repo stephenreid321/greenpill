@@ -7,3 +7,8 @@ Collective intelligence, also known as collective cognition, is the capacity of 
 
 > [!example] See also
 > [[network effect]], [[open source]], [[smart contract]], [[metacrisis]], [[quadratic voting]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Collective Intelligence with Divya Siddarth & Raymond Zhong – Green Pill 24]] (40)
+> * [[Coordination Mechanisms with Griff Green – Green Pill 65]] (22)
+> * [[Democracy with Decentralized Identity with Paula Berman – Green Pill 56]] (12)

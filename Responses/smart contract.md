@@ -7,3 +7,8 @@ A smart contract is a computer protocol intended to digitally facilitate, verify
 
 > [!example] See also
 > [[open source]], [[network effect]], [[quadratic voting]], [[sybil resistance]], [[zero knowledge.]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[The Evolution of Chainlink with Sergey Nazarov - Green Pill 41]] (31)
+> * [[Universal Profiles with Fabian Vogelsteller – Green Pill 76]] (9)
+> * [[Speed Run Ethereum with Austin Griffith – Green Pill 29]] (7)

@@ -7,3 +7,8 @@ Zero knowledge is a cryptographic concept and protocol developed by MIT mathemat
 
 > [!example] See also
 > [[smart contract]], [[sybil resistance]], [[network effect]], [[open source]], [[collective intelligence]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Filecoin with Alan Ransil - Green Pill 46]] (5)
+> * [[The Evolution of Chainlink with Sergey Nazarov - Green Pill 41]] (4)
+> * [[Reputation-Based Economies with Danny Zuckerman – Green Pill 37]] (3)

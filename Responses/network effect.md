@@ -7,3 +7,8 @@ The network effect is a phenomenon whereby a good or service becomes more valuab
 
 > [!example] See also
 > [[social media]], [[collective intelligence]], [[smart contract]], [[quadratic voting]], [[sybil resistance]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Web3 Social with Stani Kulechov – Green Pill 54]] (17)
+> * [[Reputation-Based Economies with Danny Zuckerman – Green Pill 37]] (11)
+> * [[Collective Decision Making with Matt Prewitt – Green Pill 25]] (5)

@@ -7,3 +7,8 @@ Coordination failure occurs when the actions of different actors or agents in an
 
 > [!example] See also
 > [[collective intelligence]], [[smart contract]], [[schelling point]], [[network effect]], [[quadratic voting]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (19)
+> * [[Announcing the GREEN PILL Podcast – Kevin Owocki]] (12)
+> * [[Pluriverse.WTF with Travis Wyche - Green Pill 43]] (11)

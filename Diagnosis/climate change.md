@@ -7,3 +7,8 @@ Climate change is the long-term alteration of average temperature, weather patte
 
 > [!example] See also
 > [[metacrisis]], [[public good]], [[collective intelligence]], [[network effect]], [[quadratic funding]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (20)
+> * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (6)
+> * [[Making Impact Investable with Li Jin, Variant Fund & Matthew Frehlich, Protocol Labs – GreenPill 57]] (5)

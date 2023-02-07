@@ -7,3 +7,8 @@ Sybil resistance is a concept in distributed computing and computer networks tha
 
 > [!example] See also
 > [[metacrisis]], [[coordination failure]], [[public good]], [[network effect]], [[quadratic voting]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Idena Network with Founder Andrew – Green Pill 68]] (30)
+> * [[BrightID with Adam Stallard – Green Pill 35]] (27)
+> * [[Sybil Resistance with Bryan Ford – Green Pill 33]] (26)

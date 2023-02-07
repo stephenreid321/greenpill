@@ -7,3 +7,8 @@ Open source refers to freely available computer software and other products (mob
 
 > [!example] See also
 > [[gitcoin grants]], [[public good]], [[collective intelligence]], [[smart contract]], [[network effect.]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Retroactive Public Goods Funding Round 2 – Bobby Dresser of Optimism – Green Pill 83]] (22)
+> * [[Collective Organization with Pia Mancini – Green Pill 18]] (18)
+> * [[Hypercerts.xyz with Holke Brammer – Green Pill 66]] (12)

@@ -7,3 +7,8 @@ A Schelling point is a concept first introduced by Thomas Schelling in 1960 whic
 
 > [!example] See also
 > [[network effect]], [[collective intelligence]], [[coordination failure]], [[public good]], [[smart contract]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Impact Certificates – Evan Miyazono, Head of Research at Protocol Labs – Green Pill 21]] (7)
+> * [[Evolutionary DAOs with Chase Chapman – Green Pill 34]] (6)
+> * [[Filecoin with Alan Ransil - Green Pill 46]] (6)

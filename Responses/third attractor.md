@@ -7,3 +7,8 @@ A third attractor is a term used in dynamical systems to refer to an attractor w
 
 > [!example] See also
 > [[metacrisis]], [[coordination failure]], [[collective intelligence]], [[network effect]], [[quadratic voting]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (16)
+> * [[Digital Identity is Not Human Identity with Phillip Sheldrake – Green Pill 72]] (5)
+> * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (3)

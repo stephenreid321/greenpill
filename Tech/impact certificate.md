@@ -7,3 +7,8 @@ An impact certificate is a formal document that acknowledges a participant's suc
 
 > [!example] See also
 > [[impact network]], [[collective intelligence]], [[quadratic voting]], [[quadratic funding]], [[gitcoin grants]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Impact Certificates – Evan Miyazono, Head of Research at Protocol Labs – Green Pill 21]] (72)
+> * [[Filecoin with Alan Ransil - Green Pill 46]] (4)
+> * [[ImpactDAOs with Ale Borda – Green Pill 14]] (3)

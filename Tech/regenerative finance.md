@@ -7,3 +7,8 @@ Regenerative finance is a paradigm of investing and funding projects with the pu
 
 > [!example] See also
 > [[smart contract]], [[collective intelligence]], [[network effect]], [[quadratic funding]], [[impact certificate]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Unfinished Live with Nathan Schneider - Green Pill 49]] (2)
+> * [[The World Game – METADREAMER - Green Pill 17]] (1)
+> * [[Announcing the GREEN PILL Podcast – Kevin Owocki]] (1)

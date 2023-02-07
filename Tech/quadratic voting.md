@@ -7,3 +7,8 @@ Quadratic voting is a type of voting system that allows the voter to express a g
 
 > [!example] See also
 > [[quadratic funding]], [[collective intelligence]], [[public good]], [[coordination failure]], [[network effect.]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Collective Decision Making with Matt Prewitt – Green Pill 25]] (17)
+> * [[Quadratic Voting with Tim Daubenschütz]] (14)
+> * [[Coordination Mechanisms with Griff Green – Green Pill 65]] (9)

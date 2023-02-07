@@ -13,7 +13,7 @@ class Transcript < MarkdownRecord
     concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h
     YOUTUBE_IDS.each do |youtube_id|
       r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
-      title = r.body.match(%r{<title>(.+)</title>})[1].force_encoding('UTF-8').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
+      title = r.body.match(%r{<title>(.+)</title>})[1].force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
       title = CGI.unescapeHTML(title)
 
       puts title
@@ -57,5 +57,19 @@ class Transcript < MarkdownRecord
       end
       Transcript.update(title: t[:title], body: body)
     end
+  end
+
+  def self.mentions(attributes)
+    transcripts = {}
+    Transcript.all.each do |t|
+      c = t[:body].scan("[[#{attributes[:title]}]]").count
+      if attributes[:aliases]
+        attributes[:aliases].split(', ').each do |a|
+          c += t[:body].scan("[[#{attributes[:title]}|#{a}]]").count
+        end
+      end
+      transcripts[t[:title]] = c if c > 0
+    end
+    transcripts
   end
 end

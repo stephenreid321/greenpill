@@ -7,3 +7,8 @@ Gitcoin Grants is an Ethereum-based open source and decentralized funding platfo
 
 > [!example] See also
 > [[open source]], [[network effect]], [[smart contract]], [[quadratic voting]], [[quadratic funding]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Gitcoin Grants Round 14 – GR14 Panel – Green Pill 19]] (12)
+> * [[Coordination Mechanisms with Griff Green – Green Pill 65]] (11)
+> * [[Gitcoin Grants Round 15 with GitcoinDAO - Green Pill 42]] (10)

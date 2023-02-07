@@ -7,3 +7,8 @@ Quadratic funding is an innovative approach to direct funding to organizations, 
 
 > [!example] See also
 > [[quadratic voting]], [[collective intelligence]], [[smart contract]], [[gitcoin grants]], [[impact network]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[Radical Markets with Glen Weyl – Green Pill 7]] (40)
+> * [[The Gitcoin Alpha Round – Janine Leger, Connor O'Day, and Nate Gosselin – Green Pill 80]] (34)
+> * [[Vitalik Buterin - Green Pill 1]] (31)

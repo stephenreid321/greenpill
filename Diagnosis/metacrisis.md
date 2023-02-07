@@ -7,3 +7,8 @@ Metacrisis is a situation in which critical decision points emerge that destabil
 
 > [!example] See also
 > [[collective intelligence]], [[sybil resistance]], [[network effect]], [[open source]], [[quadratic voting]]
+
+> [!info] Podcasts mentioning this term most frequently
+> * [[MetacrisisDAO with Daniel Schmachtenberger – Green Pill 84]] (41)
+> * [[The Metacrisis with Daniel Schmachtenberger – Part 1 – Green Pill 26]] (41)
+> * [[Superstructures with Daniel Schmachtenberger – Green Pill 32]] (28)
