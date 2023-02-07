@@ -10,12 +10,13 @@ Obsidian Publish: https://publish.obsidian.md/greenpill
 * `/_scripts` (not visible on Obsidian/Obsidian Publish) contains the Ruby scripts that supercharge the knowledgebase, including `MarkdownRecord` that provides an ORM-like syntax for manipulating Markdown files
 
 ## Todos
-- [ ] Merge this with [metacrisis.net](https://metacrisis.net)?
-- [ ] AI-generated audio/video using tools like [synthesia.io](https://www.synthesia.io/) or [elai.io](https://elai.io) 
-- [ ] AI-powered semantic search using [OpenAI Embeddings](https://beta.openai.com/docs/guides/embeddings) & [Pinecone](https://cobusgreyling.medium.com/using-pinecone-for-question-answering-with-similarity-search-85ec8a636da2) or [Algolia](https://www.algolia.com/)
 - [ ] AI-generated 'see also' links
 - [ ] 'Top 3 podcasts on this concept'
 - [ ] Find a good way of linking to exact timestamps in transcripts
+
+- [ ] Merge this with [metacrisis.net](https://metacrisis.net)?
+- [ ] AI-generated audio/video using tools like [synthesia.io](https://www.synthesia.io/) or [elai.io](https://elai.io) 
+- [ ] AI-powered semantic search using [OpenAI Embeddings](https://beta.openai.com/docs/guides/embeddings) & [Pinecone](https://cobusgreyling.medium.com/using-pinecone-for-question-answering-with-similarity-search-85ec8a636da2) or [Algolia](https://www.algolia.com/)
 - [ ] Make a green-accented GreenPill skin
 - [ ] Transition away from Obsidian Publish to an open source publishing solution e.g. [Flowershow](https://flowershow.app/) or [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 

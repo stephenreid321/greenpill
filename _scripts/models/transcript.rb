@@ -49,7 +49,7 @@ class Transcript < MarkdownRecord
     Transcript.update(title: t[:title], body: body)
   end
 
-  def self.backlink(t, concepts_with_aliases)
+  def self.backlink(t, concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h)
     body = t[:body]
     concepts_with_aliases.each do |primary, terms|
       terms.each do |term|

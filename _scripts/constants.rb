@@ -47,5 +47,6 @@ SPACED_TERMS_TO_DASH = [
 
 CORRECTIONS = {
   'civil resistance' => 'sybil resistance',
-  'bitcoin grants' => 'gitcoin grants'
+  'bitcoin grants' => 'gitcoin grants',
+  'shelling point' => 'schelling point'
 }
