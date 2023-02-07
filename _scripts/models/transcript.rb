@@ -13,8 +13,7 @@ class Transcript < MarkdownRecord
     concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h
     YOUTUBE_IDS.each do |youtube_id|
       r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
-      title = r.body.match(%r{<title>(.+)</title>})[1].force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
-      title = CGI.unescapeHTML(title)
+      title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
 
       puts title
       next if File.exist?("Transcripts/#{title}.md") || title.empty?
