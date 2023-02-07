@@ -66,9 +66,7 @@ class MarkdownRecord
 
           #{(titles - [attributes[:title]]).join(', ')}.
 
-          Return the result as a comma-separated list, e.g. 'term1, term2, term3, term4, term5'.
-
-          " }.to_json
+          Return the result as a comma-separated list, e.g. 'term1, term2, term3, term4, term5'." }.to_json
       end
       puts JSON.parse(openapi_response.body)
       body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
