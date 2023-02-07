@@ -63,4 +63,35 @@ class MarkdownRecord
       define(r[:title])
     end
   end
+
+  def self.get_callout(attributes, callout_title)
+    lines = attributes[:body].split("\n")
+
+    i = lines.index { |line| line.starts_with?("> [!example] #{callout_title}") }
+    return unless i
+
+    j = i
+    j += 1 while lines[j].starts_with?('> ')
+
+    lines[i..j - 1].join("\n")
+  end
+
+  def self.set_callout(attributes, callout_title, new_callout)
+    lines = attributes[:body].split("\n")
+
+    i = lines.index { |line| line.starts_with?("> [!example] #{callout_title}") }
+    if i
+      j = i
+      j += 1 while lines[j] && lines[j].starts_with?('> ')
+
+      lines[i..j - 1].join("\n")
+
+      lines[i + 1..j - 1] = new_callout.split("\n").map { |line| "> #{line}" }
+      body = lines.join("\n")
+    else
+      body = attributes[:body] + "\n\n> [!example] #{callout_title}\n#{new_callout.split("\n").map { |line| "> #{line}" }.join("\n")}"
+    end
+
+    update(title: attributes[:title], body: body)
+  end
 end
