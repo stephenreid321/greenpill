@@ -19,6 +19,7 @@ Obsidian Publish: https://publish.obsidian.md/greenpill
 - [ ] AI-powered semantic search using [OpenAI Embeddings](https://beta.openai.com/docs/guides/embeddings) & [Pinecone](https://cobusgreyling.medium.com/using-pinecone-for-question-answering-with-similarity-search-85ec8a636da2) or [Algolia](https://www.algolia.com/)
 - [ ] Make a green-accented GreenPill skin
 - [ ] Transition away from Obsidian Publish to an open source publishing solution e.g. [Flowershow](https://flowershow.app/) or [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- [x] Host at [greenpill.education](https://greenpill.education)
 
 ## Interactive console
 `irb -I . -r '_scripts/console'`
