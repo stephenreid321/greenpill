@@ -5,11 +5,9 @@ require 'yaml'
 require 'json'
 require 'active_support/all'
 require_relative 'markdown_record'
-require_relative 'tech'
-require_relative 'response'
-require_relative 'diagnosis'
-require_relative 'concept'
-require_relative 'transcript'
+Dir["#{File.dirname(__FILE__)}/models/*.rb"].each do |path|
+  require_relative path
+end
 
 OPENAI = Faraday.new(
   url: 'https://api.openai.com/v1',

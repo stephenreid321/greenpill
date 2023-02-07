@@ -17,7 +17,7 @@ class MarkdownRecord
       yaml = yaml.each_with_object({}) { |(k, v), h| h[k.to_sym] = v }
       {
         title: path.split('/').last.split('.md').first,
-        body: text.split('---').last.strip
+        body: text.split('---')[2..-1].join('---').strip
       }.merge(yaml)
     end
   end

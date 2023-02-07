@@ -18,3 +18,6 @@ Obsidian Publish: https://publish.obsidian.md/greenpill
 - [ ] Find a good way of linking to exact timestamps in transcripts
 - [ ] Make a green-accented GreenPill skin
 - [ ] Transition away from Obsidian Publish to an open source publishing solution e.g. [Flowershow](https://flowershow.app/) or [digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+
+## Interactive console
+`irb -I . -r '_scripts/console'`
