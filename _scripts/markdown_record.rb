@@ -1,9 +1,4 @@
 require_relative 'constants'
-require 'faraday'
-require 'nokogiri'
-require 'yaml'
-require 'json'
-require 'active_support/all'
 
 class MarkdownRecord
   def self.fields
@@ -45,5 +40,27 @@ class MarkdownRecord
     attributes = find_by_title(new_attributes[:title])
     attributes = attributes.each_with_object({}) { |(k, v), h| h[k] = new_attributes[k] || v }
     create(attributes)
+  end
+
+  def self.define(title)
+    body = nil
+    until body
+      openapi_response = OPENAI.post('completions') do |req|
+        req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
+          "Provide a postgraduate-level definition of the term '#{title}'.
+
+        The definition should be 1 paragraph, maximum 150 words." }.to_json
+      end
+      puts JSON.parse(openapi_response.body)
+      body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
+    end
+    update(title: title, body: body)
+  end
+
+  def self.define_all
+    all.each do |r|
+      puts r[:title]
+      define(r[:title])
+    end
   end
 end

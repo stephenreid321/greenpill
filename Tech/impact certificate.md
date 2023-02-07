@@ -1,5 +1,5 @@
 ---
-tags: concept
+tags: tech
 aliases: impact certificates
 ---
 

@@ -1,5 +1,15 @@
-require 'faraday'
 require 'dotenv/load'
+require 'faraday'
+require 'nokogiri'
+require 'yaml'
+require 'json'
+require 'active_support/all'
+require_relative 'markdown_record'
+require_relative 'tech'
+require_relative 'response'
+require_relative 'diagnosis'
+require_relative 'concept'
+require_relative 'transcript'
 
 OPENAI = Faraday.new(
   url: 'https://api.openai.com/v1',

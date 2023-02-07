@@ -1,5 +1,4 @@
-require_relative 'markdown_record'
-require_relative 'concept'
+require_relative 'constants'
 
 class Transcript < MarkdownRecord
   def self.fields
@@ -50,7 +49,7 @@ class Transcript < MarkdownRecord
     Transcript.update(title: t[:title], body: body)
   end
 
-  def self.backlink(t, concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h)
+  def self.backlink(t, concepts_with_aliases)
     body = t[:body]
     concepts_with_aliases.each do |primary, terms|
       terms.each do |term|

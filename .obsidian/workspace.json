@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2c6e78766788b0",
+        "id": "9f9d5d181032f95b",
         "type": "tabs",
         "children": [
           {
-            "id": "691f527ec326bf8b",
+            "id": "43aee8aa2713b05d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,17 +148,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "691f527ec326bf8b",
+  "active": "43aee8aa2713b05d",
   "lastOpenFiles": [
-    "Concepts/smart contract.md",
-    "Concepts/metacrisis.md",
-    "Concepts/gitcoin grants.md",
-    "Transcripts/BrightID with Adam Stallard | Green Pill 35.md",
-    "Concepts/sybil resistance.md",
-    "Transcripts/Announcing Green Pill Season 2 | Regenerative Society.md",
-    "Concepts/network effect.md",
-    "Transcripts/Balaji Srinivasan on the Network State | Green Pill 28.md",
-    "Concepts/social media.md",
-    "Concepts/regenerative finance.md"
+    "Diagnosis/social media.md",
+    "Responses/third attractor.md",
+    "Tech/sybil resistance.md",
+    "Tech/quadratic funding.md",
+    "Tech/quadratic voting.md",
+    "Tech/regenerative finance.md",
+    "Tech/impact network.md",
+    "Tech/impact certificate.md",
+    "Tech/gitcoin grants.md",
+    "Responses/smart contract.md"
   ]
 }
