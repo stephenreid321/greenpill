@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9f9d5d181032f95b",
+        "id": "fd367aae187bb475",
         "type": "tabs",
         "children": [
           {
-            "id": "43aee8aa2713b05d",
+            "id": "7a1e751823843904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fc8c4281126a3f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/gitcoin grants.md",
+                "file": "Responses/schelling point.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/gitcoin grants.md",
+                "file": "Responses/schelling point.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/gitcoin grants.md",
+                "file": "Responses/schelling point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/gitcoin grants.md"
+                "file": "Responses/schelling point.md"
               }
             }
           }
@@ -162,17 +148,17 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "4fc8c4281126a3f5",
+  "active": "7a1e751823843904",
   "lastOpenFiles": [
-    "Transcripts/Building New Civilizations with Jordan Hall | GreenPill 6.md",
-    "Transcripts/Collective Decision Making with Matt Prewitt | Green Pill 25.md",
-    "Transcripts/Common Ground with Erik Voorhees | Green Pill 82.md",
-    "Transcripts/Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen | Green Pill 16.md",
-    "Transcripts/Crypto UBI with Santi Siri of Proof of Humanity | GreenPill 3.md",
-    "Transcripts/DoinGud with Manu Alzuru | Green Pill 13.md",
-    "Transcripts/Unfinished Live with Nathan Schneider - Green Pill 49.md",
-    "Transcripts/The Protocol Guild with Trent Van Epps | Green Pill 10.md",
-    "Transcripts/Terrapunk with Jack Nasjaq | Green Pill 61.md",
-    "Transcripts/Novel Coordination Architectures with Awa Sun Yin | Green Pill 64.md"
+    "Responses/public good.md",
+    "Responses/open source.md",
+    "Diagnosis/social media.md",
+    "Diagnosis/metacrisis.md",
+    "Diagnosis/coordination failure.md",
+    "Diagnosis/climate change.md",
+    "Welcome.md",
+    "Tech/quadratic funding.md",
+    "Tech/gitcoin grants.md",
+    "Transcripts/Building New Civilizations with Jordan Hall | GreenPill 6.md"
   ]
 }
