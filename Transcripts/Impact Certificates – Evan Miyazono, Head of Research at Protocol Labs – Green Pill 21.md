@@ -72,7 +72,7 @@ idea is to give people uh a nice spotlight for something that may be unrelated t
 
 these um unprofitable but impactful things got it so it sounds like there's this big idea of what if we could prove impact using cryptography and blockchains [[impact certificate|impact certificates]] that show like as an nft and the impact that you've had and they could be used for bragging rights or maybe have other [793](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=793.519s)
 
-utility in a decentralized society type of world we just had glenn and pujo on the podcast to talk about decentralized society check out that episode if if if you want to know what that means but basically the the tangible small experiment is that at funding the commons you're presenting [[impact certificate|impact certificates]] to every speaker and sort of creating social norms in that space [811](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=811.36s)
+utility in a [[decentralized society]] type of world we just had glenn and pujo on the podcast to talk about [[decentralized society]] check out that episode if if if you want to know what that means but basically the the tangible small experiment is that at funding the commons you're presenting [[impact certificate|impact certificates]] to every speaker and sort of creating social norms in that space [811](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=811.36s)
 
 around [[impact certificate|impact certificates]] and so you know what kind of outcomes are you looking for for from that experiment yeah i would say that uh there's kind of two halves one part is the the tooling side where we want to make it very easy to have create generate um these [[impact certificate|impact certificates]] [[impact certificate|impact certificates]] have certificates of impact the like general idea has been around for a few decades but there's been a renewed interest because of all of the potential that crypto brings around uh security uh the idea is that you could make these with non-fungible tokens becomes pretty intuitive and the idea that you would also potentially link some of these to your identity in a sold-out token d-soc [857](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=857.279s)
 
@@ -160,7 +160,7 @@ project for ages then like that reputation will stay with you forever and that m
 
 this nft [[impact certificate]] is cryptographically unprovably yours until you burn it at which point you make it no longer transferable there are interesting ideas like that that could be strongly motivated by like regulatory reasons or user reasons [1924](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=1924.48s)
 
-i don't think that we have enough progress with experiments to say exactly how we want it to work but we're working on some like theoretical groundwork uh there's a talk on hyper certificates from the from david at the march funding the commons that kind of [1944](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=1944.72s)
+i don't think that we have enough progress with experiments to say exactly how we want it to work but we're working on some like theoretical groundwork uh there's a talk on hypercertificates from the from david at the march funding the commons that kind of [1944](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=1944.72s)
 
 break starts into some of the theoretical framing of how we're thinking about this and uh i think that there are nft primitives that could be sufficient got it so um sounds like you really enjoyed your work on the source cred project which [1960](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=1960.32s)
 
@@ -178,7 +178,7 @@ are you going to use it you want to spend me shopping now bro when you know you 
 
 music set yourself free with completely flexible self-repaying loan technology supported on desktop and mobile seize the power of alchemix allowing you to spend and save at the same time leverage your wealth without risk of liquidation take out a loan that repays itself by using yield from your deposit [2102](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2102.56s)
 
-to pay off your balance you're only dead his time what was once inconceivable is now within your grasp music so i i guess i'm asked i'm wondering next if you could tell me about this idea of hyper certificates it sounds like it's like supercharging [[impact certificate|impact certificates]] in some meaningful way can you tell me what that is uh the overarching idea and i'll we'll also uh link the talk from in the comments about this um but the general idea is to provide the right layer of abstraction so that you can talk about uh impact in a very rigorous but still [2147](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2147.52s)
+to pay off your balance you're only dead his time what was once inconceivable is now within your grasp music so i i guess i'm asked i'm wondering next if you could tell me about this idea of hypercertificates it sounds like it's like supercharging [[impact certificate|impact certificates]] in some meaningful way can you tell me what that is uh the overarching idea and i'll we'll also uh link the talk from in the comments about this um but the general idea is to provide the right layer of abstraction so that you can talk about uh impact in a very rigorous but still [2147](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2147.52s)
 
 most like fairly user-friendly way if you imagine how one might trade or like represent their contributions to an effort previously then uh you probably want to be able to specify what the name of the project was or what the outputs were who was working on it what time period they're working [2170](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2170.24s)
 
@@ -186,7 +186,7 @@ on it and additional formalities so that you could then take that and either lum
 
 you're really just representing some sub-block of all of human activity it's a very small sub-block um but the idea is that with [[impact certificate|impact certificates]] you probably want these to be able to merge scalably so you can describe uh whatever level you can succinctly [2211](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2211.119s)
 
-describe whatever level of impact you're thinking of right okay so it seems like kind of hyper certificates as a as a data layer for collective decision mechanisms is maybe one thing that i heard there but uh yeah they seem like they could be really powerful um what is it like this is kind of like what is the what does [2231](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2231.599s)
+describe whatever level of impact you're thinking of right okay so it seems like kind of hypercertificates as a as a data layer for collective decision mechanisms is maybe one thing that i heard there but uh yeah they seem like they could be really powerful um what is it like this is kind of like what is the what does [2231](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2231.599s)
 
 the world look like in which your maximally successful or like [[impact certificate|impact certificates]] are maximally successful look like you know take us take us from barter to supermarket on this one like what is what it take us into the future of if it's maximally successful what it looks like i wish i could the best i can do is like point in the general direction and say i [2248](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2248.88s)
 
@@ -230,7 +230,7 @@ which is what business models are based off of how much money can i can i get in
 
 issuing a token you are trying to direct attention toward things that you as the community of currency issuers care about and how we get to a point where you can effectively [2843](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2843.839s)
 
-elicit and aggregate the preferences of what those people care about and allocate new research resources towards that feels like the best possible outcome for creators of a currency or for members of like citizens of a society be it a decentralized society or a centralized one or hopefully yeah it seems like a beautiful outcome [2870](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2870.0s)
+elicit and aggregate the preferences of what those people care about and allocate new research resources towards that feels like the best possible outcome for creators of a currency or for members of like citizens of a society be it a [[decentralized society]] or a centralized one or hopefully yeah it seems like a beautiful outcome [2870](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2870.0s)
 
 for me to think that i could pay my mortgage put food on the table for my kids by just focusing on creating a positive impact whether that's in my local community picking up trash volunteering uh or at a systemic level taking carbon out of the atmosphere or supporting our digital [[open source]] software there's just so many systemic network [2889](https://www.youtube.com/watch?v=kyo5SxtSJ9U&t=2889.04s)
 

@@ -252,7 +252,7 @@ for modeling environmental externalities right you can't like you can't take um 
 
 otherwise so the computer scientist to me finds that compelling that we need to turn complete substrate that can track all of the positive complexities of doing this but you know like what layer of abstraction is above that are we talking about local community currencies that track carbon like so the problem with the us dollar and with bitcoin is that it kind of takes everything and [2815](https://www.youtube.com/watch?v=y7QftdMGQuo&t=2815.76s)
 
-tries to put it in a us dollar shaped container and and if you have like a local currency system that's built around local values i'm using local both in the geographic sense but like in the value system sense that you you can kind of is there is are we talking about a local community currency for tracking carbon [2834](https://www.youtube.com/watch?v=y7QftdMGQuo&t=2834.96s)
+tries to put it in a us dollar shaped container and and if you have like a [[local currency]] system that's built around local values i'm using local both in the geographic sense but like in the value system sense that you you can kind of is there is are we talking about a local community currency for tracking carbon [2834](https://www.youtube.com/watch?v=y7QftdMGQuo&t=2834.96s)
 
 that has an exchange rate with us dollars and more global currencies but like what's the layer of abstraction on top of the the turing complete layer that that you think is is really powerful yeah i think we have to i think we have to try a bunch of things and see what works [2856](https://www.youtube.com/watch?v=y7QftdMGQuo&t=2856.24s)
 
@@ -286,7 +286,7 @@ these [[schelling point|schelling points]] um where we can organize around takin
 
 thankful for that yeah yeah totally i mean it's it's beautiful to see this group of like-minded people sort of come together and talk about this vision of how web 3 can be good for the world and uh manage those positive externalities and you know i i almost think of it it makes [3227](https://www.youtube.com/watch?v=y7QftdMGQuo&t=3227.92s)
 
-me feel like web 3 is this way to program our values into our money but it just kind of started off in this cypherpunk sovereignty privacy orienting direction and i agree with those value sets too but there's a whole contingent that i think is just starting to to grow that's more solarpunk and and cares about these things and uh it's it feels less lonely i'll say to have a lot to [3248](https://www.youtube.com/watch?v=y7QftdMGQuo&t=3248.48s)
+me feel like web 3 is this way to program our values into our money but it just kind of started off in this cypherpunk sovereignty privacy orienting direction and i agree with those value sets too but there's a whole contingent that i think is just starting to to grow that's more [[solarpunk]] and and cares about these things and uh it's it feels less lonely i'll say to have a lot to [3248](https://www.youtube.com/watch?v=y7QftdMGQuo&t=3248.48s)
 
 have hundreds of people coming to [[schelling point]] and and to be working on this stuff together so uh it's it's really beautiful and and and uh i think that it's just great that people are actually building projects in this space i can't wait to see who's going to be like the uniswap of this space and who's going to be the the urine finance of of this part of the [3268](https://www.youtube.com/watch?v=y7QftdMGQuo&t=3268.4s)
 

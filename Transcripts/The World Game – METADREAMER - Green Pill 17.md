@@ -10,7 +10,7 @@ music hey hey hey coordination today's episode is with metadreamer the founder o
 
 building in the web 3 space in this episode we talk about what is even money what is stability how do we solve some of our contemporary societal problems with web3 uh we talk about unlearning before we start learning so basically how do we unlearn what we learned in the old economic system and then learn in the new economic system iterating and experimenting together to find the new [46](https://www.youtube.com/watch?v=EONafjoyzWw&t=46.079s)
 
-direction for a more sustainable solarpunk future meta dreamer is the meta dreamer meta means the most efficient effective tactic available and dreaming is just imagining what the world could be and i think this is actually in a way a really fun follow-up on my episode that we did with solarpunk girl about different imaginations of the world because metadreamer is the [68](https://www.youtube.com/watch?v=EONafjoyzWw&t=68.64s)
+direction for a more sustainable [[solarpunk]] future meta dreamer is the meta dreamer meta means the most efficient effective tactic available and dreaming is just imagining what the world could be and i think this is actually in a way a really fun follow-up on my episode that we did with [[solarpunk]] girl about different imaginations of the world because metadreamer is the [68](https://www.youtube.com/watch?v=EONafjoyzWw&t=68.64s)
 
 meta imaginer so you're gonna really enjoy this episode of coordination without further ado i give you metadreamer the founder of metafactory enjoy refi summer has arrived and sello is here for it cello is the layer one blockchain for the [[regenerative finance]] movement it's fast planet positive and built for the real world cello has committed towards producing a [88](https://www.youtube.com/watch?v=EONafjoyzWw&t=88.88s)
 
@@ -24,7 +24,7 @@ house at this rate but what if you could spend and save at the same time for the
 
 allowing you to spend and save at the same time leverage your wealth without risk of liquidation take out a loan that repays itself by using yield from your deposit to pay off your balance you're only dead his time what was once inconceivable is now within your grasp music what's up metadreamer [194](https://www.youtube.com/watch?v=EONafjoyzWw&t=194.48s)
 
-hey kevin how's it going um everything's down but uh my my hopes for solarpunk feature are up yeah markets are down but hopes for a solar funk future are up yup i love that why are your hopes up uh i think it'll we can actually focus on building now i think which is nice i think all the most [214](https://www.youtube.com/watch?v=EONafjoyzWw&t=214.64s)
+hey kevin how's it going um everything's down but uh my my hopes for [[solarpunk]] feature are up yeah markets are down but hopes for a solar funk future are up yup i love that why are your hopes up uh i think it'll we can actually focus on building now i think which is nice i think all the most [214](https://www.youtube.com/watch?v=EONafjoyzWw&t=214.64s)
 
 awesome stuff happened in the bear market um and even i see for me like i've been focused on on the dow space and i think for it for dao's not much changes it's more so hit on d5 space and you know all the yield farms and you know all that stuff going on which to be honest i think it was kind of getting overdone anyways and you know too much focus was there [237](https://www.youtube.com/watch?v=EONafjoyzWw&t=237.92s)
 
@@ -66,7 +66,7 @@ yeah exactly um i think you know the the 3d environment might it might be a mean
 
 like we're exiting the real world and you know creating this new reality when i think it's like really the opposite of that i think the current landscape of like [[social media]] and like you know phone addiction and doom scrolling like i think that's detaching us from reality and this is the metaverse is more means for us to like go back to you know [669](https://www.youtube.com/watch?v=EONafjoyzWw&t=669.12s)
 
-come out of our screens and allow the screens to like whatever's in our screens instead of looking through the screens we're perceiving it through the physical world um just like everything else and that that is pretty solarpunk i think um so i guess i want to ask you know at the end of this bucky fuller essay he basically states his end game is make [687](https://www.youtube.com/watch?v=EONafjoyzWw&t=687.92s)
+come out of our screens and allow the screens to like whatever's in our screens instead of looking through the screens we're perceiving it through the physical world um just like everything else and that that is pretty [[solarpunk]] i think um so i guess i want to ask you know at the end of this bucky fuller essay he basically states his end game is make [687](https://www.youtube.com/watch?v=EONafjoyzWw&t=687.92s)
 
 the world work for 100 of humanity in the shortest possible time through spontaneous cooperation without ecological offense or the disadvantage of anyone um is that the end game what do you think the game is is here um yeah i'd say i'd say that's probably the end game for like most people um i think there's you know if you want to get um like metaphysical with it i think there's like you know a larger end game too where um if you think about i kind of touched on this in the layer zero podcast but the cycle of like life and death and existence you know um [726](https://www.youtube.com/watch?v=EONafjoyzWw&t=726.16s)
 
@@ -78,7 +78,7 @@ earth and we're traveling together um and it's not really about any destination 
 
 when you're traveling somewhere you're not gonna immediately like you know just like get permanently attached and be like okay you know hey i went to paris once so now i'm like you know i have a house here i'm like doing all this but it's you know you're enjoying that your time there and doing the best you can for people and you around you but um [806](https://www.youtube.com/watch?v=EONafjoyzWw&t=806.48s)
 
-the at the end of it there's a bigger destination you know right yeah you know we just had solarpunk or solarpunk girl on the podcast and she talks a lot about imagination activation activist and basically like shifting your perspective forward in time so what will not only like looking at your life in the broad spectrum of humanity as one [829](https://www.youtube.com/watch?v=EONafjoyzWw&t=829.76s)
+the at the end of it there's a bigger destination you know right yeah you know we just had [[solarpunk]] or [[solarpunk]] girl on the podcast and she talks a lot about imagination activation activist and basically like shifting your perspective forward in time so what will not only like looking at your life in the broad spectrum of humanity as one [829](https://www.youtube.com/watch?v=EONafjoyzWw&t=829.76s)
 
 generation among tens of thousands and that helps you appreciate your life in the temporal nature the the the ephemeral nature of it but also expanding out into having empathy for the rest of humanity and the rest of the planet over that time and i couldn't help but notice the parallel between what you said and what she said about that imagination of just it seems like [853](https://www.youtube.com/watch?v=EONafjoyzWw&t=853.519s)
 
@@ -212,7 +212,7 @@ new like cycle of regrowth um and you know the it's like when things decompose i
 
 and helps things grow but if you just hold on to it and accumulate it it's going to like just make you smelly and gross i think we'll be have been successful meaning mycelium if coin becomes not a pejorative but a good thing yeah no it's about yeah and i think that's some of these you know this future of you know mapping [2255](https://www.youtube.com/watch?v=EONafjoyzWw&t=2255.2s)
 
-out this world game will look a lot like that where we have you know and this kind of goes into vitalik's essay or not i mean the one he this decentralized society essay of finding web through seoul um the idea that you know people can create sold bonded tokens which is some sort of recognition or affirmation that someone you know is of value to you or has created some value and i think if [2276](https://www.youtube.com/watch?v=EONafjoyzWw&t=2276.48s)
+out this world game will look a lot like that where we have you know and this kind of goes into vitalik's essay or not i mean the one he this [[decentralized society]] essay of finding web through seoul um the idea that you know people can create sold bonded tokens which is some sort of recognition or affirmation that someone you know is of value to you or has created some value and i think if [2276](https://www.youtube.com/watch?v=EONafjoyzWw&t=2276.48s)
 
 we all have our coins and we're all you know being diligent of where we're spreading our coins then that those are all just data points on you know mapping out our value networks our value graphs bring this back to the marketing team at get coin new grants get coin grand slogan be diligent about where you [2296](https://www.youtube.com/watch?v=EONafjoyzWw&t=2296.16s)
 

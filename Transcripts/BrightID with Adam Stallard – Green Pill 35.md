@@ -274,7 +274,7 @@ along with the passport where you can say here's my certification that says that
 
 maybe we should uh what's your vision for the for the depop like in just a few sentences so it's a d-pop for the uh for the listener stands for decentralized proof of personhood passport which we're now just calling get going passport because it okay it rolls off the tongue a little bit more um yeah i mean i think that um you know we [3261](https://www.youtube.com/watch?v=82SNLVQk_KA&t=3261.359s)
 
-just basically wanted to take the [[sybil resistance]] on gitcoin and allow people to um consume it from across the ecosystem in their d-apps and uh we kind of look at ourselves as an aggregator of decentralized society credentials so basically this world in which there's all this different data out there um we can aggregate it into one passport which [3285](https://www.youtube.com/watch?v=82SNLVQk_KA&t=3285.44s)
+just basically wanted to take the [[sybil resistance]] on gitcoin and allow people to um consume it from across the ecosystem in their d-apps and uh we kind of look at ourselves as an aggregator of [[decentralized society]] credentials so basically this world in which there's all this different data out there um we can aggregate it into one passport which [3285](https://www.youtube.com/watch?v=82SNLVQk_KA&t=3285.44s)
 
 are like stamps and bright id is one of the stamps in that passport and then like give more [[sybil resistance]] out to the ecosystem and like um you know i guess i look at like y'all as like this web of trust tool in us as like an aggregator and um i keep on saying us but i've just just [3305](https://www.youtube.com/watch?v=82SNLVQk_KA&t=3305.28s)
 

@@ -36,7 +36,7 @@ currencies which like break government monopolies on currencies on money and and
 
 yeah yeah i i sort of come to it from an angle of what's the utility that could be brought to end users with digital identity systems and for me you know i mentioned all of those things uh and and um you know i think there's two ways of coming at it there's breaking the monopoly of governments which is more [356](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=356.639s)
 
-the cypherpunk way of saying it and then the solarpunk way of saying it is how do we coordinate better how do we give give value to [[public good|public goods]] and you know it's interesting to hear it from your side uh where you're coming from so so so let's pull the thread more tell us about your founding of uh who what does upola mean what does it do what you're what are you trying to do [374](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=374.96s)
+the cypherpunk way of saying it and then the [[solarpunk]] way of saying it is how do we coordinate better how do we give give value to [[public good|public goods]] and you know it's interesting to hear it from your side uh where you're coming from so so so let's pull the thread more tell us about your founding of uh who what does upola mean what does it do what you're what are you trying to do [374](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=374.96s)
 
 with it um like uh are we talking about the whole protocol or just the word impala yeah let's let's let's start in wherever it feels natural for for you and then let's let's cover all those things eventually okay uh yeah i would just i think that's uh like cool to mention that umbala means a [397](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=397.759s)
 
@@ -182,7 +182,7 @@ can instantly bridge bright id to ethereum or bridge idina to ethereum or any ot
 
 over collateralized loans on ethereum but with apollo we can like stake our id and say that if we don't repay our loan please liquidate liquidate me and get your money and this unlocks this collateral stuff right so quite an expansive set of primitives it seems like the different people building on regenerative society [2192](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=2192.72s)
 
-decentralized society could do bridging from chain to chain the ability to consume scores the ability to create scores at at scale what does this sort of hyper structure look like you know what's what's sort of your 10 year vision if you're maximally successful in 10 years what it what what does the world look like how does it differ [2210](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=2210.32s)
+[[decentralized society]] could do bridging from chain to chain the ability to consume scores the ability to create scores at at scale what does this sort of hyper structure look like you know what's what's sort of your 10 year vision if you're maximally successful in 10 years what it what what does the world look like how does it differ [2210](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=2210.32s)
 
 well uh like super successful uh scenario is having real digital identities or identities and of course governments so that that's the hope to let people coordinate and i think that's really comes in alignment with what blockchains can do so what the way i see blockchains is that we [2237](https://www.youtube.com/watch?v=YQDl5ppq4Dw&t=2237.76s)
 

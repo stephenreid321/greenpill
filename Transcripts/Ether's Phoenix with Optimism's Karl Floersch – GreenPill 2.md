@@ -146,7 +146,7 @@ i want to be like plugging the holes and singing and like having a good time as 
 
 have a have a journey have a have fun keep it light you know totally yeah well one of the things i'll say is that if if we're gonna try to plug the holes in the in the ship then it's more fun to do it all together and i find your energy to be completely infectious and there's this feedback loop where we all choose coordinate over defect and the [1702](https://www.youtube.com/watch?v=slMdeSBwC7I&t=1702.88s)
 
-more people choose coordinate the better uh the coordinate decision becomes for everyone else it's that feedback loop that i'm really excited about ether's phoenix you will be rewarded for your coordination in the future [[public good]] solarpunk utopia hello hello this is an ethers phoenix tldr so ethereum is all about building systems which enable mass coordination [1727](https://www.youtube.com/watch?v=slMdeSBwC7I&t=1727.039s)
+more people choose coordinate the better uh the coordinate decision becomes for everyone else it's that feedback loop that i'm really excited about ether's phoenix you will be rewarded for your coordination in the future [[public good]] [[solarpunk]] utopia hello hello this is an ethers phoenix tldr so ethereum is all about building systems which enable mass coordination [1727](https://www.youtube.com/watch?v=slMdeSBwC7I&t=1727.039s)
 
 and the most fundamental coordination game that we're trying to solve in ethereum is the tragedy of the commons aka free rider problem aka prisoners dilemma in these games you have two choices you can either defect or you can cooperate defective defecting maximizes your short-term payouts but cooperation maximizes your long-term [1752](https://www.youtube.com/watch?v=slMdeSBwC7I&t=1752.96s)
 
@@ -166,7 +166,7 @@ and um it's you know you can't get you can't i i feel like very afraid sometimes
 
 let go a little bit it's it's a lot easier to be um to feel good right you're you're maintaining your mental health you're being happy you're you're you know doing that and you're also not afraid of the future and you know that helps with anxiety so anyway it's a it's non-trivial you know but but uh totally [2038](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2038.799s)
 
-but good vibes are important nice for sure yeah um is there anything i didn't ask you that you that you want to say about regen finance crypto economics greenpills solarpunk worlds is there anything i didn't ask that you want to say can i ask you how would you define what is what is [2055](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2055.44s)
+but good vibes are important nice for sure yeah um is there anything i didn't ask you that you that you want to say about regen finance crypto economics greenpills [[solarpunk]] worlds is there anything i didn't ask that you want to say can i ask you how would you define what is what is [2055](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2055.44s)
 
 your uh i just love the term regen finance what is regen finance well back in d5 summer there was this thing called uh d-gens like the d-gen score d-gen became a meme and i think it was kind of focused around people who are gambling with speculation in crypto and uh what i've what we've been trying to [2078](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2078.879s)
 
@@ -174,7 +174,7 @@ do with bitcoin grant's mission is to build and fund the open web we want to cre
 
 about creating a a world where we're focused on a little bit more long-term values where we're focused on creating the world that we want to live in regenerative means that there is positive externalities to the work that you do as opposed to negative externalities and so i think that regenerative crypto economics are mechanisms that create positive [2119](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2119.68s)
 
-externalities and that's what we're trying to meme into existence but i don't know our marketing guy is like kevin just pick a mean is it regen finance are you green killing people are you creating more solarpunk world and i say it's all those things so um yeah i mean what would you call it if you had to if you had to meme the world we're trying to create [2137](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2137.359s)
+externalities and that's what we're trying to meme into existence but i don't know our marketing guy is like kevin just pick a mean is it regen finance are you green killing people are you creating more [[solarpunk]] world and i say it's all those things so um yeah i mean what would you call it if you had to if you had to meme the world we're trying to create [2137](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2137.359s)
 
 i would honestly in i would call it all the things and i'd find one champion for each meme because it's really about telling the stories in different ways and it's all the same story right i really think that we are all saying the same things 99 of the time we're we're all kind of you know we are definitely in this together um in a very real way [2160](https://www.youtube.com/watch?v=slMdeSBwC7I&t=2160.72s)
 
