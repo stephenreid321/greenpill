@@ -9,6 +9,6 @@ Terrapunk is a subgenre of speculative fiction which combines science fiction, f
 > [[metacrisis]], [[solarpunk]], [[decentralized society]], [[public good]], [[collective intelligence]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Terrapunk with Jack Nasjaq – Green Pill 61 (46)
-> * Ethereum is Punk – Green Pill 62 (8)
-> * Solarpunk vs Lunarpunk with Manu Alzuru & Rachel-Rose O'Leary – Green Pill 60 (2)
+> * [[Terrapunk with Jack Nasjaq – Green Pill 61]] (46)
+> * [[Ethereum is Punk – Green Pill 62]] (8)
+> * [[Solarpunk vs Lunarpunk with Manu Alzuru & Rachel-Rose O'Leary – Green Pill 60]] (2)

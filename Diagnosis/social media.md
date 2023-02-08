@@ -9,6 +9,6 @@ Social media is an umbrella term that encompasses internet-based applications an
 > [[web3 social]], [[hypercert]], [[gitcoin grants]], [[smart contract]], [[network effect]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * [[Web3 Social with Stani Kulechov – Green Pill 54]] (13)
 > * [[Decentralized Identity with Gregory Rocco of Spruce – Green Pill 71]] (13)
+> * [[Web3 Social with Stani Kulechov – Green Pill 54]] (13)
 > * [[Unfinished Live with Nathan Schneider - Green Pill 49]] (7)

@@ -11,4 +11,4 @@ A smart contract is a computer protocol intended to digitally facilitate, verify
 > [!info] Podcasts mentioning this term most frequently
 > * [[The Evolution of Chainlink with Sergey Nazarov - Green Pill 41]] (31)
 > * [[Universal Profiles with Fabian Vogelsteller – Green Pill 76]] (9)
-> * [[Speed Run Ethereum with Austin Griffith – Green Pill 29]] (7)
+> * [[Decentralized Identity with Gregory Rocco of Spruce – Green Pill 71]] (7)

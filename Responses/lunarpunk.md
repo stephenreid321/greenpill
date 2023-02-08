@@ -9,6 +9,6 @@ Lunarpunk is a type of speculative fiction that is set in space, focusing on a d
 > [[solarpunk]], [[open source]], [[network effect]], [[terrapunk]], [[decentralized society]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Solarpunk vs Lunarpunk with Manu Alzuru & Rachel-Rose O'Leary – Green Pill 60 (34)
-> * Ethereum is Punk – Green Pill 62 (12)
-> * Terrapunk with Jack Nasjaq – Green Pill 61 (8)
+> * [[Solarpunk vs Lunarpunk with Manu Alzuru & Rachel-Rose O'Leary – Green Pill 60]] (34)
+> * [[Ethereum is Punk – Green Pill 62]] (12)
+> * [[Terrapunk with Jack Nasjaq – Green Pill 61]] (8)

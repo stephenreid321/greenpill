@@ -9,6 +9,6 @@ Hypercert is a digital certification framework that uses blockchain technology t
 > [[impact certificate]], [[smart contract]], [[quadratic funding]], [[network effect]], [[open source]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Hypercerts.xyz with Holke Brammer – Green Pill 66 (26)
-> * Coordination Mechanisms with Griff Green – Green Pill 65 (11)
-> * Retroactive Public Goods Funding Round 2 – Bobby Dresser of Optimism – Green Pill 83 (1)
+> * [[Hypercerts.xyz with Holke Brammer – Green Pill 66]] (26)
+> * [[Coordination Mechanisms with Griff Green – Green Pill 65]] (11)
+> * [[Retroactive Public Goods Funding Round 2 – Bobby Dresser of Optimism – Green Pill 83]] (1)

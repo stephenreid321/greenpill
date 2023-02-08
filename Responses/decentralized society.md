@@ -9,6 +9,6 @@ A decentralized society is an arrangement of individuals and groups in which aut
 > [[web3 social]], [[basic income]], [[network effect]], [[collective intelligence]], [[smart contract]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Decentralized Society - DeSoc – Glen Weyl, Puja Ohlhaver, Leon Erichsen – Green Pill 16 (16)
-> * Announcing Green Pill Season 2 – Regenerative Society (13)
-> * Digital Identity is Not Human Identity with Phillip Sheldrake – Green Pill 72 (6)
+> * [[Decentralized Society - DeSoc – Glen Weyl, Puja Ohlhaver, Leon Erichsen – Green Pill 16]] (16)
+> * [[Announcing Green Pill Season 2 – Regenerative Society]] (13)
+> * [[Digital Identity is Not Human Identity with Phillip Sheldrake – Green Pill 72]] (6)

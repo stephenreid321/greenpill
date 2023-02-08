@@ -9,6 +9,6 @@ Network state is a measure of the current behavior of a network regarded as a sy
 > [[network effect]], [[coordination failure]], [[metacrisis]], [[public good]], [[collective intelligence]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Balaji Srinivasan on the Network State – Green Pill 28 (31)
-> * Evolutionary DAOs with Chase Chapman – Green Pill 34 (9)
-> * MetaLabels with Yancey Strickler – Green Pill 31 (3)
+> * [[Balaji Srinivasan on the Network State – Green Pill 28]] (31)
+> * [[Evolutionary DAOs with Chase Chapman – Green Pill 34]] (9)
+> * [[MetaLabels with Yancey Strickler – Green Pill 31]] (3)

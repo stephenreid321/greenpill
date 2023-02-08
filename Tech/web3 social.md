@@ -9,6 +9,6 @@ Web3 social refers to the next evolution in how people interact and collaborate 
 > [[hypercert]], [[gitcoin grants]], [[collective intelligence]], [[open source]], [[social media]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Web3 Social with Stani Kulechov – Green Pill 54 (14)
-> * Coordination Mechanisms with Griff Green – Green Pill 65 (10)
-> * Decentralized Identity with Gregory Rocco of Spruce – Green Pill 71 (1)
+> * [[Web3 Social with Stani Kulechov – Green Pill 54]] (14)
+> * [[Coordination Mechanisms with Griff Green – Green Pill 65]] (10)
+> * [[Decentralized Identity with Gregory Rocco of Spruce – Green Pill 71]] (1)

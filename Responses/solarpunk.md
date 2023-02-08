@@ -9,6 +9,6 @@ Solarpunk is an emerging genre of speculative fiction that invokes a utopian vis
 > [[local currency]], [[impact network]], [[open source]], [[climate change]], [[collective intelligence]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Terrapunk with Jack Nasjaq – Green Pill 61 (37)
-> * Solarpunk vs Lunarpunk with Manu Alzuru & Rachel-Rose O'Leary – Green Pill 60 (31)
-> * Ethereum is Punk – Green Pill 62 (20)
+> * [[Terrapunk with Jack Nasjaq – Green Pill 61]] (37)
+> * [[Solarpunk vs Lunarpunk with Manu Alzuru & Rachel-Rose O'Leary – Green Pill 60]] (31)
+> * [[Ethereum is Punk – Green Pill 62]] (20)

@@ -9,6 +9,6 @@ Local currency is a medium of exchange issued and accepted within a local commun
 > [[hypercert]], [[impact network]], [[gitcoin grants]], [[regenerative finance]], [[impact certificate]]
 
 > [!info] Podcasts mentioning this term most frequently
-> * Local Currencies & Basic Income – Alain Brenzikofer – Green Pill 79 (14)
-> * Proof of Regeneration with Gregory Landua – Green Pill 9 (8)
-> * Networkologies with Christopher Vitale - Green Pill 50 (8)
+> * [[Local Currencies & Basic Income – Alain Brenzikofer – Green Pill 79]] (14)
+> * [[Proof of Regeneration with Gregory Landua – Green Pill 9]] (8)
+> * [[Networkologies with Christopher Vitale - Green Pill 50]] (8)
