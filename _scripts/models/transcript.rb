@@ -9,32 +9,33 @@ class Transcript < MarkdownRecord
     all.map { |t| t[:youtube_id] }
   end
 
-  def self.create(attributes)
-    attributes[:body] = %(<div class="yt-container"><iframe src="https://www.youtube.com/embed/#{attributes[:youtube_id]}"></iframe></div>\n\n#{attributes[:body]})
-    attributes[:tags] = 'transcript'
-    transcript = super
-    transcript = Transcript.tidy(transcript)
-    transcript = Transcript.backlink(transcript, concepts_with_aliases)
-  end
-
   def self.populate
     concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h
-    YOUTUBE_IDS[0..0].each do |youtube_id|
+
+    YOUTUBE_IDS.each do |youtube_id|
+      puts youtube_id
       r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
       title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
-
       puts title
-      next if File.exist?("Transcripts/#{title}.md") || title.empty?
+      # next if File.exist?("Transcripts/#{title}.md") || title.empty?
 
       r = Faraday.get("https://youtubetranscript.com/?server_vid=#{youtube_id}")
-      xml = r.body
-      body = Nokogiri::XML(xml.strip.downcase.gsub('[', '').gsub(']', '').gsub('</text><text', '</text> <text')).text
-      # body = Nokogiri::XML(r.body).search('transcript').children.map do |node|
-      #   t = node.attributes['start'].value
-      #   "#{node.text.strip.downcase.gsub('[', '').gsub(']', '')} [#{t.split('.').first}](https://www.youtube.com/watch?v=#{youtube_id}&t=#{t}s)"
-      # end.join("\n")
+      xml = r.body.strip.downcase.gsub('[', '').gsub(']', '')
+      body = Nokogiri::XML(xml.gsub('</text><text', '</text> <text')).text
 
-      Transcript.create(title: title, youtube_id: youtube_id, body: body)
+      body = %(<div class="yt-container"><iframe src="https://www.youtube.com/embed/#{youtube_id}"></iframe></div>\n\n#{body})
+      transcript = Transcript.create(title: title, tags: 'transcript', youtube_id: youtube_id, body: body)
+      transcript = Transcript.tidy(transcript)
+      transcript = Transcript.backlink(transcript, concepts_with_aliases)
+
+      Nokogiri::XML(xml).search('transcript').children.each_with_index do |node, i|
+        next unless i > 0 && i % 10 == 0 && transcript[:body].scan(node.text).count == 1
+
+        t = node.attributes['start'].value
+        transcript[:body].sub!(node.text, "#{node.text} [#{t.split('.').first}](https://www.youtube.com/watch?v=#{youtube_id}&t=#{t}s)\n\n")
+      end
+      transcript[:body] = transcript[:body].split("\n\n").map { |line| line.strip }.join("\n\n")
+      Transcript.update(transcript)
     end
   end
 
@@ -57,12 +58,14 @@ class Transcript < MarkdownRecord
 
   def self.backlink(t, concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h)
     body = t[:body]
+    transcript = nil
     concepts_with_aliases.each do |primary, terms|
       terms.each do |term|
         body.gsub!(/(?<!\[\[)\b#{term}\b(?!\]\])/, primary == term ? "[[#{primary}]]" : "[[#{primary}|#{term}]]")
       end
-      Transcript.update(title: t[:title], body: body)
+      transcript = Transcript.update(title: t[:title], body: body)
     end
+    transcript
   end
 
   def self.mentions(attributes)
