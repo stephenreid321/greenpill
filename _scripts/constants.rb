@@ -36,7 +36,10 @@ SPACED_TERMS_TO_UNSPACE = [
   'green pill',
   'solar punk',
   'lunar punk',
-  'git coin'
+  'terra punk',
+  'git coin',
+  'hyper cert',
+  'hyper certs'
 ]
 
 SPACED_TERMS_TO_DASH = [
@@ -48,5 +51,7 @@ SPACED_TERMS_TO_DASH = [
 CORRECTIONS = {
   'civil resistance' => 'sybil resistance',
   'bitcoin grants' => 'gitcoin grants',
-  'shelling point' => 'schelling point'
+  'shelling point' => 'schelling point',
+  'terapunk' => 'terrapunk',
+  'tara punk' => 'terrapunk'
 }

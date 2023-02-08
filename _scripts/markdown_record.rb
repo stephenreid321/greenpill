@@ -97,11 +97,11 @@ class MarkdownRecord
 
           #{(titles - [attributes[:title]]).join(', ')}.
 
-          Return the result as a comma-separated list without a period at the end, e.g. 'term1, term2, term3, term4, term5'" }.to_json
+          Return the result as a comma-separated list, e.g. 'term1, term2, term3, term4, term5'" }.to_json
       end
       puts JSON.parse(openapi_response.body)
       body = JSON.parse(openapi_response.body)['choices'].first['text'].strip if JSON.parse(openapi_response.body)['choices']
     end
-    set_callout(attributes, 'See also', body.split(', ').map { |t| "[[#{t.downcase}]]" }.join(', '))
+    set_callout(attributes, 'example', 'See also', body.gsub('.','').split(', ').map { |t| "[[#{t.downcase}]]" }.join(', '))
   end
 end

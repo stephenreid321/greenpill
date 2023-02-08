@@ -12,15 +12,28 @@ class Transcript < MarkdownRecord
   def self.populate
     concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h
 
-    YOUTUBE_IDS.each do |youtube_id|
+    YOUTUBE_IDS.each_with_index do |youtube_id, i|
+      puts "#{i + 1}/#{YOUTUBE_IDS.count}"
       puts youtube_id
-      r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
-      title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
-      puts title
-      # next if File.exist?("Transcripts/#{title}.md") || title.empty?
 
-      r = Faraday.get("https://youtubetranscript.com/?server_vid=#{youtube_id}")
-      xml = r.body.strip.downcase.gsub('[', '').gsub(']', '')
+      if t = Transcript.all.find { |t| t[:youtube_id] == youtube_id }
+        title = t[:title]
+        puts "found #{title}"
+      else
+        r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
+        title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
+        puts "fetched #{title}"
+      end
+
+      if File.exist?("_transcripts/#{youtube_id}.xml")
+        xml = File.read("_transcripts/#{youtube_id}.xml")
+      else
+        r = Faraday.get("https://youtubetranscript.com/?server_vid=#{youtube_id}")
+        xml = r.body
+        File.write("_transcripts/#{youtube_id}.xml", xml)
+      end
+
+      xml = xml.strip.downcase.gsub('[', '').gsub(']', '')
       body = Nokogiri::XML(xml.gsub('</text><text', '</text> <text')).text
 
       body = %(<div class="yt-container"><iframe src="https://www.youtube.com/embed/#{youtube_id}"></iframe></div>\n\n#{body})
