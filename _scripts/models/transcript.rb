@@ -9,9 +9,17 @@ class Transcript < MarkdownRecord
     all.map { |t| t[:youtube_id] }
   end
 
+  def self.create(attributes)
+    attributes[:body] = %(<div class="yt-container"><iframe src="https://www.youtube.com/embed/#{attributes[:youtube_id]}"></iframe></div>\n\n#{attributes[:body]})
+    attributes[:tags] = 'transcript'
+    transcript = super
+    transcript = Transcript.tidy(transcript)
+    transcript = Transcript.backlink(transcript, concepts_with_aliases)
+  end
+
   def self.populate
     concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h
-    YOUTUBE_IDS.each do |youtube_id|
+    YOUTUBE_IDS[0..0].each do |youtube_id|
       r = Faraday.get("https://www.youtube.com/watch?v=#{youtube_id}")
       title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
 
@@ -19,15 +27,14 @@ class Transcript < MarkdownRecord
       next if File.exist?("Transcripts/#{title}.md") || title.empty?
 
       r = Faraday.get("https://youtubetranscript.com/?server_vid=#{youtube_id}")
-      body = Nokogiri::XML(r.body.strip.downcase.gsub('[', '').gsub(']', '').gsub('</text><text', '</text> <text')).text
+      xml = r.body
+      body = Nokogiri::XML(xml.strip.downcase.gsub('[', '').gsub(']', '').gsub('</text><text', '</text> <text')).text
       # body = Nokogiri::XML(r.body).search('transcript').children.map do |node|
       #   t = node.attributes['start'].value
       #   "#{node.text.strip.downcase.gsub('[', '').gsub(']', '')} [#{t.split('.').first}](https://www.youtube.com/watch?v=#{youtube_id}&t=#{t}s)"
       # end.join("\n")
 
-      transcript = Transcript.create(title: title, tags: 'transcript', youtube_id: youtube_id, body: body)
-      transcript = Transcript.tidy(transcript)
-      transcript = Transcript.backlink(transcript, concepts_with_aliases)
+      Transcript.create(title: title, youtube_id: youtube_id, body: body)
     end
   end
 
