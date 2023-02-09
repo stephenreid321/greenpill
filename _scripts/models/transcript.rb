@@ -24,6 +24,8 @@ class Transcript < MarkdownRecord
         title = CGI.unescapeHTML(r.body.match(%r{<title>(.+)</title>})[1]).force_encoding('UTF-8').gsub('|', '–').gsub('/', ' ').gsub('#', '').gsub(' - YouTube', '')
         puts "fetched #{title}"
       end
+    
+      next unless !TITLE_REQUIREMENTS || TITLE_REQUIREMENTS.any? { |word| title.match(/#{word}/i) }
 
       if File.exist?("_transcripts/#{youtube_id}.xml")
         xml = File.read("_transcripts/#{youtube_id}.xml")
@@ -52,8 +54,8 @@ class Transcript < MarkdownRecord
     end
   end
 
-  def self.tidy(t)
-    body = t[:body]
+  def self.tidy(transcript)
+    body = transcript[:body]
     DASHED_TERMS_TO_UNDASH.each do |term|
       body = body.gsub(/#{term}/i, term.gsub('-', ''))
     end
@@ -66,17 +68,16 @@ class Transcript < MarkdownRecord
     CORRECTIONS.each do |term, correction|
       body = body.gsub(/#{term}/i, correction)
     end
-    Transcript.update(title: t[:title], body: body)
+    Transcript.update(title: transcript[:title], body: body)
   end
 
-  def self.backlink(t, concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h)
-    body = t[:body]
-    transcript = nil
+  def self.backlink(transcript, concepts_with_aliases = Concept.all.map { |c| [c[:title], [c[:title]] + (c[:aliases] ? c[:aliases].split(', ') : [])] }.to_h)
+    body = transcript[:body]
     concepts_with_aliases.each do |primary, terms|
       terms.each do |term|
         body.gsub!(/(?<!\[\[)\b#{term}\b(?!\]\])/, primary == term ? "[[#{primary}]]" : "[[#{primary}|#{term}]]")
       end
-      transcript = Transcript.update(title: t[:title], body: body)
+      transcript = Transcript.update(title: transcript[:title], body: body)
     end
     transcript
   end

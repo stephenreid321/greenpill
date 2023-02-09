@@ -78,7 +78,7 @@ class MarkdownRecord
     until body
       openapi_response = OPENAI.post('completions') do |req|
         req.body = { model: 'text-davinci-003', max_tokens: 1024, prompt:
-          "Provide a postgraduate-level definition of the term '#{title}'.
+          "Provide a postgraduate-level definition of the term '#{title}'#{", #{CONTEXT}" if CONTEXT} .
 
         The definition should be 1 paragraph, maximum 150 words." }.to_json
       end

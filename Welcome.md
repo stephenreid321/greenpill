@@ -9,6 +9,7 @@ Github: https://github.com/stephenreid321/greenpill
 * `/_scripts` (not visible on Obsidian/Obsidian Publish) contains the Ruby scripts that supercharge the knowledgebase, including `MarkdownRecord` that provides an ORM-like syntax for manipulating Markdown files
 
 ## Todos
+- [ ] Add articles by Owocki
 - [ ] Find a way of including terms that contain other terms e.g. 'public goods' & 'retroactive public goods funding'
 - [ ] Merge this with [metacrisis.net](https://metacrisis.net)?
 - [ ] AI-generated audio/video using tools like [synthesia.io](https://www.synthesia.io/) or [elai.io](https://elai.io) 
